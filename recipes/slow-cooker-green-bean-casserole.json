@@ -69,12 +69,26 @@
     }
   ],
   "instructions": [
-    "Lightly grease the inside of the slow cooker with non-stick spray or butter.",
-    "In a large bowl, mix together the cream of mushroom soup, milk, cheddar cheese, sour cream, garlic powder, onion powder, and black pepper until smooth.",
-    "Place green beans (and mushrooms if using) in the slow cooker. Pour the soup mixture over and stir to coat evenly. Sprinkle 1 cup of fried onions over the top.",
-    "Cover and cook on Low for 4\u20135 hours or High for 2\u20133 hours, until green beans are tender.",
-    "About 15\u201320 minutes before serving, sprinkle extra fried onions over the top. Cover and cook an additional 15\u201320 minutes to heat the topping.",
-    "Stir lightly before serving or scoop directly into bowls."
+    {
+      "time_cue": "T\u20135 hrs",
+      "text": "Lightly grease the inside of the slow cooker with non-stick spray or butter."
+    },
+    {
+      "time_cue": "T\u20135 hrs",
+      "text": "In a large bowl, mix together the cream of mushroom soup, milk, cheddar cheese, sour cream, garlic powder, onion powder, and black pepper until smooth."
+    },
+    {
+      "time_cue": "T\u20135 hrs",
+      "text": "Place green beans (and mushrooms if using) in the slow cooker. Pour the soup mixture over and stir to coat evenly. Sprinkle 1 cup of fried onions over the top."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Cover and cook on Low for 4\u20135 hours or High for 2\u20133 hours, until green beans are tender."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Sprinkle extra fried onions over the top. Cover and cook an additional 15\u201320 minutes to heat the topping. Stir lightly before serving."
+    }
   ],
   "notes": "If using fresh green beans, blanch them briefly before adding to the slow cooker for better texture.\n\nServes 8\u201310 as a side dish at a holiday meal with multiple sides. Halves easily for a smaller crowd.\n\nA good make-ahead option \u2014 assemble everything except the final onion topping, refrigerate overnight, and start the slow cooker the next day."
 }
