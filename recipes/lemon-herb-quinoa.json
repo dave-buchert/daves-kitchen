@@ -1,0 +1,72 @@
+{
+  "slug": "lemon-herb-quinoa",
+  "title": "Lemon Herb Quinoa",
+  "description": "Light, bright, and protein-forward \u2014 works as a side or base. Scales easily for batch cooking.",
+  "cuisine": "Mediterranean",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 5,
+  "cook_time_minutes": 20,
+  "servings": 4,
+  "is_side": true,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "0.8",
+      "unit": "cup",
+      "name": "quinoa, rinsed"
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "water or low-sodium chicken broth"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, zested and juiced"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "0.3",
+      "unit": "cup",
+      "name": "fresh parsley, chopped"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh mint or basil, chopped"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "kosher salt"
+    },
+    {
+      "amount": "0.3",
+      "unit": "tsp",
+      "name": "black pepper"
+    }
+  ],
+  "instructions": [
+    "Combine quinoa and water or broth in a saucepan. Bring to a boil, then reduce to a low simmer, cover, and cook until liquid is absorbed, about 15 minutes.",
+    "Remove from heat and let sit covered for 5 minutes \u2014 this finishes the steam and keeps it fluffy, not mushy.",
+    "While quinoa rests, whisk together olive oil, lemon juice and zest, and minced garlic.",
+    "Fluff quinoa with a fork, pour dressing over, and fold in parsley and mint or basil. Season with salt and pepper. Serve warm or at room temperature."
+  ],
+  "notes": "Use broth instead of water for more depth. Mint gives it a fresher feel; basil is earthier \u2014 either works.\n\nKeeps well refrigerated for 3\u20134 days, making it a good Sunday batch-cook candidate. Add a handful of arugula or spinach folded in at the end if you want more greens in the meal."
+}
