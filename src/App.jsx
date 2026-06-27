@@ -1,32 +1,23 @@
 import { useState, useEffect } from "react";
 
-const SUPABASE_URL = "https://xyzqljtxugpuxlcrvuuz.supabase.co";
-const SUPABASE_KEY = "sb_publishable_j3A112sjGWmwHe0jeZ0_Sw_62ElhAH3";
+const GITHUB_RAW = "https://raw.githubusercontent.com/dave-buchert/daves-kitchen/main/recipes";
+const GITHUB_API = "https://api.github.com/repos/dave-buchert/daves-kitchen/contents/recipes";
 
-const headers = {
-  "apikey": SUPABASE_KEY,
-  "Authorization": `Bearer ${SUPABASE_KEY}`,
-  "Content-Type": "application/json",
-};
+async function fetchRecipeList() {
+  const res = await fetch(GITHUB_API);
+  const files = await res.json();
+  return files.filter(f => f.name.endsWith(".json")).map(f => f.name.replace(".json", ""));
+}
 
-async function fetchRecipes() {
-  const res = await fetch(`${SUPABASE_URL}/rest/v1/recipes?select=*&order=created_at.desc`, { headers });
+async function fetchRecipe(slug) {
+  const res = await fetch(`${GITHUB_RAW}/${slug}.json?cache=${Date.now()}`);
   return res.json();
 }
 
-async function fetchRecipeBySlug(slug) {
-  const res = await fetch(`${SUPABASE_URL}/rest/v1/recipes?slug=eq.${slug}&select=*`, { headers });
-  const data = await res.json();
-  return data[0];
-}
-
-async function fetchCollections() {
-  const res = await fetch(`${SUPABASE_URL}/rest/v1/collections?select=*`, { headers });
-  return res.json();
-}
-
-function slugify(title) {
-  return title.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+async function fetchAllRecipes() {
+  const slugs = await fetchRecipeList();
+  const recipes = await Promise.all(slugs.map(fetchRecipe));
+  return recipes;
 }
 
 function Badge({ label, color = "coral" }) {
@@ -50,7 +41,6 @@ function Header({ onHome, searchQuery, setSearchQuery }) {
   return (
     <header style={{
       background: "#444441",
-      padding: "0 0 0 0",
       position: "sticky", top: 0, zIndex: 100,
       boxShadow: "0 1px 3px rgba(0,0,0,0.2)",
     }}>
@@ -144,6 +134,7 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
 
   useEffect(() => {
     window.history.pushState({}, "", `/recipe/${recipe.slug}`);
+    window.scrollTo(0, 0);
     return () => window.history.pushState({}, "", "/");
   }, [recipe.slug]);
 
@@ -166,11 +157,6 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
         {recipe.is_side && <Badge label="Side dish" color="green" />}
       </div>
 
-      {recipe.subtitle && (
-        <p style={{ margin: "0 0 8px", fontSize: 16, color: "#5F5E5A", fontStyle: "italic" }}>
-          {recipe.subtitle}
-        </p>
-      )}
       {recipe.description && (
         <p style={{ margin: "0 0 20px", fontSize: 15, color: "#444441", lineHeight: 1.6 }}>
           {recipe.description}
@@ -214,10 +200,10 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
           <h2 style={{ fontSize: 18, fontWeight: 600, color: "#2C2C2A", marginBottom: 14, fontFamily: "Georgia, serif" }}>
             Ingredients
           </h2>
-          <ul style={{ margin: 0, padding: 0, listStyle: "none", display: "flex", flexDirection: "column", gap: 8 }}>
+          <ul style={{ margin: 0, padding: 0, listStyle: "none", display: "flex", flexDirection: "column", gap: 0 }}>
             {recipe.ingredients.map((ing, i) => (
-              <li key={i} style={{ display: "flex", gap: 12, alignItems: "baseline", padding: "8px 0", borderBottom: "1px solid #F5EDE8", fontSize: 15 }}>
-                <span style={{ minWidth: 80, color: "#993C1D", fontWeight: 500 }}>
+              <li key={i} style={{ display: "flex", gap: 12, alignItems: "baseline", padding: "10px 0", borderBottom: "1px solid #F5EDE8", fontSize: 15 }}>
+                <span style={{ minWidth: 90, color: "#993C1D", fontWeight: 500 }}>
                   {scaleAmount(ing.amount)}{ing.unit ? ` ${ing.unit}` : ""}
                 </span>
                 <span style={{ color: "#2C2C2A" }}>{ing.name}</span>
@@ -240,7 +226,7 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
                   minWidth: 28, height: 28, borderRadius: "50%",
                   background: "#444441", color: "#F1EFE8",
                   display: "flex", alignItems: "center", justifyContent: "center",
-                  fontSize: 13, fontWeight: 600, flexShrink: 0, marginTop: 1,
+                  fontSize: 13, fontWeight: 600, flexShrink: 0, marginTop: 2,
                 }}>{i + 1}</span>
                 <p style={{ margin: 0, fontSize: 15, color: "#2C2C2A", lineHeight: 1.7 }}>{step}</p>
               </li>
@@ -314,15 +300,15 @@ function FilterBar({ filters, setFilters, recipes }) {
 export default function App() {
   const [recipes, setRecipes] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
   const [currentSlug, setCurrentSlug] = useState(null);
   const [searchQuery, setSearchQuery] = useState("");
   const [filters, setFilters] = useState({ cuisine: "", meal_type: "", protein: "", is_side: "" });
 
   useEffect(() => {
-    fetchRecipes().then(data => {
-      setRecipes(Array.isArray(data) ? data : []);
-      setLoading(false);
-    });
+    fetchAllRecipes()
+      .then(data => { setRecipes(data); setLoading(false); })
+      .catch(e => { setError(e.message); setLoading(false); });
 
     const slug = window.location.pathname.match(/\/recipe\/(.+)/)?.[1];
     if (slug) setCurrentSlug(slug);
@@ -367,17 +353,20 @@ export default function App() {
         />
       ) : (
         <main style={{ maxWidth: 900, margin: "0 auto", padding: "32px 24px" }}>
-          {loading ? (
+          {loading && (
             <div style={{ textAlign: "center", color: "#888780", padding: 60 }}>Loading recipes...</div>
-          ) : recipes.length === 0 ? (
+          )}
+          {error && (
+            <div style={{ textAlign: "center", color: "#993C1D", padding: 60 }}>Error loading recipes: {error}</div>
+          )}
+          {!loading && !error && recipes.length === 0 && (
             <div style={{ textAlign: "center", color: "#888780", padding: 60 }}>
               <div style={{ fontSize: 18, marginBottom: 8 }}>No recipes yet</div>
-              <div style={{ fontSize: 14 }}>Ask Claude to add the first one.</div>
             </div>
-          ) : (
+          )}
+          {!loading && !error && recipes.length > 0 && (
             <>
               <FilterBar filters={filters} setFilters={setFilters} recipes={recipes} />
-
               {mains.length > 0 && (
                 <section style={{ marginBottom: 40 }}>
                   <h2 style={{ fontSize: 16, fontWeight: 600, color: "#888780", textTransform: "uppercase", letterSpacing: 1, marginBottom: 16 }}>
@@ -388,7 +377,6 @@ export default function App() {
                   </div>
                 </section>
               )}
-
               {sides.length > 0 && (
                 <section>
                   <h2 style={{ fontSize: 16, fontWeight: 600, color: "#888780", textTransform: "uppercase", letterSpacing: 1, marginBottom: 16 }}>
@@ -399,11 +387,8 @@ export default function App() {
                   </div>
                 </section>
               )}
-
               {filtered.length === 0 && (
-                <div style={{ textAlign: "center", color: "#888780", padding: 60 }}>
-                  No recipes match your search.
-                </div>
+                <div style={{ textAlign: "center", color: "#888780", padding: 60 }}>No recipes match your search.</div>
               )}
             </>
           )}
