@@ -1,0 +1,80 @@
+{
+  "slug": "slow-cooker-green-bean-casserole",
+  "title": "Slow Cooker Green Bean Casserole",
+  "description": "Creamy, cheesy green bean casserole made in the slow cooker \u2014 frees up oven space for holidays and gatherings. Easy to make ahead.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 300,
+  "servings": 9,
+  "is_side": true,
+  "pairs_with": [
+    "brown-sugar-mustard-glazed-ham",
+    "jens-slow-cooker-beef-stew"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "lbs",
+      "name": "fresh green beans, trimmed and cut into bite-sized pieces (or 2 cans, drained)"
+    },
+    {
+      "amount": "1",
+      "unit": "10.5-oz can",
+      "name": "condensed cream of mushroom soup"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded cheddar cheese"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "sour cream"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "garlic powder"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "onion powder"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fried onions, plus extra for topping"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "sliced mushrooms, saut\u00e9ed (optional)"
+    }
+  ],
+  "instructions": [
+    "Lightly grease the inside of the slow cooker with non-stick spray or butter.",
+    "In a large bowl, mix together the cream of mushroom soup, milk, cheddar cheese, sour cream, garlic powder, onion powder, and black pepper until smooth.",
+    "Place green beans (and mushrooms if using) in the slow cooker. Pour the soup mixture over and stir to coat evenly. Sprinkle 1 cup of fried onions over the top.",
+    "Cover and cook on Low for 4\u20135 hours or High for 2\u20133 hours, until green beans are tender.",
+    "About 15\u201320 minutes before serving, sprinkle extra fried onions over the top. Cover and cook an additional 15\u201320 minutes to heat the topping.",
+    "Stir lightly before serving or scoop directly into bowls."
+  ],
+  "notes": "If using fresh green beans, blanch them briefly before adding to the slow cooker for better texture.\n\nServes 8\u201310 as a side dish at a holiday meal with multiple sides. Halves easily for a smaller crowd.\n\nA good make-ahead option \u2014 assemble everything except the final onion topping, refrigerate overnight, and start the slow cooker the next day."
+}
