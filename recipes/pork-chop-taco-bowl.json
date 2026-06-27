@@ -1,0 +1,101 @@
+{
+  "slug": "pork-chop-taco-bowl",
+  "title": "Pork Chop Taco Bowl",
+  "description": "Seared spice-rubbed pork chops over greens and black beans, with pico de gallo, avocado, and lime crema. About 35 minutes active time. High protein.",
+  "cuisine": "Mexican",
+  "meal_type": "Dinner",
+  "protein": "Pork",
+  "dietary": [
+    "High Protein",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 15,
+  "servings": 2,
+  "is_side": false,
+  "pairs_with": [
+    "pico-de-gallo"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "boneless pork loin chops (~6 oz each)"
+    },
+    {
+      "amount": "1",
+      "unit": "can",
+      "name": "black beans, drained and rinsed"
+    },
+    {
+      "amount": "2",
+      "unit": "handfuls",
+      "name": "baby spring lettuce and spinach"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "ripe avocado, sliced"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "avocado oil"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "smoked paprika"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "garlic powder"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "oregano"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "chili powder"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "Straus 0% yogurt"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "lime, juiced (for crema)"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "cumin and garlic powder (for crema)"
+    }
+  ],
+  "instructions": [
+    "Make the pico de gallo (see linked recipe). Set aside at least 20 minutes to rest and develop flavor.",
+    "Make the lime crema: mix yogurt with lime juice, a pinch of cumin, garlic powder, and salt. Thin with a few drops of water if needed. Refrigerate until plating.",
+    "Pat pork chops dry \u2014 critical for a good sear. Combine cumin, smoked paprika, garlic powder, oregano, chili powder, salt, and pepper. Coat both sides. Rest at room temperature while the pan heats.",
+    "Drain and rinse black beans. Warm in a small saucepan over low heat with a pinch of cumin and salt. Keep on low until ready to plate.",
+    "Heat pan to medium-high (induction level 6\u20137). Add avocado oil. When oil shimmers, add chops and sear 3\u20134 minutes per side without moving. For thick chops, finish in a 400\u00b0F oven for 8\u201312 minutes until internal temp reaches 145\u00b0F.",
+    "Rest chops 5 minutes on a cutting board \u2014 do not skip. Slice into strips against the grain or cube. A pink center at 145\u00b0F is safe.",
+    "Build the bowls: start with lettuce and spinach, add warm black beans, layer pork on top, add avocado and pico de gallo, drizzle lime crema over everything, and squeeze remaining lime over the top."
+  ],
+  "notes": "Rough protein per full bowl: ~55\u201358g from pork, beans, and yogurt crema.\n\nPico de gallo is listed as a separate recipe and links to it automatically. Make it first \u2014 it needs at least 20 minutes to rest."
+}
