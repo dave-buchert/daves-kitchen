@@ -1,0 +1,85 @@
+{
+  "slug": "apple-coleslaw-cranberries-pecans",
+  "title": "Apple Coleslaw with Cranberries and Pecans",
+  "description": "Shredded cabbage, apple, and dried cranberries tossed in a creamy maple balsamic dressing, topped with candied pecans. Sweet, savory, crunchy. Holds up well and can be made ahead.",
+  "cuisine": "American",
+  "meal_type": "Salad",
+  "protein": null,
+  "dietary": [
+    "Vegetarian"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 0,
+  "servings": 8,
+  "is_side": true,
+  "pairs_with": [],
+  "source_url": "https://www.bowlofdelicious.com/wprm_print/apple-coleslaw-with-cranberries-and-pecans",
+  "ingredients": [
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "mayonnaise"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "balsamic vinegar"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra-virgin olive oil"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "maple syrup"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "kosher salt, plus more to taste"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper, plus more to taste"
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "shredded green cabbage (about half a head)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "large apple, cut into matchsticks"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "red onion, thinly sliced"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "dried cranberries"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh parsley, chopped"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "candied pecans, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the mayonnaise, balsamic vinegar, olive oil, maple syrup, salt, and pepper until smooth.",
+    "Add the cabbage, apple, red onion, cranberries, parsley, and pecans.",
+    "Toss everything together well. Taste and adjust seasoning. Serve immediately or cover and refrigerate for 30 minutes to let the flavors meld."
+  ],
+  "notes": "Best served within 30 minutes of tossing. To make ahead, mix the dressing separately and combine just before serving. That said, leftovers hold up well even the next day.\n\nServes 8 as a side or 4 as a more substantial salad. Pairs well with roasted chicken or any grilled protein.\n\nCandied pecans can be found with the nuts at most grocery stores. Toasted almonds, pistachios, pepitas, or sunflower seeds all work as alternatives."
+}
