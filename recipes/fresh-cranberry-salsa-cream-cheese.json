@@ -57,10 +57,18 @@
     }
   ],
   "instructions": [
-    "Place cranberries, jalape\u00f1os, green onions, and cilantro in a food processor and pulse until finely chopped.",
-    "Transfer to a bowl and stir in lime juice, salt, and sugar. Taste and adjust sweetness as needed.",
-    "Refrigerate for at least 2 hours to let the flavors develop.",
-    "To serve, spread one block of cream cheese evenly in a pie plate or shallow serving dish. Spoon salsa over the top. Serve with crackers."
+    {
+      "time_cue": "T\u20132+ hrs",
+      "text": "Place cranberries, jalape\u00f1os, green onions, and cilantro in a food processor and pulse until finely chopped."
+    },
+    {
+      "time_cue": "T\u20132 hrs",
+      "text": "Transfer to a bowl and stir in lime juice, salt, and sugar. Taste and adjust sweetness as needed. Refrigerate for at least 2 hours to let the flavors develop."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Spread one block of cream cheese evenly in a pie plate or shallow serving dish. Spoon salsa over the top. Serve with crackers."
+    }
   ],
   "notes": "One batch of salsa is enough for both blocks of cream cheese. Serve over one block at a time and refrigerate the remaining salsa for up to a few days.\n\nAdjust freely: more onion and cilantro add brightness; more jalape\u00f1o adds heat. The sugar level is also a matter of taste \u2014 start with half a cup and add from there.\n\nGluten-free as written; just pair with GF crackers to keep it that way."
 }
