@@ -202,12 +202,11 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
           </h2>
           <ul style={{ margin: 0, padding: 0, listStyle: "none", display: "flex", flexDirection: "column", gap: 0 }}>
             {recipe.ingredients.map((ing, i) => (
-              <li key={i} style={{ display: "flex", gap: 12, alignItems: "baseline", padding: "10px 0", borderBottom: "1px solid #F5EDE8", fontSize: 15 }}>
-                <span style={{ minWidth: 90, color: "#993C1D", fontWeight: 500 }}>
+              <li key={i} style={{ padding: "10px 0", borderBottom: "1px solid #F5EDE8", fontSize: 15, color: "#2C2C2A", userSelect: "text" }}>
+                <span style={{ color: "#993C1D", fontWeight: 500 }}>
                   {scaleAmount(ing.amount)}{ing.unit ? ` ${ing.unit}` : ""}
                 </span>
-                <span style={{ color: "#2C2C2A" }}>{ing.name}</span>
-                {ing.note && <span style={{ color: "#888780", fontSize: 13, fontStyle: "italic" }}>{ing.note}</span>}
+                {" "}{ing.name}{ing.note ? <span style={{ color: "#888780", fontSize: 13, fontStyle: "italic" }}> — {ing.note}</span> : null}
               </li>
             ))}
           </ul>
