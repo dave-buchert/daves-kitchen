@@ -1,0 +1,66 @@
+{
+  "slug": "fresh-cranberry-salsa-cream-cheese",
+  "title": "Fresh Cranberry Salsa with Cream Cheese",
+  "description": "Bright, tart cranberry salsa with jalape\u00f1o, green onion, and cilantro, spooned over cream cheese and served with crackers. A crowd-pleasing appetizer that comes together fast.",
+  "cuisine": "American",
+  "meal_type": "Appetizer",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 0,
+  "servings": 16,
+  "is_side": false,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "oz",
+      "name": "fresh cranberries, washed"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "jalape\u00f1os, minced (adjust to taste)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "green onions, sliced and roughly chopped"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "fresh cilantro, roughly chopped"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tbsp",
+      "name": "lime or lemon juice"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "kosher salt"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "sugar, plus more to taste"
+    },
+    {
+      "amount": "2",
+      "unit": "8-oz blocks",
+      "name": "cream cheese, at room temperature"
+    }
+  ],
+  "instructions": [
+    "Place cranberries, jalape\u00f1os, green onions, and cilantro in a food processor and pulse until finely chopped.",
+    "Transfer to a bowl and stir in lime juice, salt, and sugar. Taste and adjust sweetness as needed.",
+    "Refrigerate for at least 2 hours to let the flavors develop.",
+    "To serve, spread one block of cream cheese evenly in a pie plate or shallow serving dish. Spoon salsa over the top. Serve with crackers."
+  ],
+  "notes": "One batch of salsa is enough for both blocks of cream cheese. Serve over one block at a time and refrigerate the remaining salsa for up to a few days.\n\nAdjust freely: more onion and cilantro add brightness; more jalape\u00f1o adds heat. The sugar level is also a matter of taste \u2014 start with half a cup and add from there.\n\nGluten-free as written; just pair with GF crackers to keep it that way."
+}
