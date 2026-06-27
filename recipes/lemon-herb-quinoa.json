@@ -63,10 +63,22 @@
     }
   ],
   "instructions": [
-    "Combine quinoa and water or broth in a saucepan. Bring to a boil, then reduce to a low simmer, cover, and cook until liquid is absorbed, about 15 minutes.",
-    "Remove from heat and let sit covered for 5 minutes \u2014 this finishes the steam and keeps it fluffy, not mushy.",
-    "While quinoa rests, whisk together olive oil, lemon juice and zest, and minced garlic.",
-    "Fluff quinoa with a fork, pour dressing over, and fold in parsley and mint or basil. Season with salt and pepper. Serve warm or at room temperature."
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Combine quinoa and water or broth in a saucepan. Bring to a boil, then reduce to a low simmer, cover, and cook until liquid is absorbed, about 15 minutes."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Remove from heat and let sit covered for 5 minutes \u2014 this finishes the steam and keeps it fluffy, not mushy."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "While quinoa rests, whisk together olive oil, lemon juice and zest, and minced garlic."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Fluff quinoa with a fork, pour dressing over, and fold in parsley and mint or basil. Season with salt and pepper. Serve warm or at room temperature."
+    }
   ],
   "notes": "Use broth instead of water for more depth. Mint gives it a fresher feel; basil is earthier \u2014 either works.\n\nKeeps well refrigerated for 3\u20134 days, making it a good Sunday batch-cook candidate. Add a handful of arugula or spinach folded in at the end if you want more greens in the meal."
 }
