@@ -81,11 +81,26 @@
     }
   ],
   "instructions": [
-    "Heat olive oil in a skillet over medium-high heat. Add minced garlic and stir for 30 seconds. Add ground turkey and break apart with a spatula. Season with cumin, smoked paprika, salt, and pepper. Cook until no pink remains.",
-    "Halve the avocado and remove the pit. Mash in a small bowl with lemon or lime juice and a pinch of salt and pepper. Keep it chunky.",
-    "Lay wraps flat. Spread mustard across the center, leaving a 2-inch border at the bottom edge.",
-    "Layer baby spinach first, then a generous scoop of cooked turkey, then tomato and red onion. Spoon mashed avocado over the top.",
-    "Fold the bottom edge up and over the filling. Fold in both sides firmly. Roll away from you, keeping it tight. Slice diagonally in half."
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Heat olive oil in a skillet over medium-high heat. Add minced garlic and stir for 30 seconds. Add ground turkey and break apart with a spatula. Season with cumin, smoked paprika, salt, and pepper. Cook until no pink remains."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Halve the avocado and remove the pit. Mash in a small bowl with lemon or lime juice and a pinch of salt and pepper. Keep it chunky."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Lay wraps flat. Spread mustard across the center, leaving a 2-inch border at the bottom edge."
+    },
+    {
+      "time_cue": "T\u20133 min",
+      "text": "Layer baby spinach first, then a generous scoop of cooked turkey, then tomato and red onion. Spoon mashed avocado over the top."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Fold the bottom edge up and over the filling. Fold in both sides firmly. Roll away from you, keeping it tight. Slice diagonally in half."
+    }
   ],
   "notes": "Ground turkey dries out fast \u2014 pull it off heat as soon as the pink is gone. Add a side of Straus yogurt or a handful of walnuts to push this meal toward 50g protein."
 }
