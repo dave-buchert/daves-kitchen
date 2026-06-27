@@ -62,11 +62,26 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400\u00b0F. Wrap beets individually in foil and roast until a knife slides in easily, about 50\u201360 minutes. Let cool enough to handle, then rub skins off with a paper towel. Cut into bite-sized wedges or cubes.",
-    "While beets roast, toast walnuts in a dry pan over medium heat for 4\u20135 minutes, stirring frequently, until fragrant. Watch closely \u2014 they burn fast. Set aside.",
-    "Whisk together walnut oil, balsamic vinegar, Dijon mustard, salt, and pepper in a small bowl until emulsified.",
-    "Soak red onion in cold water for 10 minutes to mellow the sharpness. Drain and pat dry.",
-    "Toss warm or room-temperature beets with the red onion and dressing. Top with toasted walnuts and green onions. Serve immediately or refrigerate \u2014 it holds well and improves after a few hours."
+    {
+      "time_cue": "T\u201360 min",
+      "text": "Preheat oven to 400\u00b0F. Wrap beets individually in foil and roast until a knife slides in easily, about 50\u201360 minutes. Let cool enough to handle, then rub skins off with a paper towel. Cut into bite-sized wedges or cubes."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "While beets roast, toast walnuts in a dry pan over medium heat for 4\u20135 minutes, stirring frequently, until fragrant. Watch closely \u2014 they burn fast. Set aside."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Whisk together walnut oil, balsamic vinegar, Dijon mustard, salt, and pepper in a small bowl until emulsified."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Soak red onion in cold water for 10 minutes to mellow the sharpness. Drain and pat dry."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Toss warm or room-temperature beets with the red onion and dressing. Top with toasted walnuts and green onions. Serve immediately or refrigerate \u2014 it holds well and improves after a few hours."
+    }
   ],
   "notes": "Batch tip: Roast beets on Sunday. Store peeled and cubed in the fridge \u2014 they keep 4\u20135 days. Assembly then takes under 10 minutes any day of the week.\n\nWalnut oil: Use as a finisher only \u2014 don't cook with it. Buy small bottles and refrigerate after opening; it goes rancid faster than olive oil."
 }
