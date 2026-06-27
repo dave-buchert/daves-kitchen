@@ -1,0 +1,87 @@
+{
+  "slug": "veggie-loaded-crustless-quiche",
+  "title": "Veggie-Loaded Crustless Quiche",
+  "description": "A flexible, protein-rich crustless quiche built around whatever vegetables you have. Works for breakfast, brunch, or a light dinner. Easy to batch and reheat.",
+  "cuisine": "American",
+  "meal_type": "Breakfast",
+  "protein": "Eggs",
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 35,
+  "servings": 6,
+  "is_side": false,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "",
+      "name": "large eggs"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "milk (whole, 2%, or unsweetened almond milk)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "half-and-half (optional, for extra creaminess)"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "shredded cheese (cheddar, Swiss, Gruy\u00e8re, or a mix)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "small onion, finely chopped"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "chopped vegetables (broccoli, spinach, bell pepper, zucchini, mushrooms, asparagus \u2014 lightly cooked first)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "garlic clove, minced (or 2)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil or butter"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "smoked paprika (optional)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh herbs (parsley, chives, basil, or thyme), chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\u00b0F. Grease a 9-inch pie dish or 8x8-inch baking dish.",
+    "Heat olive oil or butter in a skillet over medium heat. Add onion and cook until softened, 3\u20134 minutes. Add garlic and remaining vegetables and saut\u00e9 until just tender, 5\u20137 minutes. Season lightly with salt and pepper. If using spinach, add it last so it just wilts.",
+    "In a large bowl, whisk together eggs, milk, half-and-half (if using), salt, pepper, and paprika.",
+    "Spread cooked vegetables evenly in the dish. Sprinkle cheese over them. Pour egg mixture on top. Finish with fresh herbs.",
+    "Bake 30\u201335 minutes until the center is set and the top is lightly golden. Rest 5\u201310 minutes before slicing \u2014 this helps it firm up."
+  ],
+  "notes": "Variations:\n\u2022 Mediterranean: spinach, sun-dried tomatoes, artichoke hearts, feta, oregano\n\u2022 Southwest: bell peppers, onions, black beans, corn, pepper jack, cumin\n\u2022 Garden Fresh: zucchini, cherry tomatoes, basil, mozzarella\n\nReheats well \u2014 good candidate for batch cooking. Slice and refrigerate for up to 4 days."
+}
