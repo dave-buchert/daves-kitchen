@@ -1,0 +1,84 @@
+{
+  "slug": "baked-walnut-oat-bars",
+  "title": "Baked Walnut and Oat Bars",
+  "description": "Batch-cook Sunday. High fiber, omega-3s from walnuts and flax. Holds together best after refrigerating overnight.",
+  "cuisine": "American",
+  "meal_type": "Snack",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "High Fiber",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 25,
+  "servings": 12,
+  "is_side": false,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "rolled oats"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "raw walnuts, roughly chopped"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "chia seeds"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "ground flaxseed"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "ripe bananas"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "natural almond butter"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "pure maple syrup (optional)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "vanilla extract"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cinnamon"
+    },
+    {
+      "amount": "0.3",
+      "unit": "cup",
+      "name": "dried fruit (apricots or cranberries, unsweetened), chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350\u00b0F. Line an 8x8 or 9x9 inch baking pan with parchment paper, leaving overhang on two sides for easy lifting.",
+    "In a large bowl, mash bananas thoroughly with a fork until mostly smooth. Add almond butter, maple syrup, and vanilla extract and mix until well combined.",
+    "Add oats, walnuts, chia seeds, ground flaxseed, cinnamon, and salt. Stir until everything is evenly coated. The mixture will be thick.",
+    "Fold in dried fruit gently. Pour mixture into the prepared pan and press firmly and evenly with the back of a spatula or damp hands. The firmer you press, the better the bars hold together.",
+    "Bake until edges are golden and center is set, about 22\u201325 minutes. These won't brown dramatically \u2014 pull them when time is up as long as the center feels set.",
+    "Let cool completely in the pan before lifting out and slicing into 12 bars. Best refrigerated overnight before cutting \u2014 they hold together much cleaner cold. Store in an airtight container in the fridge."
+  ],
+  "notes": "~185 cal | ~6g protein | ~1g sat fat | ~1.2g omega-3 per bar.\n\nThe banana provides all the binding \u2014 don't skip it or reduce it. Black or white chia seeds both fine. If adding protein powder, mix 1 scoop into the dry ingredients and reduce oats slightly to compensate for volume."
+}
