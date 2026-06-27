@@ -1,0 +1,51 @@
+{
+  "slug": "brown-sugar-mustard-glazed-ham",
+  "title": "Brown Sugar\u2013Mustard Glazed Ham",
+  "description": "A holiday-worthy baked ham with a caramelized brown sugar, whole grain mustard, and honey glaze. Cooked low and slow under foil to stay moist, then finished at high heat for a crisp, flavorful crust.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Pork",
+  "dietary": [
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 270,
+  "servings": 10,
+  "is_side": false,
+  "pairs_with": [],
+  "source_url": "https://www.epicurious.com/recipes/food/views/old-fashioned-ham-with-brown-sugar-and-mustard-glaze-241636",
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "10-lb smoked bone-in ham with rind, preferably shank end"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "unsweetened apple juice or apple cider"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "whole grain Dijon mustard"
+    },
+    {
+      "amount": "0.67",
+      "unit": "cup",
+      "name": "light brown sugar, packed"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "honey"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325\u00b0F. Place ham in a large roasting pan and pour apple juice over. Cover ham completely with parchment paper, then cover pan tightly with heavy-duty foil. Bake until an instant-read thermometer inserted into the thickest part reads 145\u00b0F, about 3.5\u20134 hours. For a 10-lb ham, start checking temperature at the 3-hour mark \u2014 the listed time can run long. Remove from oven and increase temperature to 375\u00b0F.",
+    "Remove foil and parchment and discard the liquid from the pan. Trim the rind and all but a \u00bc-inch layer of fat. Score the fat in a crosshatch pattern about 1 inch apart, being careful not to cut into the flesh.",
+    "Spread mustard over the scored fat, then press brown sugar firmly over the mustard. Drizzle honey over the top. Return to oven and bake, basting occasionally with any glaze that drips into the pan, until well glazed, 30\u201335 minutes.",
+    "Transfer ham to a platter and rest at least 45 minutes before carving. Serve warm or at room temperature."
+  ],
+  "notes": "Use 20 minutes per pound as a cook time guide rather than the recipe's fixed time \u2014 it scales better for smaller hams. A 6.5-lb ham works beautifully at this rate.\n\nUnsweetened cranberry juice is a good substitute for apple juice and adds a pleasant tartness.\n\nAfter removing the ham from the initial bake, the drained juices can be used as a base for a tangy pan gravy \u2014 worth doing rather than discarding.\n\nThe shank end is easier to carve than the butt end. Buy with the rind on; it protects against dryness during the long cook."
+}
