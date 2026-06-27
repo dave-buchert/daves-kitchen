@@ -284,15 +284,16 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
 }
 
 function FilterBar({ filters, setFilters, recipes }) {
-  const cuisines = [...new Set(recipes.map(r => r.cuisine).filter(Boolean))];
-  const mealTypes = [...new Set(recipes.map(r => r.meal_type).filter(Boolean))];
-  const proteins = [...new Set(recipes.map(r => r.protein).filter(Boolean))];
+  const cuisines = [...new Set(recipes.map(r => r.cuisine).filter(Boolean))].sort();
+  const mealTypes = [...new Set(recipes.map(r => r.meal_type).filter(Boolean))].sort();
+  const proteins = [...new Set(recipes.map(r => r.protein).filter(Boolean))].sort();
 
   const select = (key, val) => setFilters(f => ({ ...f, [key]: f[key] === val ? "" : val }));
+  const hasAnyFilter = Object.values(filters).some(v => v !== "" && v !== false);
 
   const pill = (label, key, val) => (
     <button key={val} onClick={() => select(key, val)} style={{
-      padding: "4px 12px", borderRadius: 20, fontSize: 12, cursor: "pointer",
+      padding: "3px 10px", borderRadius: 20, fontSize: 12, cursor: "pointer",
       border: filters[key] === val ? "1px solid #993C1D" : "1px solid #D3D1C7",
       background: filters[key] === val ? "#FDF0EB" : "white",
       color: filters[key] === val ? "#993C1D" : "#5F5E5A",
@@ -300,12 +301,29 @@ function FilterBar({ filters, setFilters, recipes }) {
     }}>{label}</button>
   );
 
+  const group = (label, children) => (
+    <div style={{ display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
+      <span style={{ fontSize: 11, fontWeight: 600, color: "#B0ADA6", textTransform: "uppercase", letterSpacing: "0.06em", minWidth: 44 }}>{label}</span>
+      {children}
+    </div>
+  );
+
   return (
-    <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: 24 }}>
-      {pill("Sides only", "is_side", true)}
-      {mealTypes.map(v => pill(v, "meal_type", v))}
-      {proteins.map(v => pill(v, "protein", v))}
-      {cuisines.map(v => pill(v, "cuisine", v))}
+    <div style={{ marginBottom: 28, display: "flex", flexDirection: "column", gap: 8 }}>
+      {group("Protein", proteins.map(v => pill(v, "protein", v)))}
+      {group("Cuisine", cuisines.map(v => pill(v, "cuisine", v)))}
+      {group("Meal", [
+        ...mealTypes.map(v => pill(v, "meal_type", v)),
+        pill("Sides", "is_side", true)
+      ])}
+      {hasAnyFilter && (
+        <div>
+          <button onClick={() => setFilters({ cuisine: "", meal_type: "", protein: "", is_side: "" })} style={{
+            padding: "3px 10px", borderRadius: 20, fontSize: 12, cursor: "pointer",
+            border: "1px solid #F5C4B3", background: "#FDF0EB", color: "#993C1D", fontWeight: 500,
+          }}>✕ Clear filters</button>
+        </div>
+      )}
     </div>
   );
 }
@@ -347,8 +365,10 @@ export default function App() {
   });
 
   const SNACK_TYPES = ["Snack", "Appetizer"];
-  const mains = filtered.filter(r => !r.is_side && !SNACK_TYPES.includes(r.meal_type));
+  const SALAD_TYPES = ["Salad"];
+  const mains = filtered.filter(r => !r.is_side && !SNACK_TYPES.includes(r.meal_type) && !SALAD_TYPES.includes(r.meal_type));
   const sides = filtered.filter(r => r.is_side);
+  const salads = filtered.filter(r => !r.is_side && SALAD_TYPES.includes(r.meal_type));
   const snacks = filtered.filter(r => !r.is_side && SNACK_TYPES.includes(r.meal_type));
 
   return (
@@ -389,6 +409,16 @@ export default function App() {
                   </h2>
                   <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: 14 }}>
                     {mains.map(r => <RecipeCard key={r.slug} recipe={r} onClick={setCurrentSlug} allRecipes={recipes} />)}
+                  </div>
+                </section>
+              )}
+              {salads.length > 0 && (
+                <section style={{ marginBottom: 40 }}>
+                  <h2 style={{ fontSize: 16, fontWeight: 600, color: "#888780", textTransform: "uppercase", letterSpacing: 1, marginBottom: 16 }}>
+                    Salads
+                  </h2>
+                  <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: 14 }}>
+                    {salads.map(r => <RecipeCard key={r.slug} recipe={r} onClick={setCurrentSlug} allRecipes={recipes} />)}
                   </div>
                 </section>
               )}
