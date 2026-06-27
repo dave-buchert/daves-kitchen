@@ -50,9 +50,18 @@
     }
   ],
   "instructions": [
-    "Dice tomatoes, red onion, and jalape\u00f1o. Roughly chop cilantro.",
-    "Combine everything in a bowl. Squeeze lime juice over, season with salt, and stir to combine.",
-    "Let rest at least 20 minutes before serving \u2014 the flavors develop significantly as it sits."
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Dice tomatoes, red onion, and jalape\u00f1o. Roughly chop cilantro."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Combine everything in a bowl. Squeeze lime juice over, season with salt, and stir to combine."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Let rest at least 20 minutes before serving \u2014 the flavors develop significantly as it sits."
+    }
   ],
   "notes": "Leave jalape\u00f1o seeds in for more heat. Keeps refrigerated for 2\u20133 days, though it gets more watery over time \u2014 drain briefly before using if made ahead."
 }
