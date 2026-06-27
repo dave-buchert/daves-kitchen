@@ -1,0 +1,97 @@
+{
+  "slug": "jens-slow-cooker-beef-stew",
+  "title": "Jen's Slow Cooker Beef Stew",
+  "description": "A deeply savory slow cooker stew with tender beef, root vegetables, red wine, and Worcestershire. Minimal prep, mostly hands-off. Tenderloin is best; lamb works well too.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Beef",
+  "dietary": [],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 390,
+  "servings": 6,
+  "is_side": false,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "lbs",
+      "name": "cubed beef stew meat (tenderloin is best; lamb works too)"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "all-purpose flour"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "salt, or to taste"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "carrots, cut into bite-sized pieces"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "large Yukon Gold potatoes, peeled and cubed"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "celery ribs, diced"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "yellow onions, cut into eighths"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "beef broth or stock"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dry red wine (Merlot or Cabernet Sauvignon)"
+    },
+    {
+      "amount": "3",
+      "unit": "oz",
+      "name": "tomato paste (half a 6oz can)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Worcestershire sauce, or to taste"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "dried parsley"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper"
+    },
+    {
+      "amount": "1",
+      "unit": "dash",
+      "name": "garlic powder"
+    }
+  ],
+  "instructions": [
+    "Place cubed stew meat in the slow cooker and coat with flour.",
+    "Add all remaining ingredients and stir to combine.",
+    "Cover and cook on High for 30 minutes. Reduce heat to Low and cook for an additional 6 hours."
+  ],
+  "notes": "Optional additions: 1 lb cooked and crumbled bacon, mushrooms, peas, or corn \u2014 add any of these in the last hour on Low.\n\nCook time listed is 6.5 hours total (30 min High + 6 hrs Low). The flour coating on the meat thickens the broth as it cooks \u2014 no separate roux needed."
+}
