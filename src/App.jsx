@@ -219,17 +219,31 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
             Instructions
           </h2>
           <ol style={{ margin: 0, padding: 0, listStyle: "none", display: "flex", flexDirection: "column", gap: 16 }}>
-            {recipe.instructions.map((step, i) => (
-              <li key={i} style={{ display: "flex", gap: 16, alignItems: "flex-start" }}>
-                <span style={{
-                  minWidth: 28, height: 28, borderRadius: "50%",
-                  background: "#444441", color: "#F1EFE8",
-                  display: "flex", alignItems: "center", justifyContent: "center",
-                  fontSize: 13, fontWeight: 600, flexShrink: 0, marginTop: 2,
-                }}>{i + 1}</span>
-                <p style={{ margin: 0, fontSize: 15, color: "#2C2C2A", lineHeight: 1.7 }}>{step}</p>
-              </li>
-            ))}
+            {recipe.instructions.map((step, i) => {
+              const text = typeof step === "string" ? step : step.text;
+              const cue = typeof step === "object" ? step.time_cue : null;
+              return (
+                <li key={i} style={{ display: "flex", gap: 16, alignItems: "flex-start" }}>
+                  <span style={{
+                    minWidth: 28, height: 28, borderRadius: "50%",
+                    background: "#444441", color: "#F1EFE8",
+                    display: "flex", alignItems: "center", justifyContent: "center",
+                    fontSize: 13, fontWeight: 600, flexShrink: 0, marginTop: 2,
+                  }}>{i + 1}</span>
+                  <div style={{ flex: 1 }}>
+                    {cue && (
+                      <span style={{
+                        display: "inline-block", fontSize: 11, fontWeight: 600,
+                        color: "#185FA5", background: "#E6F1FB",
+                        border: "1px solid #B5D4F4", borderRadius: 20,
+                        padding: "1px 8px", marginBottom: 5,
+                      }}>{cue}</span>
+                    )}
+                    <p style={{ margin: 0, fontSize: 15, color: "#2C2C2A", lineHeight: 1.7 }}>{text}</p>
+                  </div>
+                </li>
+              );
+            })}
           </ol>
         </div>
       )}
