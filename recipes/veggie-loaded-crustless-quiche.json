@@ -77,11 +77,26 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375\u00b0F. Grease a 9-inch pie dish or 8x8-inch baking dish.",
-    "Heat olive oil or butter in a skillet over medium heat. Add onion and cook until softened, 3\u20134 minutes. Add garlic and remaining vegetables and saut\u00e9 until just tender, 5\u20137 minutes. Season lightly with salt and pepper. If using spinach, add it last so it just wilts.",
-    "In a large bowl, whisk together eggs, milk, half-and-half (if using), salt, pepper, and paprika.",
-    "Spread cooked vegetables evenly in the dish. Sprinkle cheese over them. Pour egg mixture on top. Finish with fresh herbs.",
-    "Bake 30\u201335 minutes until the center is set and the top is lightly golden. Rest 5\u201310 minutes before slicing \u2014 this helps it firm up."
+    {
+      "time_cue": "T\u201355 min",
+      "text": "Preheat oven to 375\u00b0F. Grease a 9-inch pie dish or 8x8-inch baking dish."
+    },
+    {
+      "time_cue": "T\u201350 min",
+      "text": "Heat olive oil or butter in a skillet over medium heat. Add onion and cook until softened, 3\u20134 minutes. Add garlic and remaining vegetables and saut\u00e9 until just tender, 5\u20137 minutes. Season lightly with salt and pepper. If using spinach, add it last so it just wilts."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "In a large bowl, whisk together eggs, milk, half-and-half (if using), salt, pepper, and paprika."
+    },
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Spread cooked vegetables evenly in the dish. Sprinkle cheese over them. Pour egg mixture on top. Finish with fresh herbs."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Bake 30\u201335 minutes until the center is set and the top is lightly golden. Rest 5\u201310 minutes before slicing \u2014 this helps it firm up."
+    }
   ],
   "notes": "Variations:\n\u2022 Mediterranean: spinach, sun-dried tomatoes, artichoke hearts, feta, oregano\n\u2022 Southwest: bell peppers, onions, black beans, corn, pepper jack, cumin\n\u2022 Garden Fresh: zucchini, cherry tomatoes, basil, mozzarella\n\nReheats well \u2014 good candidate for batch cooking. Slice and refrigerate for up to 4 days."
 }
