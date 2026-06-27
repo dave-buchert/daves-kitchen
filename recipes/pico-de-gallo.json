@@ -1,0 +1,58 @@
+{
+  "slug": "pico-de-gallo",
+  "title": "Pico de Gallo",
+  "description": "Simple fresh salsa \u2014 tomato, red onion, jalape\u00f1o, cilantro, lime. Ready in 10 minutes, best after 20 minutes of rest. Use as a topping for bowls, tacos, eggs, or anything.",
+  "cuisine": "Mexican",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 0,
+  "servings": 4,
+  "is_side": true,
+  "pairs_with": [
+    "pork-chop-taco-bowl"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "medium tomatoes, diced"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "red onion, finely diced"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "jalape\u00f1o, seeds removed for less heat, minced"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh cilantro, roughly chopped"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "lime, juiced"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt, to taste"
+    }
+  ],
+  "instructions": [
+    "Dice tomatoes, red onion, and jalape\u00f1o. Roughly chop cilantro.",
+    "Combine everything in a bowl. Squeeze lime juice over, season with salt, and stir to combine.",
+    "Let rest at least 20 minutes before serving \u2014 the flavors develop significantly as it sits."
+  ],
+  "notes": "Leave jalape\u00f1o seeds in for more heat. Keeps refrigerated for 2\u20133 days, though it gets more watery over time \u2014 drain briefly before using if made ahead."
+}
