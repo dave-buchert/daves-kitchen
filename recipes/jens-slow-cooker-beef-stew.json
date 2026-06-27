@@ -89,9 +89,18 @@
     }
   ],
   "instructions": [
-    "Place cubed stew meat in the slow cooker and coat with flour.",
-    "Add all remaining ingredients and stir to combine.",
-    "Cover and cook on High for 30 minutes. Reduce heat to Low and cook for an additional 6 hours."
+    {
+      "time_cue": "T\u20136.5 hrs",
+      "text": "Place cubed stew meat in the slow cooker and coat with flour."
+    },
+    {
+      "time_cue": "T\u20136.5 hrs",
+      "text": "Add all remaining ingredients and stir to combine."
+    },
+    {
+      "time_cue": "T\u20136 hrs",
+      "text": "Cover and cook on High for 30 minutes. Reduce heat to Low and cook for an additional 6 hours."
+    }
   ],
   "notes": "Optional additions: 1 lb cooked and crumbled bacon, mushrooms, peas, or corn \u2014 add any of these in the last hour on Low.\n\nCook time listed is 6.5 hours total (30 min High + 6 hrs Low). The flour coating on the meat thickens the broth as it cooks \u2014 no separate roux needed."
 }
