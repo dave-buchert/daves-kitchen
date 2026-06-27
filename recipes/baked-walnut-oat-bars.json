@@ -73,12 +73,30 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F. Line an 8x8 or 9x9 inch baking pan with parchment paper, leaving overhang on two sides for easy lifting.",
-    "In a large bowl, mash bananas thoroughly with a fork until mostly smooth. Add almond butter, maple syrup, and vanilla extract and mix until well combined.",
-    "Add oats, walnuts, chia seeds, ground flaxseed, cinnamon, and salt. Stir until everything is evenly coated. The mixture will be thick.",
-    "Fold in dried fruit gently. Pour mixture into the prepared pan and press firmly and evenly with the back of a spatula or damp hands. The firmer you press, the better the bars hold together.",
-    "Bake until edges are golden and center is set, about 22\u201325 minutes. These won't brown dramatically \u2014 pull them when time is up as long as the center feels set.",
-    "Let cool completely in the pan before lifting out and slicing into 12 bars. Best refrigerated overnight before cutting \u2014 they hold together much cleaner cold. Store in an airtight container in the fridge."
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Preheat oven to 350\u00b0F. Line an 8x8 or 9x9 inch baking pan with parchment paper, leaving overhang on two sides for easy lifting."
+    },
+    {
+      "time_cue": "T\u201330 min",
+      "text": "In a large bowl, mash bananas thoroughly with a fork until mostly smooth. Add almond butter, maple syrup, and vanilla extract and mix until well combined."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Add oats, walnuts, chia seeds, ground flaxseed, cinnamon, and salt. Stir until everything is evenly coated. The mixture will be thick."
+    },
+    {
+      "time_cue": "T\u201322 min",
+      "text": "Fold in dried fruit gently. Pour mixture into the prepared pan and press firmly and evenly with the back of a spatula or damp hands. The firmer you press, the better the bars hold together."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Bake until edges are golden and center is set, about 22\u201325 minutes. These won't brown dramatically \u2014 pull them when time is up as long as the center feels set."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Let cool completely in the pan before lifting out and slicing into 12 bars. Best refrigerated overnight before cutting \u2014 they hold together much cleaner cold. Store in an airtight container in the fridge."
+    }
   ],
   "notes": "~185 cal | ~6g protein | ~1g sat fat | ~1.2g omega-3 per bar.\n\nThe banana provides all the binding \u2014 don't skip it or reduce it. Black or white chia seeds both fine. If adding protein powder, mix 1 scoop into the dry ingredients and reduce oats slightly to compensate for volume."
 }
