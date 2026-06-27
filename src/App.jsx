@@ -301,21 +301,27 @@ function FilterBar({ filters, setFilters, recipes }) {
     }}>{label}</button>
   );
 
-  const group = (label, children) => (
-    <div style={{ display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
-      <span style={{ fontSize: 11, fontWeight: 600, color: "#B0ADA6", textTransform: "uppercase", letterSpacing: "0.06em", minWidth: 44 }}>{label}</span>
-      {children}
-    </div>
-  );
-
   return (
-    <div style={{ marginBottom: 28, display: "flex", flexDirection: "column", gap: 8 }}>
-      {group("Protein", proteins.map(v => pill(v, "protein", v)))}
-      {group("Cuisine", cuisines.map(v => pill(v, "cuisine", v)))}
-      {group("Meal", [
-        ...mealTypes.map(v => pill(v, "meal_type", v)),
-        pill("Sides", "is_side", true)
-      ])}
+    <div style={{ marginBottom: 28, display: "flex", flexDirection: "column", gap: 10 }}>
+      {proteins.length > 0 && (
+        <div style={{ display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
+          <span style={{ fontSize: 11, fontWeight: 600, color: "#B0ADA6", textTransform: "uppercase", letterSpacing: "0.06em", minWidth: 52 }}>Protein</span>
+          {proteins.map(v => pill(v, "protein", v))}
+        </div>
+      )}
+      {cuisines.length > 0 && (
+        <div style={{ display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
+          <span style={{ fontSize: 11, fontWeight: 600, color: "#B0ADA6", textTransform: "uppercase", letterSpacing: "0.06em", minWidth: 52 }}>Cuisine</span>
+          {cuisines.map(v => pill(v, "cuisine", v))}
+        </div>
+      )}
+      {mealTypes.length > 0 && (
+        <div style={{ display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
+          <span style={{ fontSize: 11, fontWeight: 600, color: "#B0ADA6", textTransform: "uppercase", letterSpacing: "0.06em", minWidth: 52 }}>Meal</span>
+          {mealTypes.map(v => pill(v, "meal_type", v))}
+          {pill("Sides", "is_side", true)}
+        </div>
+      )}
       {hasAnyFilter && (
         <div>
           <button onClick={() => setFilters({ cuisine: "", meal_type: "", protein: "", is_side: "" })} style={{
