@@ -1,0 +1,72 @@
+{
+  "slug": "walnut-beet-salad",
+  "title": "Walnut Beet Salad",
+  "description": "Roasted beets, walnuts, walnut oil, balsamic. Built around a Sunday beet-roasting routine. Holds well and improves after a few hours in the fridge.",
+  "cuisine": "American",
+  "meal_type": "Lunch",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 60,
+  "servings": 4,
+  "is_side": true,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "medium red beets, scrubbed"
+    },
+    {
+      "amount": "0.3",
+      "unit": "cup",
+      "name": "walnuts, roughly chopped"
+    },
+    {
+      "amount": "0.3",
+      "unit": "",
+      "name": "red onion, thinly sliced"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "green onions, sliced"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "walnut oil"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "balsamic vinegar"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "sea salt"
+    },
+    {
+      "amount": "0.3",
+      "unit": "tsp",
+      "name": "black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400\u00b0F. Wrap beets individually in foil and roast until a knife slides in easily, about 50\u201360 minutes. Let cool enough to handle, then rub skins off with a paper towel. Cut into bite-sized wedges or cubes.",
+    "While beets roast, toast walnuts in a dry pan over medium heat for 4\u20135 minutes, stirring frequently, until fragrant. Watch closely \u2014 they burn fast. Set aside.",
+    "Whisk together walnut oil, balsamic vinegar, Dijon mustard, salt, and pepper in a small bowl until emulsified.",
+    "Soak red onion in cold water for 10 minutes to mellow the sharpness. Drain and pat dry.",
+    "Toss warm or room-temperature beets with the red onion and dressing. Top with toasted walnuts and green onions. Serve immediately or refrigerate \u2014 it holds well and improves after a few hours."
+  ],
+  "notes": "Batch tip: Roast beets on Sunday. Store peeled and cubed in the fridge \u2014 they keep 4\u20135 days. Assembly then takes under 10 minutes any day of the week.\n\nWalnut oil: Use as a finisher only \u2014 don't cook with it. Buy small bottles and refrigerate after opening; it goes rancid faster than olive oil."
+}
