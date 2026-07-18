@@ -1,0 +1,117 @@
+{
+  "slug": "green-curry-salmon-cashews",
+  "title": "Green Curry Salmon with Cashews",
+  "description": "Salmon fillets poached in a coconut green curry with bok choy, finished with lime, scallions, cilantro, and roasted cashews. 35 minutes, one pan.",
+  "cuisine": "Asian",
+  "meal_type": "Dinner",
+  "protein": "Fish",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 25,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "lemon-herb-quinoa"
+  ],
+  "source_name": "Epicurious",
+  "source_url": "https://www.epicurious.com/recipes/food/views/salmon-and-bok-choy-green-coconut-curry",
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "skinless salmon fillets (6-8 oz each)"
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "kosher salt, divided"
+    },
+    {
+      "amount": "1",
+      "unit": "14-oz can",
+      "name": "full-fat coconut milk"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "green curry paste"
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fresh ginger, finely grated"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "garlic clove, finely grated"
+    },
+    {
+      "amount": "1",
+      "unit": "head",
+      "name": "bok choy (about 1.5 lbs), stems sliced, leaves cut into 2-inch pieces"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh lime juice"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "scallions, thinly sliced"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "cilantro leaves with tender stems"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "roasted salted cashews"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "serrano chile, thinly sliced (optional)"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "steamed rice for serving (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201335 min",
+      "text": "If serving with rice, start it now."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Season salmon on all sides with 1 tsp salt. Set aside."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Combine coconut milk, curry paste, ginger, garlic, and remaining 1 tsp salt in a large high-sided skillet over medium heat. Cook, stirring occasionally, until simmering, 5\u20136 minutes."
+    },
+    {
+      "time_cue": "T\u201314 min",
+      "text": "Cut bok choy stems into 1/2-inch slices and leaves into 2-inch pieces. Rinse well and drain. Add to the coconut milk mixture and stir to coat. Nestle salmon fillets into the bok choy in an even layer."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "Cover pan and cook over medium-low heat until salmon is just cooked through and flesh is opaque, 6\u20138 minutes. Remove from heat and pour lime juice over salmon."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Scatter scallions, cilantro, cashews, and chile (if using) over the top. Serve with rice alongside if using."
+    }
+  ],
+  "notes": "Full-fat coconut milk is important here -- light coconut milk won't give you the same richness in the curry base.\n\nGreen curry paste brands vary significantly in heat. Taste your paste before adding -- if it's very spicy, start with 3 tbsp and adjust.\n\nWorks well over rice or on its own as a lower-carb option with just the bok choy."
+}
