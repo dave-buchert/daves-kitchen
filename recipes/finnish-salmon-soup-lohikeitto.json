@@ -1,0 +1,106 @@
+{
+  "slug": "finnish-salmon-soup-lohikeitto",
+  "title": "Sandy's Finnish Salmon Soup (Lohikeitto)",
+  "description": "A classic Finnish salmon soup \u2014 silky, dill-forward, and deeply comforting. Salmon simmered gently in a rich fish stock with leeks, potatoes, carrot, and cream.",
+  "cuisine": "Scandinavian",
+  "meal_type": "Dinner",
+  "protein": "Fish",
+  "dietary": [
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 45,
+  "servings": 4,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "salmon fillet, cut into bite-size chunks (skin reserved for stock)"
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "butter"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "large leek, trimmed and sliced (white portion only)"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "medium potatoes, peeled and cubed"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "large carrot, sliced"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh dill, finely chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "heavy cream or half-and-half"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "nutmeg"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and white pepper to taste"
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "water (for fish stock)"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "mushrooms, sliced (optional)"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "fresh spinach (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Make the fish stock: place salmon skins in a small pot with 3 cups of water, a few dill sprigs, and a slice of leek. Bring to a brief boil, then reduce to a gentle simmer for 10 minutes. No rolling boil \u2014 it extracts bitterness and cloudiness. Strain and set aside."
+    },
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Saut\u00e9 leeks: melt butter in a large pot over medium heat. Add leeks and cook 8\u201310 minutes until soft and translucent. If using mushrooms, saut\u00e9 them separately and set aside."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Add strained fish stock to the leeks. If using mushrooms, add them now. Add potatoes, carrot, and half the dill. Bring to a gentle simmer \u2014 small bubbles breaking the surface occasionally, not a churning boil. Simmer 20 minutes until potatoes are just tender."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Add salmon chunks, cream, and nutmeg. Reduce to the lowest simmer possible \u2014 boiling at this stage will tighten the fish and risk splitting the dairy. Simmer gently 8\u201310 minutes until salmon is just cooked through."
+    },
+    {
+      "time_cue": "T\u20132 min",
+      "text": "If using spinach, stir it in now and let it wilt 1\u20132 minutes. Add remaining dill. Taste and adjust salt and pepper."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Remove from heat and serve immediately. Ladle into bowls and garnish with extra dill if desired."
+    }
+  ],
+  "notes": "Skin the salmon before cutting into chunks \u2014 retain the skins for the fish stock. This is the foundation of the soup's flavor.\n\nHeat discipline is everything in this soup: gentle simmer throughout, lowest possible heat once cream and salmon are in. If the surface is actively churning, it's too hot. Occasional bubbles and light steam is correct.\n\nOptional additions: mushrooms integrate well when added with the potatoes; spinach goes in at the very end \u2014 any earlier and it goes dull and stringy.\n\nScales to 6 servings with 1.5 lbs salmon, everything else unchanged."
+}
