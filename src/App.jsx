@@ -314,15 +314,18 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
 }
 
 function FilterBar({ filters, setFilters, recipes }) {
+  const SECTION_MEAL_TYPES = ["Salad", "Side", "Snack", "Appetizer"];
   const cuisines = [...new Set(recipes.map(r => r.cuisine).filter(Boolean))].sort();
-  const mealTypes = [...new Set(recipes.map(r => r.meal_type).filter(Boolean))].sort();
+  const mealTypes = [...new Set(recipes.map(r => r.meal_type).filter(Boolean))]
+    .filter(v => !SECTION_MEAL_TYPES.includes(v)).sort();
   const proteins = [...new Set(recipes.map(r => r.protein).filter(Boolean))].sort();
+  const dietaryTags = [...new Set(recipes.flatMap(r => r.dietary || []).filter(Boolean))].sort();
 
   const select = (key, val) => setFilters(f => ({ ...f, [key]: f[key] === val ? "" : val }));
-  const hasAnyFilter = Object.values(filters).some(v => v !== "" && v !== false && v !== "");
+  const hasAnyFilter = Object.values(filters).some(v => v !== "" && v !== false);
 
   const pill = (label, key, val) => (
-    <button key={val} onClick={() => select(key, val)} style={{
+    <button key={String(val)} onClick={() => select(key, val)} style={{
       padding: "3px 10px", borderRadius: 20, fontSize: 12, cursor: "pointer",
       border: filters[key] === val ? "1px solid #993C1D" : "1px solid #D3D1C7",
       background: filters[key] === val ? "#FDF0EB" : "white",
@@ -349,16 +352,16 @@ function FilterBar({ filters, setFilters, recipes }) {
         <div style={{ display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
           <span style={{ fontSize: 11, fontWeight: 600, color: "#B0ADA6", textTransform: "uppercase", letterSpacing: "0.06em", minWidth: 52 }}>Meal</span>
           {mealTypes.map(v => pill(v, "meal_type", v))}
-          {pill("Sides", "is_side", true)}
         </div>
       )}
       <div style={{ display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
-        <span style={{ fontSize: 11, fontWeight: 600, color: "#B0ADA6", textTransform: "uppercase", letterSpacing: "0.06em", minWidth: 52 }}>Health</span>
+        <span style={{ fontSize: 11, fontWeight: 600, color: "#B0ADA6", textTransform: "uppercase", letterSpacing: "0.06em", minWidth: 52 }}>Diet</span>
         {pill("✓ Healthy", "healthy", true)}
+        {dietaryTags.map(v => pill(v, "dietary", v))}
       </div>
       {hasAnyFilter && (
         <div>
-          <button onClick={() => setFilters({ cuisine: "", meal_type: "", protein: "", is_side: "", healthy: "" })} style={{
+          <button onClick={() => setFilters({ cuisine: "", meal_type: "", protein: "", is_side: "", healthy: "", dietary: "" })} style={{
             padding: "3px 10px", borderRadius: 20, fontSize: 12, cursor: "pointer",
             border: "1px solid #F5C4B3", background: "#FDF0EB", color: "#993C1D", fontWeight: 500,
           }}>✕ Clear filters</button>
@@ -374,7 +377,7 @@ export default function App() {
   const [error, setError] = useState(null);
   const [currentSlug, setCurrentSlug] = useState(null);
   const [searchQuery, setSearchQuery] = useState("");
-  const [filters, setFilters] = useState({ cuisine: "", meal_type: "", protein: "", is_side: "", healthy: "" });
+  const [filters, setFilters] = useState({ cuisine: "", meal_type: "", protein: "", is_side: "", healthy: "", dietary: "" });
   const [quote] = useState(randomQuote);
 
   useEffect(() => {
@@ -394,6 +397,7 @@ export default function App() {
     if (filters.protein && r.protein !== filters.protein) return false;
     if (filters.is_side === true && !r.is_side) return false;
     if (filters.healthy === true && !r.healthy) return false;
+    if (filters.dietary && !(r.dietary || []).includes(filters.dietary)) return false;
     if (searchQuery) {
       const q = searchQuery.toLowerCase();
       const searchable = [
