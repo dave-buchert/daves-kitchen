@@ -1,0 +1,99 @@
+{
+  "slug": "cornbread-with-corn",
+  "title": "Cornbread with Corn",
+  "description": "Classic buttermilk cornbread with whole corn kernels folded in. Bakes in a cast-iron skillet or baking dish in about 25 minutes.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 25,
+  "servings": 9,
+  "is_side": true,
+  "healthy": false,
+  "pairs_with": [
+    "tuscan-white-bean-soup",
+    "jens-slow-cooker-beef-stew"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "yellow cornmeal"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "all-purpose flour"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "baking powder"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "buttermilk (or milk + 1 tbsp lemon juice or vinegar)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "large eggs"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "unsalted butter, melted (plus extra for greasing)"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "corn kernels (fresh, canned and drained, or frozen and thawed)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "shredded cheddar cheese (optional)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "jalape\u00f1o, diced (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Preheat oven to 400\u00b0F. Grease a 9-inch cast-iron skillet or 8x8-inch baking dish with butter."
+    },
+    {
+      "time_cue": "T\u201330 min",
+      "text": "In a large bowl, whisk together cornmeal, flour, baking powder, and salt."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "In a separate bowl, whisk together buttermilk, eggs, and melted butter until smooth."
+    },
+    {
+      "time_cue": "T\u201322 min",
+      "text": "Pour wet ingredients into dry and mix until just combined -- do not overmix. Fold in corn kernels and any optional add-ins."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Pour batter into the prepared skillet or dish. Bake 20\u201325 minutes until the top is golden and a toothpick inserted in the center comes out clean."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Cool slightly before slicing. Serve warm with butter, honey, or alongside soups and stews."
+    }
+  ],
+  "notes": "No buttermilk? Add 1 tbsp lemon juice or white vinegar to 1 cup of milk, stir, and let sit 5 minutes.\n\nCast iron gives the best crust -- preheat the skillet in the oven for 5 minutes before adding the batter for an extra-crispy bottom.\n\nOptional add-ins: shredded cheddar and diced jalape\u00f1o are a classic combination."
+}
