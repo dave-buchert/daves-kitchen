@@ -1,0 +1,109 @@
+{
+  "slug": "baked-rice-cinnamon-shallots",
+  "title": "Baked Rice with Cinnamon and Shallots",
+  "description": "Long grain brown rice baked in the oven with caramelized shallots, caraway seeds, cinnamon, and star anise, finished with toasted almonds, mint, and lemon zest. Minimal effort, maximum flavor.",
+  "cuisine": "British",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 50,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "sticky-marmalade-whisky-chicken",
+    "spatchcock-grilled-chicken",
+    "lemon-herb-roasted-spatchcock-chicken"
+  ],
+  "source_name": "Alexandra Dudley",
+  "source_url": "https://substack.com/@alexandradudley",
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "large banana shallots (or 5-6 regular shallots)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil (plus extra for drizzling)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "caraway seeds"
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "long grain brown rice (about 2 cups)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "cinnamon stick"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "star anise"
+    },
+    {
+      "amount": "40",
+      "unit": "g",
+      "name": "butter (about 3 tbsp)"
+    },
+    {
+      "amount": "800",
+      "unit": "ml",
+      "name": "stock, warmed (about 3.5 cups)"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "sea salt"
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "almonds (about 1/2 cup)"
+    },
+    {
+      "amount": "1",
+      "unit": "small bunch",
+      "name": "fresh mint, leaves picked"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, zested"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201355 min",
+      "text": "Preheat oven to 375\u00b0F (190\u00b0C fan). Peel and halve the shallots, then slice each half into thin strips lengthways. Transfer to a deep ovenproof dish, drizzle generously with olive oil and sea salt, and bake for 15 minutes."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Toast caraway seeds in a dry frying pan over gentle heat for a couple of minutes until they smell aromatic. Set aside."
+    },
+    {
+      "time_cue": "T\u201338 min",
+      "text": "Add rice to the dish with the shallots and caraway seeds and stir to combine. Pour over the warm stock, add butter, cinnamon stick, and star anise. Cover tightly with foil, ensuring no air escapes."
+    },
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Bake for 35 minutes. Remove from oven and leave covered to rest 5 minutes."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Remove foil, discard cinnamon stick and star anise, and fluff rice with a fork. Season to taste. Transfer to a serving bowl, drizzle with olive oil, and top with almonds, mint leaves, and fresh lemon zest."
+    }
+  ],
+  "notes": "Baking rice rather than cooking it on the stovetop infuses far more flavor and requires almost no attention -- ideal for entertaining.\n\nWarm the stock before adding -- cold stock will throw off the bake time.\n\nIf banana shallots aren't available, regular shallots work fine. Use 5-6 of them."
+}
