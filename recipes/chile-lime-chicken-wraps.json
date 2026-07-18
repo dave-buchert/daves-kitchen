@@ -1,0 +1,179 @@
+{
+  "slug": "chile-lime-chicken-wraps",
+  "title": "Chile-Lime Chicken Wraps with Avocado-Cilantro Sauce & Jicama Slaw",
+  "description": "Charred chile-lime chicken strips, bright avocado-cilantro sauce, crunchy jicama-radish slaw, and fresh pico \u2014 all in a sprouted-grain tortilla. No dairy, big flavor.",
+  "cuisine": "Mexican",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "Gluten-Free",
+    "High Protein",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 40,
+  "cook_time_minutes": 10,
+  "servings": 2,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "pico-de-gallo"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "chicken breasts, cut into 3/4-inch strips"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "avocado oil (marinade)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ancho chile powder"
+    },
+    {
+      "amount": "0.8",
+      "unit": "tsp",
+      "name": "smoked paprika"
+    },
+    {
+      "amount": "0.8",
+      "unit": "tsp",
+      "name": "ground cumin"
+    },
+    {
+      "amount": "0.8",
+      "unit": "tsp",
+      "name": "dried oregano (Mexican if available)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "garlic cloves, minced (marinade)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lime, zested and juiced (marinade)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "orange, juiced (marinade)"
+    },
+    {
+      "amount": "0.8",
+      "unit": "tsp",
+      "name": "kosher salt (marinade)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "ripe avocado (sauce)"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh cilantro, packed (sauce)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "jalape\u00f1o, seeded (sauce)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "garlic clove (sauce)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "limes, juiced (sauce)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (sauce)"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "cold water, to thin sauce"
+    },
+    {
+      "amount": "0.3",
+      "unit": "",
+      "name": "small jicama, peeled and julienned (slaw)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "radishes, thinly sliced (slaw)"
+    },
+    {
+      "amount": "0.3",
+      "unit": "",
+      "name": "red onion, thinly sliced (slaw + pico)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "lime, juiced (slaw)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "roma tomatoes, diced (pico)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "lime, juiced (pico)"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "sprouted grain or whole wheat tortillas"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "kosher salt, for sauce, slaw, and pico"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Marinade: whisk together avocado oil, ancho chile powder, smoked paprika, cumin, oregano, garlic, lime zest and juice, orange juice, and salt. Add chicken strips and toss to coat every piece. Cover and marinate at room temp 30 minutes, or up to 4 hours refrigerated."
+    },
+    {
+      "time_cue": "T\u201330 min",
+      "text": "Avocado-cilantro sauce: blend avocado, cilantro, jalape\u00f1o, garlic, lime juice, olive oil, and a pinch of salt until completely smooth. Add cold water a tablespoon at a time until drizzle-able but still clings to a spoon. Should be bright and limey. Refrigerate until ready to serve."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Jicama-radish slaw: toss julienned jicama, sliced radishes, and half the red onion with lime juice and a pinch of salt. Let sit at least 10 minutes \u2014 the lime softens the bite while keeping the crunch."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Quick pico: combine diced tomatoes, remaining red onion, lime juice, and a pinch of salt. Add a few chopped cilantro stems if you have extra."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Sear the chicken: heat a large stainless or cast iron pan over high heat until very hot. Lay strips in a single layer. Sear undisturbed 3 minutes until deeply browned, flip, and cook 2\u20133 minutes more to 165\u00b0F internal. Rest 5 minutes on a board \u2014 do not skip or the wraps get soggy."
+    },
+    {
+      "time_cue": "T\u20133 min",
+      "text": "Warm tortillas in a dry pan over medium heat, about 30 seconds per side, until pliable with a few toasted spots. Stack under a towel to keep warm."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Assemble: spread a generous layer of avocado-cilantro sauce down each tortilla. Add chicken strips, then slaw, then pico. Roll tight burrito-style with ends tucked, and slice on a hard diagonal."
+    }
+  ],
+  "notes": "The avocado-cilantro sauce keeps well refrigerated for a few days \u2014 make a full batch regardless of serving size.\n\nTo batch-cook for weekday lunches, double just the chicken (2 lb) and keep everything else at this 2-serving size. That gives you dinner plus 2\u20133 lunch portions without excess slaw."
+}
