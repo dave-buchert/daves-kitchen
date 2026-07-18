@@ -1,0 +1,82 @@
+{
+  "slug": "roasted-peach-crostini-lemon-ricotta-basil",
+  "title": "Roasted Peach Crostini with Lemon Ricotta & Basil",
+  "description": "Toasted baguette topped with lemony ricotta and caramelized roasted peaches, finished with fresh basil. Elegant, seasonal, and mostly make-ahead.",
+  "cuisine": "Italian",
+  "meal_type": "Appetizer",
+  "protein": null,
+  "dietary": [
+    "Vegetarian"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 25,
+  "servings": 6,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "",
+      "name": "French baguettes, cut into 1/2-inch diagonal slices (~22 slices)"
+    },
+    {
+      "amount": "10",
+      "unit": "oz",
+      "name": "whole-milk ricotta (about 1.25 cups)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, juiced and zested"
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "fresh peaches, sliced into 1/2-inch wedges (~3 medium peaches)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey or maple syrup (optional, helps caramelization)"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    },
+    {
+      "amount": "1",
+      "unit": "handful",
+      "name": "fresh basil leaves, ribboned"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Preheat oven to 350\u00b0F. Line a baking sheet with parchment. Wash peaches, halve along the natural seam, remove pits, and slice into 1/2-inch wedges."
+    },
+    {
+      "time_cue": "T\u201330 min",
+      "text": "Toss peach slices with olive oil and honey (if using). Spread in a single layer on the baking sheet. Roast 20\u201325 minutes until softened and caramelized at the edges."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Make the ricotta spread: stir together ricotta, lemon juice, lemon zest, salt, and pepper until smooth. Refrigerate until ready to use."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Toast baguette slices: grill 2 minutes per side, or bake at 400\u00b0F for 5\u20137 minutes until golden."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Spread about 1 tbsp lemon ricotta on each toasted slice. Top with 1\u20132 roasted peach slices. Finish with basil ribbons. Serve immediately."
+    }
+  ],
+  "notes": "Toast and assemble right before serving -- bread gets soggy quickly once topped.\n\nMake-ahead: roast peaches up to 1 day ahead (store covered in fridge, rewarm at 300\u00b0F for 5\u20137 minutes). Ricotta mixture keeps refrigerated for 1\u20132 days -- stir before using.\n\nRipe peaches matter here. If peaches are underripe, increase honey and add 5 minutes to the roast time."
+}
