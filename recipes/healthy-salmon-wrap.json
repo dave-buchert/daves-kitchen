@@ -1,0 +1,118 @@
+{
+  "slug": "healthy-salmon-wrap",
+  "title": "Salmon Wrap with Yogurt Herb Sauce",
+  "description": "Wild salmon, crisp vegetables, and a Greek yogurt herb sauce with dill, capers, and lemon \u2014 wrapped in a whole grain tortilla or romaine leaf. High protein, rich in omega-3s.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Fish",
+  "dietary": [
+    "Gluten-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 15,
+  "servings": 2,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "12",
+      "unit": "oz",
+      "name": "wild salmon fillet"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "whole grain wraps (or large romaine leaves for a lettuce wrap)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "non-fat Greek yogurt"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh dill, chopped"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh lemon juice"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "garlic clove, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "capers, rinsed"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "avocado, sliced"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "cucumber, thinly sliced"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "arugula or romaine, loosely packed"
+    },
+    {
+      "amount": "0.3",
+      "unit": "",
+      "name": "red onion, thinly sliced"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "tomato, sliced"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Make the yogurt herb sauce: combine yogurt, dill, lemon juice, garlic, Dijon mustard, and capers in a small bowl. Season with salt and pepper. Stir well and refrigerate while you cook the salmon. Keeps in the fridge for 3 days."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Pat salmon dry and season both sides with salt and pepper. Heat olive oil in a skillet over medium-high heat. Place salmon skin-side up and cook without moving it, 3\u20134 minutes until golden."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Flip salmon and cook until just opaque through the center \u2014 it should flake easily but still look slightly glossy in the middle. Remove from heat and rest. Flake into large chunks when cool enough to handle."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "If using whole grain wraps, warm them briefly in a dry skillet over low heat for about 30 seconds per side to keep them pliable."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Spread a generous layer of yogurt herb sauce across the center of each wrap. Layer arugula or romaine first (it acts as a moisture barrier), then tomato, cucumber, red onion, avocado, and finally the flaked salmon. Fold in the sides, roll tightly from the bottom, and slice on a diagonal."
+    }
+  ],
+  "notes": "Wild salmon at 6 oz delivers roughly 2\u20133g EPA+DHA omega-3s \u2014 one of the two fatty fish servings per week most guidelines recommend.\n\nLettuce wrap option: a large romaine leaf works well as a wrap alternative and keeps it fully grain-free.\n\nBatch tip: cook extra salmon \u2014 leftover flaked salmon over arugula with the same yogurt sauce makes a solid lunch the next day with no additional prep.\n\nThe yogurt herb sauce is worth making a double batch \u2014 it works on fish, grain bowls, and as a vegetable dip."
+}
