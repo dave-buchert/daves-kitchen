@@ -494,6 +494,7 @@ export default function App() {
       const q = searchQuery.toLowerCase();
       const searchable = [
         r.title, r.description, r.cuisine, r.meal_type, r.protein,
+        r.source_name,
         ...(r.ingredients || []).map(i => i.name),
         ...(r.dietary || []),
       ].join(" ").toLowerCase();
