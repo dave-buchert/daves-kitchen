@@ -1,0 +1,66 @@
+{
+  "slug": "chimichurri-sauce",
+  "title": "Chimichurri Sauce",
+  "description": "A bright, garlicky Argentine herb sauce with parsley, red wine vinegar, and olive oil. Works on steak, grilled chicken, fish, or vegetables.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 0,
+  "servings": 6,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "chimichurri-steak-broccolini",
+    "spatchcock-grilled-chicken"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "fresh parsley, finely chopped"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "0.75",
+      "unit": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": "0.75",
+      "unit": "tsp",
+      "name": "red pepper flakes"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "red wine vinegar"
+    },
+    {
+      "amount": "0.75",
+      "unit": "cup",
+      "name": "olive oil"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Finely chop parsley and mince garlic. Combine with salt, red pepper flakes, red wine vinegar, and olive oil. Mix well."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Let sit at room temperature at least 15 minutes before serving. The longer it sits the better it gets."
+    }
+  ],
+  "notes": "Can be made up to a day ahead \u2014 refrigerate and bring back to room temperature before serving.\n\nWorks on steak, grilled chicken, fish, roasted vegetables, or as a dipping sauce for bread."
+}
