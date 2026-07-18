@@ -1,0 +1,94 @@
+{
+  "slug": "lemon-herb-roasted-spatchcock-chicken",
+  "title": "Lemon Herb Roasted Spatchcock Chicken",
+  "description": "Spatchcocked chicken rubbed with lemon, garlic, rosemary, and thyme, oven-roasted at high heat until golden and crispy. Faster and more evenly cooked than a whole bird.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 55,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "roasted-fingerling-potatoes",
+    "lemon-roasted-potatoes",
+    "grilled-asparagus",
+    "greek-salad"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "whole chicken (about 4 lbs), spatchcocked"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "lemons, juiced"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh rosemary, chopped"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh thyme, chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "kosher salt"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201375 min",
+      "text": "Spatchcock the chicken: place breast-side down, cut along both sides of the backbone with kitchen shears and remove it. Flip breast-side up and press firmly on the breastbone until it cracks flat. Pat completely dry with paper towels."
+    },
+    {
+      "time_cue": "T\u201365 min",
+      "text": "Mix olive oil, lemon juice, garlic, rosemary, thyme, oregano, salt, and pepper in a small bowl. Rub the mixture all over the chicken, including under the skin."
+    },
+    {
+      "time_cue": "T\u201360 min",
+      "text": "Preheat oven to 425\u00b0F. Place chicken on a baking sheet or in a roasting pan."
+    },
+    {
+      "time_cue": "T\u201355 min",
+      "text": "Roast 45\u201355 minutes until the skin is golden and crispy and an instant-read thermometer reads 165\u00b0F in the thickest part of the thigh."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Rest 10 minutes before carving. Do not skip the rest."
+    }
+  ],
+  "notes": "Getting the marinade under the skin directly onto the breast meat makes a significant difference in flavor -- use your fingers to loosen the skin and rub in as much as possible.\n\nFor extra-crispy skin, let the rubbed chicken sit uncovered in the fridge for 1\u20134 hours (or overnight) before roasting.\n\nThe pan drippings with lemon and herbs make an excellent quick pan sauce -- pour off most of the fat, add a splash of chicken stock, and scrape up the bits over medium heat."
+}
