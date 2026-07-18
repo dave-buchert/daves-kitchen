@@ -1,0 +1,82 @@
+{
+  "slug": "guacamole",
+  "title": "Guacamole",
+  "description": "Classic guacamole with cilantro, garlic, tomato, and a kick of cayenne. Best after an hour in the fridge but good immediately.",
+  "cuisine": "Mexican",
+  "meal_type": "Appetizer",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 0,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "pico-de-gallo",
+    "shrimp-tacos-cilantro-lime-slaw",
+    "chile-lime-chicken-wraps",
+    "pork-chop-taco-bowl"
+  ],
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "",
+      "name": "avocados, peeled, pitted, and mashed"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lime, juiced"
+    },
+    {
+      "amount": "1.25",
+      "unit": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": "0.67",
+      "unit": "cup",
+      "name": "onion, finely diced"
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "fresh cilantro, chopped"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "roma tomatoes, diced"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "ground cayenne pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Peel, pit, and mash avocados in a medium bowl to your preferred texture -- chunky or smooth."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Add lime juice, salt, onion, cilantro, tomatoes, and garlic. Mix to combine. Stir in cayenne pepper."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Serve immediately or refrigerate 1 hour for best flavor. Press plastic wrap directly onto the surface to slow browning if making ahead."
+    }
+  ],
+  "notes": "The lime juice slows browning and brightens the flavor -- don't skip it.\n\nFor a smoother guac, mash the avocados more thoroughly before adding the other ingredients. For chunky, fold gently.\n\nIf making ahead, press plastic wrap directly onto the surface of the guacamole (no air gap) to minimize browning."
+}
