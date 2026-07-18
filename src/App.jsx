@@ -505,8 +505,9 @@ export default function App() {
 
   const SNACK_TYPES = ["Snack", "Appetizer"];
   const SALAD_TYPES = ["Salad"];
+  const DESSERT_TYPES = ["Dessert"];
   const sort = arr => [...arr].sort((a, b) => a.title.localeCompare(b.title));
-  const mains = sort(filtered.filter(r => !r.is_side && !SNACK_TYPES.includes(r.meal_type) && !SALAD_TYPES.includes(r.meal_type)));
+  const mains = sort(filtered.filter(r => !r.is_side && !SNACK_TYPES.includes(r.meal_type) && !SALAD_TYPES.includes(r.meal_type) && !DESSERT_TYPES.includes(r.meal_type)));
   const sides = sort(filtered.filter(r => r.is_side));
   const salads = sort(filtered.filter(r => !r.is_side && SALAD_TYPES.includes(r.meal_type)));
   const snacks = sort(filtered.filter(r => !r.is_side && SNACK_TYPES.includes(r.meal_type)));
