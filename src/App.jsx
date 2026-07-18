@@ -319,7 +319,7 @@ function FilterBar({ filters, setFilters, recipes }) {
   const proteins = [...new Set(recipes.map(r => r.protein).filter(Boolean))].sort();
 
   const select = (key, val) => setFilters(f => ({ ...f, [key]: f[key] === val ? "" : val }));
-  const hasAnyFilter = Object.values(filters).some(v => v !== "" && v !== false);
+  const hasAnyFilter = Object.values(filters).some(v => v !== "" && v !== false && v !== "");
 
   const pill = (label, key, val) => (
     <button key={val} onClick={() => select(key, val)} style={{
@@ -352,9 +352,13 @@ function FilterBar({ filters, setFilters, recipes }) {
           {pill("Sides", "is_side", true)}
         </div>
       )}
+      <div style={{ display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
+        <span style={{ fontSize: 11, fontWeight: 600, color: "#B0ADA6", textTransform: "uppercase", letterSpacing: "0.06em", minWidth: 52 }}>Health</span>
+        {pill("✓ Healthy", "healthy", true)}
+      </div>
       {hasAnyFilter && (
         <div>
-          <button onClick={() => setFilters({ cuisine: "", meal_type: "", protein: "", is_side: "" })} style={{
+          <button onClick={() => setFilters({ cuisine: "", meal_type: "", protein: "", is_side: "", healthy: "" })} style={{
             padding: "3px 10px", borderRadius: 20, fontSize: 12, cursor: "pointer",
             border: "1px solid #F5C4B3", background: "#FDF0EB", color: "#993C1D", fontWeight: 500,
           }}>✕ Clear filters</button>
@@ -370,7 +374,7 @@ export default function App() {
   const [error, setError] = useState(null);
   const [currentSlug, setCurrentSlug] = useState(null);
   const [searchQuery, setSearchQuery] = useState("");
-  const [filters, setFilters] = useState({ cuisine: "", meal_type: "", protein: "", is_side: "" });
+  const [filters, setFilters] = useState({ cuisine: "", meal_type: "", protein: "", is_side: "", healthy: "" });
   const [quote] = useState(randomQuote);
 
   useEffect(() => {
@@ -389,6 +393,7 @@ export default function App() {
     if (filters.meal_type && r.meal_type !== filters.meal_type) return false;
     if (filters.protein && r.protein !== filters.protein) return false;
     if (filters.is_side === true && !r.is_side) return false;
+    if (filters.healthy === true && !r.healthy) return false;
     if (searchQuery) {
       const q = searchQuery.toLowerCase();
       const searchable = [
