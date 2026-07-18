@@ -1,0 +1,53 @@
+{
+  "slug": "classic-soy-glaze",
+  "title": "Classic Soy Glaze",
+  "description": "A balanced, glossy soy glaze with three ingredients. Salty-sweet with a clean shine. Keeps for two weeks refrigerated and works on salmon, chicken, roasted vegetables, and more.",
+  "cuisine": "Asian",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegan",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 2,
+  "cook_time_minutes": 8,
+  "servings": 8,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "salmon-avocado-brown-rice-bowls",
+    "cedar-plank-salmon-pinot-gris"
+  ],
+  "ingredients": [
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "soy sauce"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "brown sugar or honey"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "rice vinegar or lime juice"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Combine soy sauce, brown sugar or honey, and rice vinegar in a small saucepan over medium heat."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "Bring to a simmer, then reduce heat and gently simmer 5\u20138 minutes, stirring occasionally, until thickened to a glossy glaze."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Remove from heat \u2014 it will thicken more as it cools. Use immediately or refrigerate."
+    }
+  ],
+  "notes": "Too thin? Keep simmering. Too thick? Add 1\u20132 tsp water. Want extra shine? Whisk in half a teaspoon of butter at the end.\n\nKeeps refrigerated for up to 2 weeks. Works on salmon, chicken thighs, roasted vegetables, or as a dipping sauce."
+}
