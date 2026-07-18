@@ -1,0 +1,80 @@
+{
+  "slug": "spatchcock-grilled-chicken",
+  "title": "Spatchcock Grilled Chicken",
+  "description": "Whole chicken spatchcocked, rubbed with avocado oil and Herbs de Provence, grilled at 400\u2013425\u00b0F with the lid closed and turned every 15 minutes. Crisp skin, juicy meat throughout.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 45,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "roasted-fingerling-potatoes",
+    "grilled-asparagus"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "whole chicken (3.5\u20134.5 lbs)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "avocado oil"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "Herbs de Provence"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "kosher salt"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201360 min",
+      "text": "Spatchcock the chicken: place breast-side down on a cutting board. Using kitchen shears, cut along both sides of the backbone and remove it. Flip the chicken breast-side up and press firmly on the breastbone until it cracks flat. Pat completely dry with paper towels."
+    },
+    {
+      "time_cue": "T\u201350 min",
+      "text": "Rub the chicken all over with avocado oil. Combine salt, pepper, and Herbs de Provence and rub evenly over both sides, getting under the skin where possible. Let rest at room temperature while the grill preheats."
+    },
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Preheat grill to 400\u2013425\u00b0F with lid closed. Set up for indirect heat -- if using a 3-burner grill, turn off the center burner; on a 2-burner, turn one side to low."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Place chicken skin-side up over indirect heat, lid closed. Cook 15 minutes."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Flip chicken. Cook another 15 minutes lid closed."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Flip again. Cook a final 10\u201315 minutes. Check internal temp \u2014 165\u00b0F in the thickest part of the thigh, away from bone."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Rest the chicken 10 minutes before carving. The rest is not optional \u2014 it keeps the juices in the meat."
+    }
+  ],
+  "notes": "Spatchcocking flattens the bird so it cooks more evenly and faster than a whole roast chicken. The skin gets crispier too since more surface area is exposed.\n\nIf the skin is getting too dark before the meat is done, move the chicken to a cooler part of the grill or tent loosely with foil.\n\nPairs naturally with roasted fingerling potatoes and grilled asparagus -- start the potatoes in the oven before the chicken goes on the grill."
+}
