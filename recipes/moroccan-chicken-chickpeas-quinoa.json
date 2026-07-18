@@ -1,0 +1,155 @@
+{
+  "slug": "moroccan-chicken-chickpeas-quinoa",
+  "title": "Moroccan Chicken with Chickpeas & Quinoa",
+  "description": "Braised chicken thighs in warm spices with chickpeas, tomatoes, and wilted spinach, served over fluffy quinoa. High protein, high fiber, deeply flavorful.",
+  "cuisine": "Mediterranean",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "High Protein",
+    "High Fiber",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 45,
+  "servings": 2,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "lemon-herb-quinoa"
+  ],
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "bone-in chicken thighs, skin removed before cooking"
+    },
+    {
+      "amount": "1",
+      "unit": "15-oz can",
+      "name": "chickpeas, drained and rinsed"
+    },
+    {
+      "amount": "1",
+      "unit": "14-oz can",
+      "name": "diced tomatoes"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "low-sodium chicken broth"
+    },
+    {
+      "amount": "0.8",
+      "unit": "cup",
+      "name": "quinoa, rinsed"
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "water (for quinoa)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "yellow onion, diced"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh ginger, grated (or 1 tsp dried)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "ground cumin"
+    },
+    {
+      "amount": "0.8",
+      "unit": "tsp",
+      "name": "ground cinnamon"
+    },
+    {
+      "amount": "0.8",
+      "unit": "tsp",
+      "name": "ground turmeric"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "smoked paprika"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "black pepper, freshly ground"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "baby spinach"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, juiced and zested"
+    },
+    {
+      "amount": "0.3",
+      "unit": "cup",
+      "name": "fresh parsley, roughly chopped"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "walnuts, roughly chopped (optional garnish)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201360 min",
+      "text": "Pat chicken thighs dry. Mix cumin, cinnamon, turmeric, smoked paprika, pepper, and salt in a small bowl. Rub the spice blend all over the chicken. Let sit at room temp while you prep the aromatics."
+    },
+    {
+      "time_cue": "T\u201350 min",
+      "text": "Heat olive oil in a large heavy pot or Dutch oven over medium-high. Sear chicken thighs flat-side down for 4\u20135 minutes until deep golden brown. Flip and sear 3 minutes on the other side. Remove to a plate \u2014 they won't be cooked through yet."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Reduce heat to medium. Add onion to the same pot, scraping up the fond. Cook 4\u20135 minutes until softened. Add garlic and ginger, stir 1 minute until fragrant."
+    },
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Add diced tomatoes, chicken broth, and chickpeas. Stir to combine. Nestle chicken thighs back in, partially submerged. Bring to a gentle boil, then reduce heat to low, cover, and braise 30 minutes."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "While chicken braises, combine quinoa and water in a small saucepan. Bring to a boil, reduce to low, cover and simmer 15 minutes. Remove from heat and let steam covered 5 more minutes. Fluff with a fork."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Uncover the pot. Stir in baby spinach and let it wilt into the sauce, about 2 minutes. Add lemon juice and zest. Taste and adjust salt. If the sauce is too thin, simmer uncovered 3\u20134 minutes."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Spoon quinoa into bowls. Place chicken thighs over the quinoa and ladle chickpea-tomato sauce generously over everything. Top with parsley and optional walnuts for crunch."
+    }
+  ],
+  "notes": "The braise improves overnight -- excellent as leftovers. Doubles easily to 4 servings using 8 thighs with everything else doubled.\n\nWalnuts add a nice textural contrast and a small omega-3 boost as a garnish.\n\nChickpeas and spinach add meaningful fiber -- this is one of the more nutritionally complete dinners in the rotation."
+}
