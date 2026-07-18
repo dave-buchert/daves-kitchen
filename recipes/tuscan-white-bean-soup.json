@@ -1,0 +1,137 @@
+{
+  "slug": "tuscan-white-bean-soup",
+  "title": "Crockpot Tuscan White Bean Soup",
+  "description": "A hearty slow-cooker soup with Italian sausage, chicken, cannellini beans, Yukon Gold potatoes, kale, and spinach, finished with pecorino romano. Better the next day.",
+  "cuisine": "Italian",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "High Protein",
+    "High Fiber"
+  ],
+  "prep_time_minutes": 25,
+  "cook_time_minutes": 240,
+  "servings": 8,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "1.5",
+      "unit": "",
+      "name": "shallots, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "medium onion, chopped"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "celery stalks, chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "mushrooms, chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "carrots, chopped"
+    },
+    {
+      "amount": "0.75",
+      "unit": "lb",
+      "name": "Italian sausage, casing removed"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "chicken breasts, cubed (raw)"
+    },
+    {
+      "amount": "32",
+      "unit": "oz",
+      "name": "chicken stock"
+    },
+    {
+      "amount": "0.75",
+      "unit": "cup",
+      "name": "red wine"
+    },
+    {
+      "amount": "2",
+      "unit": "15-oz cans",
+      "name": "cannellini beans, drained and rinsed"
+    },
+    {
+      "amount": "2",
+      "unit": "14-oz cans",
+      "name": "diced tomatoes, not drained"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "small Yukon Gold potatoes, cut into 1/2-3/4 inch pieces"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "Herbs de Provence"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "black pepper"
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "kale, stems removed, chopped into 1-2 inch pieces"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "fresh baby spinach (to finish)"
+    },
+    {
+      "amount": "1",
+      "unit": "handful",
+      "name": "Pecorino Romano, finely grated or shaved (to finish)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u20134.5 hrs",
+      "text": "Brown the sausage: heat olive oil in a skillet over medium-high. Add sausage and cook until browned, breaking it apart. Add shallots, onion, celery, mushrooms, and carrots and cook 4\u20135 minutes until slightly softened. Add red wine and simmer 30\u201360 seconds, scraping the pan. Transfer everything to the crockpot. (You can skip browning and add everything directly, but it improves flavor significantly.)"
+    },
+    {
+      "time_cue": "T\u20134 hrs",
+      "text": "Build the crockpot: add cubed raw chicken, chicken stock, cannellini beans, diced tomatoes with juice, potatoes, Herbs de Provence, and black pepper. Stir to combine."
+    },
+    {
+      "time_cue": "T\u20134 hrs",
+      "text": "Cook on HIGH for 2 hours, then switch to LOW for 2 more hours."
+    },
+    {
+      "time_cue": "T\u20131 hr",
+      "text": "Optional thickening: scoop out 1\u20132 cups of beans and broth, mash or blend, and stir back into the crockpot for a slightly thicker, richer soup."
+    },
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Add chopped kale. For softer kale add it 60 minutes before serving; for greener kale with more texture, add it 30 minutes before."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Ladle into bowls. Add a handful of fresh spinach to each bowl \u2014 it wilts immediately in the hot broth. Top with finely grated or shaved Pecorino Romano."
+    }
+  ],
+  "notes": "This soup tastes even better the next day as the flavors meld.\n\nHealthier swap: replace Italian sausage with ground turkey. To replicate the sausage flavor, season the turkey as it browns with 1 tsp fennel seeds, 0.5 tsp red pepper flakes, 1 tsp garlic powder, 0.5 tsp dried oregano, 0.5 tsp smoked paprika, and a pinch of anise seed. The swap works especially well in a long braise like this.\n\nKale timing: 60 minutes = softer and more integrated; 30 minutes = greener with more texture. Both work."
+}
