@@ -1,0 +1,86 @@
+{
+  "slug": "apple-cucumber-salad",
+  "title": "Apple and Cucumber Salad",
+  "description": "A crisp, refreshing salad of thinly sliced apple and cucumber with fresh herbs and a light apple cider vinaigrette. Toss right before serving.",
+  "cuisine": "American",
+  "meal_type": "Salad",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 0,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "spatchcock-grilled-chicken",
+    "cedar-plank-salmon-pinot-gris",
+    "braised-pork-chops-vegetables"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "crisp apples (Honeycrisp or similar), thinly sliced or cut into matchsticks"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "English cucumber, halved lengthwise and thinly sliced"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "red onion, thinly sliced"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh parsley or mint, chopped"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "apple cider or white wine vinegar"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "Dijon mustard"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "honey"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "kosher salt and black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Whisk or shake together olive oil, vinegar, Dijon, honey, salt, and pepper until emulsified."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Slice apples thin or cut into matchsticks. Halve cucumber lengthwise and slice thin. Slice red onion. Chop parsley or mint."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Combine apples, cucumber, red onion, and herbs in a large bowl. Toss lightly with vinaigrette right before serving so it stays crisp."
+    }
+  ],
+  "notes": "Dress right before serving \u2014 the vinaigrette softens both the apple and cucumber quickly.\n\nOnly peel the cucumber if it's a waxed variety. English cucumbers don't need peeling."
+}
