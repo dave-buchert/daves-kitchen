@@ -15,7 +15,9 @@
   "servings": 4,
   "is_side": false,
   "healthy": true,
-  "pairs_with": [],
+  "pairs_with": [
+    "classic-soy-glaze"
+  ],
   "ingredients": [
     {
       "amount": "4",
