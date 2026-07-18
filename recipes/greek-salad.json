@@ -1,0 +1,85 @@
+{
+  "slug": "greek-salad",
+  "title": "Greek Salad",
+  "description": "A classic Greek salad with cucumber, cherry tomatoes, red onion, Kalamata olives, and feta in a simple oregano and red wine vinegar dressing.",
+  "cuisine": "Mediterranean",
+  "meal_type": "Salad",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 0,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "spatchcock-grilled-chicken",
+    "seared-halibut-herb-caper-sauce",
+    "moroccan-chicken-chickpeas-quinoa",
+    "lemon-herb-quinoa"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "cucumber, sliced"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cherry tomatoes, halved"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "red onion, thinly sliced"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "Kalamata olives"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "feta cheese, crumbled"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "extra virgin olive oil"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "red wine vinegar"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Whisk together olive oil, red wine vinegar, oregano, salt, and pepper in a small bowl."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Combine cucumber, cherry tomatoes, red onion, olives, and feta in a large bowl."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Pour dressing over the salad and toss gently to combine. Serve immediately or refrigerate for up to an hour before serving."
+    }
+  ],
+  "notes": "Unlike green salads, this holds up well after dressing -- the vegetables don't wilt. Can be made up to an hour ahead.\n\nFor a more traditional presentation, cut cucumber into thick half-moons and leave feta in larger chunks rather than crumbling."
+}
