@@ -1,0 +1,143 @@
+{
+  "slug": "baby-back-ribs",
+  "title": "Baby Back Ribs",
+  "description": "Low-and-slow oven-baked baby back ribs with a brown sugar dry rub, finished with homemade BBQ sauce. Tender, fall-off-the-bone, deeply smoky.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Pork",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 30,
+  "cook_time_minutes": 150,
+  "servings": 3,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [
+    "roasted-fingerling-potatoes",
+    "sauteed-green-beans-onions",
+    "cornbread-with-corn",
+    "cilantro-lime-coleslaw"
+  ],
+  "ingredients": [
+    {
+      "amount": "2.5",
+      "unit": "lbs",
+      "name": "baby back ribs"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar (dry rub)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "paprika (dry rub)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt (dry rub)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper (dry rub)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "garlic powder (dry rub)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "onion powder (dry rub)"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "cayenne pepper, optional (dry rub)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "apple juice or cider vinegar (for foil wrap)"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "ketchup (BBQ sauce)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "apple cider vinegar (BBQ sauce)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "brown sugar (BBQ sauce)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey or maple syrup (BBQ sauce)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Worcestershire sauce (BBQ sauce)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "smoked paprika (BBQ sauce)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "garlic powder (BBQ sauce)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "onion powder (BBQ sauce)"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper (BBQ sauce)"
+    },
+    {
+      "amount": "1",
+      "unit": "dash",
+      "name": "cayenne or hot sauce, optional (BBQ sauce)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u20133 hrs",
+      "text": "Make the dry rub: mix brown sugar, paprika, salt, pepper, garlic powder, onion powder, and cayenne in a small bowl. Remove the membrane from the back of the ribs. Pat ribs dry and coat both sides with the rub. Wrap tightly in foil with a splash of apple juice or cider vinegar. Refrigerate until cook time or leave at room temp if cooking within an hour."
+    },
+    {
+      "time_cue": "T\u20132.5 hrs",
+      "text": "Preheat oven to 275\u00b0F. Place wrapped ribs on a baking sheet and bake for 2.5 hours."
+    },
+    {
+      "time_cue": "T\u201330 min",
+      "text": "Make the BBQ sauce: combine all sauce ingredients in a saucepan over low heat. Simmer 10\u201315 minutes, stirring occasionally. Taste and adjust seasoning. Let cool slightly."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Remove ribs from oven. Carefully open foil -- hot steam will escape. Brush generously with BBQ sauce. Return to oven unwrapped at 375\u00b0F for 15\u201320 minutes until the glaze caramelizes."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Rest 5\u201310 minutes before cutting into individual ribs. Serve with extra BBQ sauce alongside."
+    }
+  ],
+  "notes": "Removing the membrane from the back of the rack is important -- it prevents the rub from penetrating and makes the finished ribs tough to eat.\n\nThe foil wrap with liquid is what keeps the ribs moist during the long low-heat bake. Don't skip it.\n\nFor a smokier flavor without a smoker, add 1/2 tsp liquid smoke to the foil packet."
+}
