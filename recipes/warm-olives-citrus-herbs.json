@@ -1,0 +1,79 @@
+{
+  "slug": "warm-olives-citrus-herbs",
+  "title": "Warm Olives with Citrus & Herbs",
+  "description": "Mixed olives warmed in olive oil with garlic, rosemary, lemon zest, and red pepper flakes. Ready in 10 minutes, pairs well with cheese boards and wine.",
+  "cuisine": "Mediterranean",
+  "meal_type": "Appetizer",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 5,
+  "cook_time_minutes": 6,
+  "servings": 6,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "whipped-herbed-feta-cucumber-rounds",
+    "roasted-peach-crostini-lemon-ricotta-basil"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "mixed olives (Kalamata, green, Ni\u00e7oise)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra-virgin olive oil"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "garlic cloves, lightly crushed"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh rosemary, chopped (or fresh thyme)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "lemon, zested"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "red pepper flakes (optional)"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Rinse and drain olives. Lightly crush garlic cloves and remove skins if you want stronger garlic flavor; leave skins on for milder."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "In a small skillet over low heat, combine olive oil, garlic, rosemary, lemon zest, and red pepper flakes. Warm for about 1 minute, stirring gently, until the oil is fragrant."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Add olives and stir to coat in the infused oil. Warm over low to medium-low heat for 3\u20135 minutes until heated through. Don't let the garlic or herbs brown \u2014 reduce heat if they start to color."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Season with black pepper. Transfer to a serving bowl and serve immediately while warm."
+    }
+  ],
+  "notes": "Citrus options: orange zest or a combination of lemon and orange adds a slightly sweeter note.\n\nHerb swaps: thyme or oregano work as well as rosemary.\n\nFennel seeds: a small pinch adds a subtle savory-sweet flavor.\n\nBake instead: combine all ingredients in an ovenproof dish and warm at 350\u00b0F for 10\u201315 minutes."
+}
