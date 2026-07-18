@@ -1,0 +1,115 @@
+{
+  "slug": "shrimp-tacos-cilantro-lime-slaw",
+  "title": "Shrimp Tacos with Cilantro-Lime Slaw",
+  "description": "Seasoned shrimp seared until pink and lightly browned, served in warm corn tortillas with a creamy cilantro-lime slaw. Fast weeknight dinner.",
+  "cuisine": "Mexican",
+  "meal_type": "Dinner",
+  "protein": "Fish",
+  "dietary": [
+    "Gluten-Free",
+    "High Protein",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 10,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "pico-de-gallo"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "frozen shrimp, peeled and deveined (tail off preferred)"
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "taco seasoning"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "lime, juiced (for shrimp)"
+    },
+    {
+      "amount": "9",
+      "unit": "oz",
+      "name": "coleslaw mix (about 3 heaping cups)"
+    },
+    {
+      "amount": "0.33",
+      "unit": "cup",
+      "name": "fresh cilantro, chopped"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "mayo or Greek yogurt"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "lime juice (for slaw)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "honey or agave syrup"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt"
+    },
+    {
+      "amount": "8",
+      "unit": "",
+      "name": "small corn tortillas"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "avocado, sliced (optional)"
+    },
+    {
+      "amount": "1",
+      "unit": "handful",
+      "name": "cotija or feta cheese, crumbled (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Thaw shrimp: place frozen shrimp in a colander under cold running water for 5\u201310 minutes. Pat thoroughly dry with paper towels \u2014 this is critical for a good sear."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Season shrimp: toss with olive oil, taco seasoning, and lime juice. Set aside while you make the slaw."
+    },
+    {
+      "time_cue": "T\u201312 min",
+      "text": "Make the slaw: whisk together mayo or Greek yogurt, lime juice, honey, and a pinch of salt. Add coleslaw mix and cilantro and toss well. Taste and adjust salt or lime. Let sit to absorb flavor."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "Cook the shrimp: heat a large skillet over medium-high. Add shrimp in a single layer and cook about 2 minutes per side until pink and lightly browned. Remove from heat."
+    },
+    {
+      "time_cue": "T\u20133 min",
+      "text": "Warm tortillas in a dry skillet 30 seconds per side, or microwave wrapped in a damp towel for 30 seconds."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Assemble: layer slaw on the bottom of each tortilla, add 3\u20134 shrimp, then finish with optional toppings \u2014 avocado, hot sauce, cotija, pickled onions, lime wedge."
+    }
+  ],
+  "notes": "Quick drizzle sauce: mix 2 tbsp mayo or yogurt with 1 tbsp lime juice and a dash of hot sauce.\n\nFor extra crunch: add toasted pepitas or chopped radishes.\n\nTropical swap: replace slaw with mango salsa for a different flavor profile.\n\nGreek yogurt in the slaw keeps it lighter than mayo and adds a slight tang that works well with the lime."
+}
