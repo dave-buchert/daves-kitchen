@@ -74,7 +74,7 @@ function Header({ onHome, searchQuery, setSearchQuery, quote }) {
       <div style={{ maxWidth: 900, margin: "0 auto", padding: "16px 24px", display: "flex", alignItems: "center", gap: 16, flexWrap: "wrap" }}>
         <div style={{ cursor: "pointer", flex: 1, minWidth: 160 }} onClick={onHome}>
           <div style={{ fontSize: 22, fontWeight: 600, color: "#F1EFE8", letterSpacing: "-0.3px", fontFamily: "Georgia, serif" }}>
-            Dave's Kitchen
+            What Dave Made
           </div>
           <div style={{ fontSize: 12, color: "#F0997B", marginTop: 1, fontStyle: "italic" }}>
             {quote}
