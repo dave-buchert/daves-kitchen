@@ -1,0 +1,126 @@
+{
+  "slug": "chicken-lentil-stew",
+  "title": "Chicken and Lentil Stew",
+  "description": "Bone-in chicken thighs simmered with lentils, tomatoes, and spinach in a cumin-smoked paprika broth. High protein, high fiber, batch-friendly. Great all week.",
+  "cuisine": "Mediterranean",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "High Protein",
+    "High Fiber"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 60,
+  "servings": 8,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "cornbread-with-corn",
+    "cheesy-drop-biscuits"
+  ],
+  "ingredients": [
+    {
+      "amount": "3.5",
+      "unit": "lbs",
+      "name": "bone-in chicken thighs, skin removed"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "green or brown lentils, rinsed"
+    },
+    {
+      "amount": "28",
+      "unit": "oz",
+      "name": "canned diced tomatoes"
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "baby spinach"
+    },
+    {
+      "amount": "5",
+      "unit": "",
+      "name": "carrots, diced"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "celery stalks, diced"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "yellow onions, diced"
+    },
+    {
+      "amount": "6",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil"
+    },
+    {
+      "amount": "2.5",
+      "unit": "tsp",
+      "name": "ground cumin"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "smoked paprika"
+    },
+    {
+      "amount": "7",
+      "unit": "cups",
+      "name": "low-sodium chicken broth"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "bay leaves"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201375 min",
+      "text": "Dice onions, carrots, and celery. Mince garlic. Remove skin from chicken thighs if not already done. Rinse lentils under cold water."
+    },
+    {
+      "time_cue": "T\u201360 min",
+      "text": "Heat olive oil in a large Dutch oven over medium heat. Add onions, carrots, and celery and cook until softened, about 6 minutes. Add garlic, cumin, and smoked paprika and stir 1 minute until fragrant."
+    },
+    {
+      "time_cue": "T\u201352 min",
+      "text": "Nestle chicken thighs into the pot. Pour in broth and add diced tomatoes and bay leaves. Season with salt and pepper. Bring to a boil over high heat, about 5 minutes."
+    },
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Reduce heat to low, cover, and simmer until chicken is cooked through and tender enough to shred, about 25 minutes."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Remove chicken thighs to a cutting board. Add lentils to the pot, stir, and keep simmering uncovered. Shred chicken with two forks, discarding bones, about 5 minutes."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Continue simmering uncovered until lentils are fully tender, about 20 minutes. Discard bay leaves. The stew will thicken as the lentils absorb liquid."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Return shredded chicken to the pot. Stir in spinach and cook until wilted, about 2 minutes. Taste and adjust seasoning. Serve hot or cool completely and refrigerate up to 5 days."
+    }
+  ],
+  "notes": "Lentils continue absorbing liquid as the stew sits -- add a splash of broth when reheating.\n\nFreezes well for up to 3 months.\n\nIf batch-cooking for multiple days, consider keeping spinach out of the pot and adding it fresh per bowl -- it wilts down and gets slimy after a day or two in the fridge."
+}
