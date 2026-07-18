@@ -1,6 +1,6 @@
 {
   "slug": "jens-slow-cooker-beef-stew",
-  "title": "Jen's Slow Cooker Beef Stew",
+  "title": "Slow Cooker Beef Stew",
   "description": "A deeply savory slow cooker stew with tender beef, root vegetables, red wine, and Worcestershire. Minimal prep, mostly hands-off. Tenderloin is best; lamb works well too.",
   "cuisine": "American",
   "meal_type": "Dinner",
@@ -103,5 +103,7 @@
     }
   ],
   "notes": "Optional additions: 1 lb cooked and crumbled bacon, mushrooms, peas, or corn \u2014 add any of these in the last hour on Low.\n\nCook time listed is 6.5 hours total (30 min High + 6 hrs Low). The flour coating on the meat thickens the broth as it cooks \u2014 no separate roux needed.",
-  "healthy": false
+  "healthy": false,
+  "source_name": "Jen",
+  "source_url": null
 }
