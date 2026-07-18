@@ -1,0 +1,75 @@
+{
+  "slug": "lemon-roasted-potatoes",
+  "title": "Lemon Roasted Potatoes",
+  "description": "Baby potatoes roasted at high heat with lemon, garlic, and oregano until golden and crispy. A bright, versatile side that pairs with almost anything.",
+  "cuisine": "Mediterranean",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 35,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "spatchcock-grilled-chicken",
+    "seared-halibut-herb-caper-sauce",
+    "rustic-chicken-leek-herb-stew"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "lbs",
+      "name": "baby potatoes, halved"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "lemons, juiced"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Preheat oven to 425\u00b0F."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Toss halved potatoes with olive oil, lemon juice, garlic, oregano, salt, and pepper until evenly coated. Spread cut-side down in a single layer on a baking sheet."
+    },
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Roast 30\u201335 minutes until golden brown and crispy, turning once halfway through."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Serve immediately while crispy."
+    }
+  ],
+  "notes": "The lemon juice will look like a lot but it reduces as the potatoes roast, concentrating into a tangy glaze on the cut sides.\n\nDon't crowd the pan -- potatoes steam instead of roast if packed too tightly. Use two sheet pans if needed."
+}
