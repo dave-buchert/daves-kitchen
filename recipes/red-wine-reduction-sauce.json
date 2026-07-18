@@ -1,0 +1,87 @@
+{
+  "slug": "red-wine-reduction-sauce",
+  "title": "Red Wine Reduction Sauce",
+  "description": "A classic pan sauce with shallot, garlic, thyme, and butter. Ready in 20 minutes. Works over steak, pork chops, or roasted chicken.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 5,
+  "cook_time_minutes": 20,
+  "servings": 4,
+  "is_side": true,
+  "healthy": false,
+  "pairs_with": [
+    "chimichurri-steak-broccolini",
+    "braised-pork-chops-vegetables",
+    "spatchcock-grilled-chicken"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dry red wine"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "beef, chicken, or vegetable stock"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "unsalted butter, divided"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "small shallot, finely chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "garlic clove, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh thyme (or 1/2 tsp dried)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sugar (optional, to balance acidity)"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Melt 1 tbsp butter in a medium skillet over medium heat. Add shallot and garlic and saut\u00e9 until softened and fragrant, about 2\u20133 minutes."
+    },
+    {
+      "time_cue": "T\u201317 min",
+      "text": "Pour in the red wine, stirring to scrape up any bits from the bottom of the skillet. Bring to a simmer."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Add stock and thyme. Simmer gently, stirring occasionally, until the liquid reduces by half, about 10\u201315 minutes."
+    },
+    {
+      "time_cue": "T\u20133 min",
+      "text": "Taste and adjust -- if too acidic, stir in the sugar. Season with salt and pepper."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Remove from heat and whisk in the remaining 1 tbsp butter for a glossy finish. Strain through a fine mesh sieve if you prefer a smoother texture. Serve warm."
+    }
+  ],
+  "notes": "The butter finish off heat is important -- adding butter while the pan is still on heat can break the sauce.\n\nFor a richer sauce, use beef stock and a full-bodied red like Cabernet Sauvignon or Merlot.\n\nFor vegetarian, use vegetable stock and the sauce works well over roasted mushrooms or root vegetables."
+}
