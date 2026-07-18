@@ -1,0 +1,99 @@
+{
+  "slug": "seared-halibut-herb-caper-sauce",
+  "title": "Seared Halibut with Herb-Caper Sauce",
+  "description": "Restaurant-quality crust without butter or cream, fast enough for a weeknight. High-heat sear builds flavor that compensates for halibut's low fat content; oven finish keeps it moist.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Fish",
+  "dietary": [
+    "Gluten-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 15,
+  "servings": 2,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "lemon-herb-quinoa",
+    "pico-de-gallo"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "halibut fillets, 6\u20137 oz each (skin-on preferred for structure)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "avocado oil (for searing)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil (for sauce)"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "capers, roughly chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, juiced"
+    },
+    {
+      "amount": "1",
+      "unit": "handful",
+      "name": "fresh parsley, chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard (optional, adds depth)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Pat fillets completely dry \u2014 this is the single biggest factor in getting a good sear. Let them sit on paper towels for 10 minutes before cooking."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Preheat oven to 400\u00b0F."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Heat an oven-safe skillet (stainless or cast iron) over medium-high until very hot. Add a thin coat of avocado oil \u2014 it handles high heat better than olive oil here."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "Sear flesh-side down 2\u20133 minutes without moving. You want a golden crust. Flip once, then immediately transfer the pan to the oven."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Roast 5\u20137 minutes depending on thickness. Halibut is done at 130\u2013135\u00b0F internal \u2014 pull it before it looks fully done, it carries over."
+    },
+    {
+      "time_cue": "T\u20132 min",
+      "text": "While fish rests, drop heat to medium. Add a splash of olive oil to the same pan, saut\u00e9 garlic 60 seconds, add capers and lemon juice, stir in parsley (and Dijon if using). Done in 90 seconds."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Spoon sauce over fillets and serve immediately."
+    }
+  ],
+  "notes": "Why this method: halibut is lean, which makes it taste bland when roasted or steamed alone. A high-heat sear builds a crust that adds flavor and texture the fish can't provide on its own. The oven finish cooks it gently and evenly without drying it out.\n\nGood pairings: roasted asparagus or broccolini (425\u00b0F, olive oil, salt, 12 minutes); farro or quinoa (batch cook and reheat); simple arugula salad with lemon and walnut oil \u2014 walnut oil's flavor is excellent with fish."
+}
