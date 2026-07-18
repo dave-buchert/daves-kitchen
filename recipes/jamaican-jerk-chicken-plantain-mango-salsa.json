@@ -1,0 +1,192 @@
+{
+  "slug": "jamaican-jerk-chicken-plantain-mango-salsa",
+  "title": "Jamaican Jerk Chicken with Grilled Plantain, Garbanzo-Lime Side & Mango Salsa",
+  "description": "Grilled jerk chicken with allspice and Scotch bonnet heat, caramelized plantains, a quick garbanzo-lime side, and fresh mango salsa. Low sat fat, high protein.",
+  "cuisine": "Caribbean",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 20,
+  "servings": 2,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "1.3",
+      "unit": "lbs",
+      "name": "boneless skinless chicken thighs or breasts"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "scallions, roughly chopped"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "garlic cloves (for marinade)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh ginger, peeled"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "Scotch bonnet or habanero pepper, seeds removed for less heat"
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ground allspice"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh thyme leaves (or 1 tsp dried)"
+    },
+    {
+      "amount": "0.3",
+      "unit": "tsp",
+      "name": "ground cinnamon"
+    },
+    {
+      "amount": "0.3",
+      "unit": "tsp",
+      "name": "ground nutmeg"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "low-sodium soy sauce"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lime, juiced (for marinade)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "brown sugar"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "avocado oil (for marinade)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "ripe plantains (yellow with black spots)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "avocado oil (for plantains)"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "canned garbanzo beans, drained and rinsed"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "garlic clove, minced (for beans)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (for beans)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "lime, juiced (for beans)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "ground cumin"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh cilantro, chopped (for beans)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "ripe mango, diced"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "tomato, diced (optional)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "red onion, finely diced"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "jalape\u00f1o, finely diced, seeds removed"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh cilantro, chopped (for salsa)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "lime, juiced (for salsa)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "salt"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u20138 hrs",
+      "text": "Make the jerk marinade: blend scallions, garlic, ginger, Scotch bonnet, allspice, thyme, cinnamon, nutmeg, soy sauce, lime juice, brown sugar, and avocado oil in a food processor to a thick paste, adding a splash of water if needed. Rub all over chicken, cover, and refrigerate at least 1 hour -- ideally 4\u20138 hours or overnight."
+    },
+    {
+      "time_cue": "T\u201330 min",
+      "text": "Make the mango salsa: combine mango, tomato (if using), red onion, jalape\u00f1o, cilantro, and lime juice. Toss gently, season with salt, and let sit at room temp while you grill so the flavors meld."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Make the garbanzo side: warm olive oil in a small pan over medium heat. Add minced garlic and cook 30 seconds. Add garbanzo beans and cumin, stir to coat, and heat through 3\u20134 minutes. Off heat, stir in lime juice and cilantro. Season with salt."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Peel plantains and slice on a diagonal into 3/4-inch thick pieces. Toss with avocado oil."
+    },
+    {
+      "time_cue": "T\u201312 min",
+      "text": "Preheat grill to medium-high (~400\u00b0F). Grill chicken 5\u20137 minutes per side until internal temp hits 165\u00b0F and you have good char. Rest 5 minutes before slicing."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Grill plantain slices alongside or after chicken, about 3\u20134 minutes per side, until caramelized and golden with grill marks."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Slice chicken and plate with plantains and garbanzo side. Top chicken generously with mango salsa."
+    }
+  ],
+  "notes": "Heat level: one Scotch bonnet with seeds removed is moderate. Leave seeds in for real heat, or use half a pepper for milder.\n\nRipe plantains are key -- look for yellow with heavy black spotting. Green plantains won't caramelize the same way.\n\nThe garbanzo side and mango salsa can both be made while the chicken marinates."
+}
