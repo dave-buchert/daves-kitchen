@@ -1,0 +1,92 @@
+{
+  "slug": "mediterranean-veggie-feta-egg-casserole",
+  "title": "Mediterranean Veggie & Feta Egg Casserole",
+  "description": "A fresh, herby egg casserole with zucchini, cherry tomatoes, spinach, and feta. Works as a make-ahead breakfast or light dinner. Optional sausage for non-vegetarian version.",
+  "cuisine": "Mediterranean",
+  "meal_type": "Breakfast",
+  "protein": "Eggs",
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 40,
+  "servings": 6,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "8",
+      "unit": "",
+      "name": "eggs"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "milk (whole, half-and-half, or lactose-free)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "zucchini, diced"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry tomatoes, halved"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "fresh spinach"
+    },
+    {
+      "amount": "0.75",
+      "unit": "cup",
+      "name": "feta cheese, crumbled"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    },
+    {
+      "amount": "12",
+      "unit": "oz",
+      "name": "sausage, optional (see notes)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201355 min",
+      "text": "Preheat oven to 375\u00b0F. Grease a 9x13 baking dish."
+    },
+    {
+      "time_cue": "T\u201350 min",
+      "text": "If using sausage, cook it in a skillet over medium-high heat, breaking it apart, until browned. Set aside."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "In the same skillet, saut\u00e9 zucchini until tender, about 5 minutes. Add spinach and stir until wilted. Remove from heat."
+    },
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Whisk together eggs, milk, oregano, salt, and pepper in a large bowl."
+    },
+    {
+      "time_cue": "T\u201330 min",
+      "text": "Spread sausage (if using) and saut\u00e9ed vegetables in the baking dish. Scatter cherry tomatoes and feta over the top. Pour egg mixture evenly over everything."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Bake 35\u201340 minutes until the center is set and the top is lightly golden. Rest 5 minutes before slicing."
+    }
+  ],
+  "notes": "Without sausage this is a clean, vegetarian meal. With sausage it's no longer healthy -- choose based on your goals.\n\nMake-ahead: assemble the night before, cover and refrigerate, bake in the morning.\n\nFreezer-friendly: bake, cool completely, cut into squares, and freeze up to 2 months. Reheat individual squares in the microwave or oven.\n\nVeggie rule: always pre-cook watery vegetables like zucchini and mushrooms before adding -- skipping this step leads to a soggy casserole."
+}
