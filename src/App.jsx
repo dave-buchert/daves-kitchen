@@ -272,6 +272,14 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
           {recipe.description}
         </p>
       )}
+      {recipe.source_name && (
+        <p style={{ margin: "-12px 0 20px", fontSize: 13, color: "#888780", fontStyle: "italic" }}>
+          Recipe from{" "}
+          {recipe.source_url
+            ? <a href={recipe.source_url} target="_blank" rel="noopener noreferrer" style={{ color: "#993C1D", textDecoration: "none" }}>{recipe.source_name}</a>
+            : recipe.source_name}
+        </p>
+      )}
 
       <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: 24 }}>
         {recipe.cuisine && <Badge label={recipe.cuisine} color="blue" />}
