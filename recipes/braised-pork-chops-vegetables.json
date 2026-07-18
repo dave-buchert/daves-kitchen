@@ -1,0 +1,139 @@
+{
+  "slug": "braised-pork-chops-vegetables",
+  "title": "Braised Pork Chops with Vegetables",
+  "description": "Boneless pork chops seared until golden then braised low and slow with onion, carrots, celery, mushrooms, potatoes, and tomatoes. Fork-tender, deeply flavored, one pot.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Pork",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 55,
+  "servings": 4,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [
+    "sauteed-green-beans-onions",
+    "green-salad-pears-walnuts-blue-cheese"
+  ],
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "boneless pork chops, 1\u20131.5 inches thick"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil or butter"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "large onion, sliced"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "medium carrots, cut into chunks"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "celery stalks, cut into chunks"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "medium Yukon Gold potatoes, cubed"
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "cremini or baby bella mushrooms, sliced"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "chicken broth"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cherry tomatoes, halved (or 1 cup diced tomatoes)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried thyme or rosemary"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "bay leaf (optional)"
+    },
+    {
+      "amount": "1.25",
+      "unit": "tsp",
+      "name": "kosher salt"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "black pepper"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "dry white wine or apple cider (optional)"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "frozen peas or green beans (optional, added at the end)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201370 min",
+      "text": "Pat pork chops dry and season all over with salt and pepper. Chop onion, carrots, and celery into 1-inch chunks. Mince garlic. Cube potatoes and hold in a bowl of cold water to prevent browning. Slice mushrooms."
+    },
+    {
+      "time_cue": "T\u201355 min",
+      "text": "Heat olive oil or butter in a heavy Dutch oven or enamel pan over medium heat. Sear chops 3\u20134 minutes per side until deep golden brown. Work in batches if needed \u2014 don't crowd the pan. Transfer to a plate."
+    },
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Add onion, carrots, and celery to the same pan with a pinch of salt. Cook 5\u20136 minutes, stirring, until softened. Add mushrooms and cook until they release moisture and start to brown, about 5\u20137 minutes. Stir in garlic for 30\u201360 seconds."
+    },
+    {
+      "time_cue": "T\u201336 min",
+      "text": "Optional: splash in white wine or apple cider and simmer 1\u20132 minutes, scraping up the browned bits. Add broth, tomato paste, cherry tomatoes, thyme, and bay leaf if using. Stir to combine."
+    },
+    {
+      "time_cue": "T\u201333 min",
+      "text": "Drain potatoes and add to the pot. Nestle pork chops back in \u2014 liquid should come about halfway up the chops; add a splash of broth if needed. Bring to a bare simmer, then reduce heat to low, cover, and cook gently for 25 minutes. Keep it at a lazy simmer, not a hard boil."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "If using peas or green beans, stir them in now for the last 5 minutes. Transfer chops to a warm plate to rest. Taste the sauce and adjust salt and pepper. Optional: mix 1 tbsp cornstarch with 1 tbsp cold water and stir in to thicken; or reduce uncovered 5 minutes. A teaspoon of cider vinegar or lemon juice brightens the sauce."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Return chops to the pan for 30 seconds to rewarm. Plate chops and spoon vegetables and sauce over the top."
+    }
+  ],
+  "notes": "Thinner chops (under 1 inch): check doneness at 20 minutes and pull them early; let the vegetables finish another 5\u201310 minutes without the chops.\n\nFlavor swaps: rosemary instead of thyme; apple cider plus a sliced apple for an autumn version.\n\nFor a richer sauce: stir in 1 tbsp butter off heat just before serving for sheen and body."
+}
