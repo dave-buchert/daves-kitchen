@@ -1,0 +1,69 @@
+{
+  "slug": "cilantro-lime-coleslaw",
+  "title": "Cilantro-Lime Coleslaw",
+  "description": "A simple, bright coleslaw with cilantro, lime, and a light creamy dressing. Works as a side or as a topping for tacos, fish, or wraps.",
+  "cuisine": "Mexican",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 0,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "shrimp-tacos-cilantro-lime-slaw",
+    "chile-lime-chicken-wraps",
+    "pork-chop-taco-bowl"
+  ],
+  "ingredients": [
+    {
+      "amount": "9",
+      "unit": "oz",
+      "name": "coleslaw mix (about 3 heaping cups)"
+    },
+    {
+      "amount": "0.33",
+      "unit": "cup",
+      "name": "fresh cilantro, chopped"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "mayo or Greek yogurt"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "lime juice (about half a juicy lime)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "honey or agave syrup"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt to taste"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Whisk together mayo or Greek yogurt, lime juice, honey, and a pinch of salt in a large bowl."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Add coleslaw mix and cilantro. Toss well to coat. Taste and adjust salt or lime."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Let sit 5\u201310 minutes before serving to let the flavors develop. Toss again before plating."
+    }
+  ],
+  "notes": "Greek yogurt keeps it lighter than mayo and adds a slight tang that works well with the lime.\n\nWorks as a standalone side or as a topping for tacos, fish wraps, or pulled pork."
+}
