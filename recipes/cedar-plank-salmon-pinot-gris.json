@@ -1,0 +1,113 @@
+{
+  "slug": "cedar-plank-salmon-pinot-gris",
+  "title": "Cedar Plank Salmon with Pinot Gris Glaze & Lemon Garlic Yogurt Sauce",
+  "description": "Cedar plank salmon soaked in pinot gris, finished with a wine-honey glaze and served with a lemon garlic yogurt sauce.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Fish",
+  "dietary": [
+    "Gluten-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 20,
+  "servings": 3,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "lemon-herb-quinoa",
+    "walnut-beet-salad"
+  ],
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "salmon fillets, skin-on (under 1 inch thick)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "kosher salt (for dry brine)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "brown sugar (for dry brine)"
+    },
+    {
+      "amount": "0.3",
+      "unit": "cup",
+      "name": "pinot gris (for glaze)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "butter"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh dill or tarragon (optional)"
+    },
+    {
+      "amount": "7",
+      "unit": "tbsp",
+      "name": "non-fat Greek yogurt"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, juiced"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "olive oil"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u20132 hrs",
+      "text": "Submerge cedar plank in pinot gris, topping up with water as needed. Weigh it down so it stays submerged. Soak at least 1 hour, 2 hours preferred. Reserve the soaking liquid when ready to cook. Set salmon out to approach room temperature."
+    },
+    {
+      "time_cue": "T\u201330 min",
+      "text": "Pat salmon fillets dry with paper towels. Mix salt and brown sugar and apply a light coating to the flesh side only \u2014 not the skin. Set on a plate uncovered on the counter."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Combine pinot gris and honey in a small saucepan over medium heat. Reduce until syrupy, about 5\u20136 minutes. Remove from heat, stir in butter and dill or tarragon if using. Set aside \u2014 it will thicken as it cools. If it seizes up, thin with a few drops of warm water."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Combine yogurt, lemon juice, minced garlic, and olive oil in a small bowl. Thin with water to drizzle consistency. Season with a pinch of salt, taste and adjust. Set aside."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Preheat grill on all burners to medium-high, lid closed, target 400\u00b0F."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Remove plank from soaking liquid \u2014 reserve the liquid. Place plank on grill over direct heat, lid closed. Wait until it starts smoking and you can smell the cedar, about 3\u20134 minutes. Keep a spray bottle of water nearby the entire time. Once smoking, turn off the burner(s) directly under the plank \u2014 indirect heat from here on."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "Pat salmon dry quickly and place skin-side down on the smoking plank with space between fillets. Brush flesh with first coat of glaze. Close grill lid and keep it closed. Watch for flare-ups; if the plank catches flame, spritz immediately with water."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Check salmon \u2014 flesh should be opaque about \u00be of the way up the side and just starting to flake when pressed lightly. Brush second coat of glaze. Optionally brush a small amount of reserved soaking liquid over flesh for a lacquered finish. Close lid 1\u20132 more minutes max. Target 125\u2013130\u00b0F internal for medium, 145\u00b0F fully cooked through."
+    }
+  ],
+  "notes": "Thin fillets: pull at 90% done \u2014 residual heat finishes them. The window between perfect and overcooked is about 90 seconds.\n\nPlank: heavy smoke is normal. Open flame is not \u2014 spritz and monitor throughout.\n\nGlaze: if it seized and got too thick, thin with a few drops of warm water before applying the second coat.\n\nPlank soak: minimum 1 hour in pinot gris, 2 hours preferred. Reserve the soaking liquid \u2014 a brush of it over the fish before the second glaze adds a lacquered finish."
+}
