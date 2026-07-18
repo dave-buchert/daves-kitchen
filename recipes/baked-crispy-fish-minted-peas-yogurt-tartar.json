@@ -1,0 +1,137 @@
+{
+  "slug": "baked-crispy-fish-minted-peas-yogurt-tartar",
+  "title": "Baked Crispy Fish with Minted Peas & Yogurt Tartar",
+  "description": "A lightened-up take on crispy fish \u2014 baked instead of fried, with a yogurt-based tartar sauce and buttery minted peas served over grains.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Fish",
+  "dietary": [
+    "High Protein"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 30,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "lemon-herb-quinoa"
+  ],
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "white fish fillets (sole, cod, or halibut)"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "avocado oil, divided"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "panko breadcrumbs"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "all-purpose or whole wheat flour"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "large eggs, whisked"
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "quinoa or farro, uncooked"
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "frozen peas"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "unsalted butter"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "unwaxed lemon, zested and juiced"
+    },
+    {
+      "amount": "0.3",
+      "unit": "cup",
+      "name": "fresh mint leaves, finely chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "non-fat Greek yogurt"
+    },
+    {
+      "amount": "0.3",
+      "unit": "cup",
+      "name": "cornichons, coarsely chopped"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "capers, coarsely chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "shallot, finely diced"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "fresh dill, finely chopped"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "lemon, zested and juiced (for tartar)"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "flaky salt and black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Rinse quinoa or farro and cook according to package directions. Set aside covered to keep warm."
+    },
+    {
+      "time_cue": "T\u201330 min",
+      "text": "Make the tartar sauce: mix yogurt, cornichons, capers, shallot, dill, and lemon zest and juice in a bowl. Season with salt and pepper. Refrigerate until serving."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Preheat oven to 425\u00b0F with a wire rack set inside a baking sheet."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Bread the fish: season fillets, coat each in flour (shake off excess), dip in whisked egg, then press into panko until well coated. Place on the wire rack and brush or drizzle with avocado oil."
+    },
+    {
+      "time_cue": "T\u201312 min",
+      "text": "Bake fish until golden and cooked through, about 12\u201315 minutes, flipping halfway if needed for even browning."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Make the minted peas: boil salted water and cook frozen peas about 4 minutes until tender. Drain well, return to pot with butter, and crush lightly with a potato masher. Off heat, stir in lemon zest and mint. Season with salt and pepper. Hold the lemon juice until just before serving."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Stir lemon juice into peas just before serving. Plate the grain, top with minted peas, the baked fish, and a generous spoonful of tartar sauce."
+    }
+  ],
+  "notes": "Skip the breading and pan-sear in avocado oil for a leaner, gluten-free version.\n\nSole, cod, and halibut all work well here \u2014 sole is most delicate, halibut is meatiest.\n\nThe tartar sauce keeps well refrigerated for 3\u20134 days and doubles as a dip for vegetables."
+}
