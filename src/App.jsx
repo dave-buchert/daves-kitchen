@@ -234,13 +234,17 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
     return scaled % 1 === 0 ? scaled : parseFloat(scaled.toFixed(2));
   };
 
-  const pairedRecipes = (recipe.pairs_with || [])
+  const pairedSlugs = new Set(recipe.pairs_with || []);
+  const pairedByOtherSlugs = allRecipes
+    .filter(r => r.slug !== recipe.slug && r.pairs_with?.includes(recipe.slug))
+    .map(r => r.slug);
+  pairedByOtherSlugs.forEach(s => pairedSlugs.add(s));
+
+  const pairedRecipes = [...pairedSlugs]
     .map(s => allRecipes.find(r => r.slug === s))
     .filter(Boolean);
 
-  const pairedByOthers = allRecipes.filter(r =>
-    r.slug !== recipe.slug && r.pairs_with?.includes(recipe.slug)
-  );
+  const pairedByOthers = [];
 
   useEffect(() => {
     window.history.pushState({}, "", `/recipe/${recipe.slug}`);
@@ -382,7 +386,7 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
             Pairs well with
           </h2>
           <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
-            {[...pairedRecipes, ...pairedByOthers].map(r => (
+            {pairedRecipes.map(r => (
               <div key={r.slug}
                 onClick={() => onNavigate(r.slug)}
                 style={{
