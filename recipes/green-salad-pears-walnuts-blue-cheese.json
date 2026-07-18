@@ -1,0 +1,91 @@
+{
+  "slug": "green-salad-pears-walnuts-blue-cheese",
+  "title": "Green Salad with Pears, Walnuts, and Blue Cheese",
+  "description": "A simple, elegant salad of mixed greens, ripe pears, walnuts, and blue cheese with a Dijon red wine vinaigrette. Dress only right before serving.",
+  "cuisine": "American",
+  "meal_type": "Salad",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 0,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "jens-slow-cooker-beef-stew",
+    "rustic-chicken-leek-herb-stew",
+    "spatchcock-grilled-chicken"
+  ],
+  "source_name": "Jen",
+  "source_url": null,
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "cups",
+      "name": "mixed greens (spring mix, arugula, or a combination)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "ripe pears, thinly sliced"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "walnuts"
+    },
+    {
+      "amount": "0.33",
+      "unit": "cup",
+      "name": "blue cheese, crumbled"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "red wine vinegar"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "honey or maple syrup (optional, if pears aren't very sweet)"
+    },
+    {
+      "amount": "1",
+      "unit": "small amount",
+      "name": "red onion, thinly sliced (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Make the dressing: whisk together olive oil, red wine vinegar, Dijon, salt, and pepper. Add honey or maple syrup if the pears aren't very sweet."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Slice pears thin and remove seeds. Toss briefly with a tiny splash of dressing to prevent browning."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Add greens to the serving bowl. Scatter pears over the top, then walnuts, then blue cheese crumbles (and red onion if using). Dress only right before serving and toss lightly."
+    }
+  ],
+  "notes": "Dress right before serving -- once dressed, the greens wilt quickly.\n\nThe small splash of dressing on the pears does double duty: prevents browning and pre-seasons them slightly."
+}
