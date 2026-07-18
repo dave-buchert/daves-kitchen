@@ -1,0 +1,71 @@
+{
+  "slug": "spaghetti-squash",
+  "title": "Roasted Spaghetti Squash",
+  "description": "Oven-roasted spaghetti squash shredded into tender noodle-like strands. Serve with your favorite pasta sauce, with or without meat.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 40,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "tuscan-white-bean-soup"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "spaghetti squash (heavy for its size, firm yellow rind)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "water (optional, for steam)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201350 min",
+      "text": "Preheat oven to 400\u00b0F. Line a baking sheet with parchment or foil."
+    },
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Cut squash in half lengthwise -- use a sharp knife and take care, the rind is hard. Scoop out seeds and stringy pulp with a spoon."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Drizzle cut sides with olive oil and season with salt and pepper. Place cut-side down on the baking sheet. Optionally add 1/4 cup water to the pan to create steam, which helps soften the strands."
+    },
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Roast 30\u201345 minutes depending on size. Check doneness by piercing the skin with a fork -- it should go through easily and the flesh should shred readily into strands."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Let cool a few minutes. Use a fork to scrape the flesh into noodle-like strands. For extra softness, saut\u00e9 strands briefly in a skillet with a little butter or olive oil, or microwave for 1\u20132 minutes."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Serve topped with your favorite pasta sauce, with or without meat."
+    }
+  ],
+  "notes": "Size matters for timing: a small squash (2\u20133 lbs) is done in 30 minutes; a large one (4\u20135 lbs) may need 45 minutes or more.\n\nThe water on the pan is optional but recommended if you want softer strands rather than slightly al dente ones.\n\nLeftover strands keep refrigerated for 3\u20134 days and reheat well in a skillet."
+}
