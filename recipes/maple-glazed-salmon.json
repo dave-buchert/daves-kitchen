@@ -1,0 +1,84 @@
+{
+  "slug": "maple-glazed-salmon",
+  "title": "Maple-Glazed Salmon",
+  "description": "A simple three-ingredient glaze of maple syrup, bourbon, and Dijon reduced into a syrupy finish for cedar plank salmon. Also excellent on pork chops.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Fish",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 5,
+  "cook_time_minutes": 40,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "roasted-fingerling-potatoes",
+    "grilled-asparagus",
+    "lemon-herb-quinoa"
+  ],
+  "source_name": "Sandy",
+  "source_url": null,
+  "ingredients": [
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "maple syrup"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "bourbon (Jack Daniels or similar)"
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "Dijon mustard"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "dried thyme or Herbs de Provence"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "liquid smoke"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "salmon fillets"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "cedar plank, soaked in water at least 1 hour"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201390 min",
+      "text": "Soak cedar plank in water for at least 1 hour before grilling."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Combine maple syrup, bourbon, Dijon mustard, thyme or Herbs de Provence, and liquid smoke in a small saucepan. Bring to a boil, then reduce heat and simmer about 30 minutes until reduced and syrupy. Set aside."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Preheat grill to medium-high. Place soaked cedar plank on grill over direct heat, lid closed, until it starts smoking, about 3\u20134 minutes. Move to indirect heat."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Place salmon fillets skin-side down on the smoking plank. Close lid and cook 10\u201315 minutes until salmon is just cooked through."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Spoon glaze generously over salmon and serve immediately. Pass extra glaze at the table."
+    }
+  ],
+  "notes": "The glaze also works beautifully on pork chops -- brush on during the last few minutes of grilling.\n\nLiquid smoke is listed as 1/2 tsp but the original card just says 'smoke' -- adjust to taste depending on how smoky you want it.\n\nThe glaze keeps refrigerated for 2 weeks and is worth making a double batch."
+}
