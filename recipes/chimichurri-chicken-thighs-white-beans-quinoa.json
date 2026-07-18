@@ -1,0 +1,137 @@
+{
+  "slug": "chimichurri-chicken-thighs-white-beans-quinoa",
+  "title": "Chimichurri Chicken Thighs with Garlicky White Beans & Quinoa",
+  "description": "Grilled bone-in chicken thighs over herby chimichurri, with smoky saut\u00e9ed white beans and fluffy quinoa. Three components, one great plate.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "High Protein",
+    "High Fiber"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 30,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "chimichurri-sauce",
+    "lemon-herb-quinoa"
+  ],
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "bone-in skin-on chicken thighs"
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "flat-leaf parsley, packed"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "garlic cloves, minced (for chimichurri)"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "red wine vinegar"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "extra virgin olive oil (for chimichurri)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "red pepper flakes"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt and black pepper"
+    },
+    {
+      "amount": "2",
+      "unit": "15-oz cans",
+      "name": "cannellini or white beans, drained and rinsed"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil (for beans)"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "garlic cloves, minced (for beans)"
+    },
+    {
+      "amount": "1",
+      "unit": "sprig",
+      "name": "fresh rosemary (or 1/2 tsp dried)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "smoked paprika"
+    },
+    {
+      "amount": "0.3",
+      "unit": "cup",
+      "name": "low-sodium chicken broth (for beans)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, juiced"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "quinoa, rinsed"
+    },
+    {
+      "amount": "1.8",
+      "unit": "cups",
+      "name": "water or low-sodium chicken broth (for quinoa)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Make the chimichurri: finely chop parsley by hand or pulse 4\u20135 times in a food processor -- do not puree. Combine with 4 minced garlic cloves, red wine vinegar, olive oil, oregano, red pepper flakes, and a generous pinch of salt and pepper. Stir and set aside -- it needs at least 15 minutes to meld."
+    },
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Season chicken thighs: pat completely dry and season generously all over with salt and pepper."
+    },
+    {
+      "time_cue": "T\u201330 min",
+      "text": "Grill chicken skin-side down over medium-high heat. Don't move them -- let the skin render and release naturally, about 10\u201312 minutes. Flip and cook another 10\u201312 minutes until internal temp reaches 165\u00b0F. Rest 5 minutes before serving."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Cook quinoa: combine quinoa and water or broth in a saucepan. Bring to a boil, reduce to lowest simmer, cover, and cook 15 minutes until water is absorbed. Remove from heat and rest covered 5 minutes. Fluff with a fork."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Build the white beans: heat olive oil in a skillet over medium heat. Add 4 minced garlic cloves and rosemary. Cook 60\u201390 seconds until fragrant but not brown. Add beans and smoked paprika, stir to coat. Pour in chicken broth and let it reduce 3\u20134 minutes, stirring occasionally. Squeeze in lemon juice, season, and remove rosemary sprig."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Spoon quinoa as the base. Add a generous scoop of white beans alongside. Place chicken thigh on top. Spoon chimichurri liberally over the chicken -- and over the beans and quinoa too. Extra chimichurri on the table."
+    }
+  ],
+  "notes": "Chimichurri improves the longer it sits -- make it first, or even the day before.\n\nDon't rush the skin on the grill. Letting it release naturally gives you crispy skin without tearing. If it's sticking, it needs more time.\n\nThe white beans can be made ahead and reheated -- they hold well and actually improve as the flavors meld."
+}
