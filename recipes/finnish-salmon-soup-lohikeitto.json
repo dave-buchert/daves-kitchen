@@ -1,6 +1,6 @@
 {
   "slug": "finnish-salmon-soup-lohikeitto",
-  "title": "Sandy's Finnish Salmon Soup (Lohikeitto)",
+  "title": "Finnish Salmon Soup (Lohikeitto)",
   "description": "A classic Finnish salmon soup \u2014 silky, dill-forward, and deeply comforting. Salmon simmered gently in a rich fish stock with leeks, potatoes, carrot, and cream.",
   "cuisine": "Scandinavian",
   "meal_type": "Dinner",
@@ -102,5 +102,7 @@
       "text": "Remove from heat and serve immediately. Ladle into bowls and garnish with extra dill if desired."
     }
   ],
-  "notes": "Skin the salmon before cutting into chunks \u2014 retain the skins for the fish stock. This is the foundation of the soup's flavor.\n\nHeat discipline is everything in this soup: gentle simmer throughout, lowest possible heat once cream and salmon are in. If the surface is actively churning, it's too hot. Occasional bubbles and light steam is correct.\n\nOptional additions: mushrooms integrate well when added with the potatoes; spinach goes in at the very end \u2014 any earlier and it goes dull and stringy.\n\nScales to 6 servings with 1.5 lbs salmon, everything else unchanged."
+  "notes": "Skin the salmon before cutting into chunks \u2014 retain the skins for the fish stock. This is the foundation of the soup's flavor.\n\nHeat discipline is everything in this soup: gentle simmer throughout, lowest possible heat once cream and salmon are in. If the surface is actively churning, it's too hot. Occasional bubbles and light steam is correct.\n\nOptional additions: mushrooms integrate well when added with the potatoes; spinach goes in at the very end \u2014 any earlier and it goes dull and stringy.\n\nScales to 6 servings with 1.5 lbs salmon, everything else unchanged.",
+  "source_name": "Sandy",
+  "source_url": null
 }
