@@ -1,0 +1,119 @@
+{
+  "slug": "rustic-chicken-leek-herb-stew",
+  "title": "Rustic Chicken, Leek, and Herb Stew",
+  "description": "A British farmhouse-style stew with bone-in chicken thighs, leeks, white wine, and potatoes. Rich but still brothy. The kind of thing that improves overnight.",
+  "cuisine": "British",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "Gluten-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 55,
+  "servings": 4,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [],
+  "source_name": "Julius Roberts \u2014 inspired by",
+  "source_url": "https://substack.com/@juliusroberts",
+  "ingredients": [
+    {
+      "amount": "6",
+      "unit": "",
+      "name": "bone-in chicken thighs (or mix of thighs and drumsticks)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "leeks, sliced into half moons"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "small onion, diced"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "carrots, chopped"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "garlic cloves, crushed"
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "waxy potatoes, cut into large chunks"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "dry white wine"
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "good chicken stock"
+    },
+    {
+      "amount": "1",
+      "unit": "small bunch",
+      "name": "fresh thyme"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "bay leaf"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "heavy cream (optional)"
+    },
+    {
+      "amount": "1",
+      "unit": "large handful",
+      "name": "fresh parsley, chopped"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil or butter"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201360 min",
+      "text": "Season chicken thighs generously with salt. Heat olive oil or butter in a heavy pot over medium-high. Brown chicken until golden on both sides, about 4\u20135 minutes per side. Remove to a plate."
+    },
+    {
+      "time_cue": "T\u201350 min",
+      "text": "In the same pot, add leeks, onion, carrots, and garlic with a pinch of salt. Cook over medium heat until softened, about 8 minutes."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Add wine and scrape up any browned bits from the bottom of the pot. Reduce by half, about 3\u20134 minutes."
+    },
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Add potatoes, stock, thyme, bay leaf, and browned chicken. Bring to a gentle simmer, cover, and cook 35\u201340 minutes until chicken is cooked through and potatoes are tender."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Remove chicken pieces to a plate and let cool briefly. Remove thyme sprigs and bay leaf from the pot. Once cool enough to handle, discard the bones and skin and tear meat into large pieces."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Return chicken meat to the stew. Stir in cream (if using) and parsley. Taste and adjust salt and pepper. The broth should be rich but still brothy rather than thick. Serve immediately."
+    }
+  ],
+  "notes": "The cream is optional but common in British farmhouse cooking -- the stew is good without it if you want to keep it lighter.\n\nThis improves significantly overnight as the flavors meld. Worth making a day ahead if you can.\n\nServe with good crusty bread to soak up the broth."
+}
