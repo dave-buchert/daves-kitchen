@@ -1,0 +1,93 @@
+{
+  "slug": "bourbon-maple-pear-cranberry-chutney-crackers",
+  "title": "Bourbon Maple Pear & Cranberry Chutney on Crackers",
+  "description": "Sweet-tart pear and cranberry chutney with bourbon, ginger, and cinnamon, served on sturdy crackers with creamy cheese. A festive holiday appetizer that's mostly make-ahead.",
+  "cuisine": "American",
+  "meal_type": "Appetizer",
+  "protein": null,
+  "dietary": [
+    "Vegetarian"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 10,
+  "servings": 8,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "large ripe but firm pear (Bosc or Anjou), peeled, cored, and diced into 1/2-inch pieces"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh cranberries (frozen works, do not thaw)"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "bourbon maple syrup (or 1/4 cup maple syrup + 1 tbsp bourbon, whisked together)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "bourbon (optional, for extra depth)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh ginger, grated (or 1/4 tsp ground ginger)"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "ground cinnamon"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "water or orange juice"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt"
+    },
+    {
+      "amount": "22",
+      "unit": "",
+      "name": "whole-grain or seeded crackers (sturdy, neutral-flavored)"
+    },
+    {
+      "amount": "5",
+      "unit": "oz",
+      "name": "mild creamy cheese (whipped feta, goat cheese, or cream cheese)"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "fresh thyme leaves or chives, for garnish (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201330 min",
+      "text": "Combine diced pear, cranberries, bourbon maple syrup, bourbon (if using), ginger, cinnamon, salt, and water or juice in a medium saucepan. Stir to combine."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Bring to a gentle simmer over medium heat, stirring occasionally. Cranberries will begin to pop. Simmer 8\u201310 minutes until cranberries break down, pear softens but still holds some shape, and the mixture thickens to a jam-like consistency. If too thick, add a splash of water; if too loose, simmer a few minutes more."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Taste and adjust -- add a pinch more salt, a drizzle of maple syrup for sweetness, or a squeeze of lemon for brightness. Remove from heat and cool to room temperature. Chutney will thicken further as it cools."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Spread about 1 tsp of creamy cheese onto each cracker. Top with a heaping teaspoon of chutney. Garnish with thyme leaves or chives if desired. Arrange on a platter and serve immediately."
+    }
+  ],
+  "notes": "Chutney can be made 1\u20132 days ahead -- store in an airtight container in the fridge and bring to room temperature before serving.\n\nAssemble crackers just before guests arrive to keep them from getting soggy.\n\nNo bourbon maple syrup? Whisk 1/4 cup pure maple syrup with 1 tbsp bourbon. Can also be gently warmed on the stove to blend, then cooled."
+}
