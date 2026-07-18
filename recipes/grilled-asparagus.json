@@ -1,0 +1,73 @@
+{
+  "slug": "grilled-asparagus",
+  "title": "Grilled Asparagus",
+  "description": "Simply grilled asparagus with olive oil, salt, and pepper. Finished with lemon zest and optional parmesan. Fast, reliable, works alongside almost anything.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 5,
+  "cook_time_minutes": 8,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "cedar-plank-salmon-pinot-gris",
+    "spatchcock-grilled-chicken",
+    "seared-halibut-herb-caper-sauce"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "asparagus, woody ends snapped off"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil or avocado oil"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, zested (to finish)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "parmesan, shaved (optional finish)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Bachan's Japanese Barbecue Sauce (optional finish)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Snap woody ends off asparagus by bending each stalk until it breaks naturally. Toss with oil, salt, and pepper."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "Place asparagus on grill grates over direct medium-high heat. Grill 5\u20138 minutes, rolling once or twice for even char."
+    },
+    {
+      "time_cue": "T\u20131 min",
+      "text": "Optional: in the last 60\u201390 seconds, brush lightly with Bachan's for a savory-sweet finish. Pull when slightly charred and just tender with a little bite remaining."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Plate immediately. Finish with lemon zest and shaved parmesan while hot."
+    }
+  ],
+  "notes": "Don't overcook -- asparagus should have a little bite remaining. It continues to soften slightly off the grill.\n\nFor oven roasting instead: 425\u00b0F for 10\u201312 minutes, single layer on a sheet pan."
+}
