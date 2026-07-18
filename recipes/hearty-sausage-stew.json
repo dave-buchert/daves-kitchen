@@ -1,0 +1,132 @@
+{
+  "slug": "hearty-sausage-stew",
+  "title": "Hearty Sausage Stew",
+  "description": "Italian sausage broken into chunks and slow-cooked with white beans, Swiss chard, cinnamon, and Madeira. Rich, deeply flavored, and built for dunking bread into.",
+  "cuisine": "Italian",
+  "meal_type": "Dinner",
+  "protein": "Pork",
+  "dietary": [
+    "Gluten-Free",
+    "High Protein",
+    "High Fiber"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 50,
+  "servings": 4,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [
+    "cornbread-with-corn",
+    "cheesy-drop-biscuits"
+  ],
+  "source_name": "Julius Roberts",
+  "source_url": "https://substack.com/@juliusroberts",
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "Italian sausages, skins removed, broken into small pieces"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "garlic cloves, finely sliced"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "celery stalks, finely sliced"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "medium yellow onions, finely sliced"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "1",
+      "unit": "generous pinch",
+      "name": "red pepper flakes"
+    },
+    {
+      "amount": "3",
+      "unit": "sprigs",
+      "name": "fresh rosemary (or sage or thyme)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "bay leaves"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "cinnamon stick"
+    },
+    {
+      "amount": "0.4",
+      "unit": "cup",
+      "name": "Madeira, sweet sherry, beer, or white wine"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "whole canned tomatoes (or 1 can fire-roasted crushed tomatoes)"
+    },
+    {
+      "amount": "42",
+      "unit": "oz",
+      "name": "white beans, canned and drained (cannellini or butter beans)"
+    },
+    {
+      "amount": "3.25",
+      "unit": "cups",
+      "name": "chicken stock"
+    },
+    {
+      "amount": "9",
+      "unit": "oz",
+      "name": "Swiss chard or Tuscan kale (cavolo nero), stalks separated from leaves"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "salt and black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201355 min",
+      "text": "Slice the skins of the sausages and remove the meat. Break roughly into small meatball-sized pieces. Finely slice garlic, celery, and onions."
+    },
+    {
+      "time_cue": "T\u201350 min",
+      "text": "Get a large heavy-based pan hot. Drizzle in olive oil and once warm, add the sausage. Fry a few minutes to release the fat and get some color on the meat."
+    },
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Turn heat right down. Add garlic, red pepper flakes, rosemary, bay leaves, and cinnamon. Keep the heat low and gentle -- this stage is about slowly infusing flavor into the oil. Don't let the garlic color."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Pour in the Madeira to deglaze (add early if garlic is starting to color). Scrape up the fond with a wooden spoon. Add onions, celery, and crush in the tomatoes. Season generously, mix well, and cook on a gentle heat for 10\u201312 minutes until onions are sweet and softened."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Add beans and pour in the stock. Bring to a gentle simmer and cook 20\u201330 minutes until the broth thickens and the flavors come together."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "Chop the Swiss chard stalks into 2cm pieces. Add to the broth and simmer a few minutes. Then add the leaves and stir through. Put the lid on, turn off the heat, and leave for 5 minutes."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Remove lid, taste, and adjust -- more red pepper flakes if the warmth isn't there, more salt if the broth needs richness. Ladle generously into bowls. Serve with thick slices of buttered bread for dunking."
+    }
+  ],
+  "notes": "The cinnamon stick is not optional -- it adds a subtle warmth that ties everything together without tasting like a dessert. Remove before serving.\n\nMadeira is the classic choice but sweet sherry, white wine, or even beer all work. Use what you have.\n\nSeparating chard stalks from leaves matters -- stalks go in first as they need more time; leaves wilt almost instantly."
+}
