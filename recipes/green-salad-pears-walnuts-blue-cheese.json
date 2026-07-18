@@ -13,7 +13,7 @@
   "cook_time_minutes": 0,
   "servings": 4,
   "is_side": true,
-  "healthy": true,
+  "healthy": false,
   "pairs_with": [
     "jens-slow-cooker-beef-stew",
     "rustic-chicken-leek-herb-stew",
