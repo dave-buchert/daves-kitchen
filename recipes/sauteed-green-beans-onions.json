@@ -1,0 +1,89 @@
+{
+  "slug": "sauteed-green-beans-onions",
+  "title": "Saut\u00e9ed Green Beans and Onions",
+  "description": "Green beans and caramelized onions saut\u00e9ed together in olive oil or butter. Simple, fast, works alongside almost anything.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 15,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "spatchcock-grilled-chicken",
+    "jens-slow-cooker-beef-stew",
+    "brown-sugar-mustard-glazed-ham"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "green beans, trimmed"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "medium onion, thinly sliced"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil or butter"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "garlic cloves, minced (optional)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "salt, or to taste"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper, or to taste"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "red pepper flakes (optional)"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "lemon zest or grated parmesan to finish (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Optional but recommended: blanch green beans in boiling salted water for 2\u20133 minutes, then transfer immediately to an ice water bath to stop cooking. Drain and set aside. This keeps the color vibrant and gives you more control over texture."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Heat olive oil or butter in a large skillet over medium heat. Add sliced onions and cook, stirring occasionally, 5\u20137 minutes until softened and starting to caramelize."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "If using garlic, stir it in and cook 30\u201360 seconds until fragrant."
+    },
+    {
+      "time_cue": "T\u20137 min",
+      "text": "Add green beans to the skillet. Season with salt, pepper, and red pepper flakes if using. Saut\u00e9 5\u20137 minutes, stirring occasionally, until beans are tender-crisp and coated in the onion mixture."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Transfer to a serving dish. Finish with lemon zest or grated parmesan if desired. Serve warm."
+    }
+  ],
+  "notes": "The blanching step is optional but worth doing -- it locks in the green color and gives you a head start on cooking so the beans don't spend too long in the pan.\n\nFor a vegan version, use olive oil instead of butter."
+}
