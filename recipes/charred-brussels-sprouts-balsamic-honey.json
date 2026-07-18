@@ -1,0 +1,80 @@
+{
+  "slug": "charred-brussels-sprouts-balsamic-honey",
+  "title": "Charred Brussels Sprouts with Balsamic Honey Glaze",
+  "description": "High-heat roasted Brussels sprouts with deeply charred cut sides, finished with a quick balsamic honey glaze. The char is the whole point.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 25,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "spatchcock-grilled-chicken",
+    "chimichurri-steak-broccolini",
+    "brown-sugar-mustard-glazed-ham",
+    "lemon-herb-roasted-spatchcock-chicken"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "lbs",
+      "name": "Brussels sprouts, trimmed and halved"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "0.8",
+      "unit": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "black pepper"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "balsamic vinegar"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "honey"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Preheat oven to 425\u2013450\u00b0F. Use a heavy sheet pan."
+    },
+    {
+      "time_cue": "T\u201330 min",
+      "text": "Trim and halve Brussels sprouts. Toss with olive oil, salt, and pepper."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Arrange cut side down on the pan -- don't crowd them. Do not stir."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Check at the 20-minute mark. Continue roasting until cut sides are deeply charred, not just browned. Total 20\u201325 minutes."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Remove pan from oven. Drizzle balsamic vinegar and honey over hot sprouts and toss quickly to coat. Serve immediately."
+    }
+  ],
+  "notes": "The char is the whole point -- don't pull them early. Deeply charred cut sides are what you're after, not just golden brown.\n\nRatio to remember: 2:1 balsamic to honey.\n\nOptional additions: crispy pancetta, toasted walnuts, shaved parmesan."
+}
