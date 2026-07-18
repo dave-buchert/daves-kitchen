@@ -1,0 +1,98 @@
+{
+  "slug": "zucchini-bread",
+  "title": "Zucchini Bread",
+  "description": "A classic, moist zucchini bread with cinnamon and vanilla. Simple, reliable, and makes two loaves.",
+  "cuisine": "American",
+  "meal_type": "Breakfast",
+  "protein": null,
+  "dietary": [
+    "Vegetarian"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 60,
+  "servings": 16,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [],
+  "source_name": "Darlene (Dave's mom)",
+  "source_url": null,
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "eggs, beaten"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "sugar"
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "vanilla extract"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "oil (vegetable or canola)"
+    },
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "all-purpose flour"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking powder"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking soda"
+    },
+    {
+      "amount": "3",
+      "unit": "tsp",
+      "name": "cinnamon"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "zucchini, shredded (unpeeled)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201375 min",
+      "text": "Preheat oven to 350\u00b0F. Grease two standard loaf pans."
+    },
+    {
+      "time_cue": "T\u201370 min",
+      "text": "In a large bowl, cream together the beaten eggs, sugar, vanilla, and oil until well combined."
+    },
+    {
+      "time_cue": "T\u201365 min",
+      "text": "In a separate bowl, sift together flour, baking powder, salt, baking soda, and cinnamon."
+    },
+    {
+      "time_cue": "T\u201360 min",
+      "text": "Add the dry ingredients to the wet mixture and stir until just combined. Fold in the shredded zucchini."
+    },
+    {
+      "time_cue": "T\u201355 min",
+      "text": "Divide batter evenly between the two greased loaf pans. Bake at 350\u00b0F for 1 hour, or until a toothpick inserted into the center comes out clean."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Cool in pans for 10 minutes before turning out onto a wire rack. Slice when fully cooled."
+    }
+  ],
+  "notes": "Don't peel the zucchini -- the skin shreds fine and adds color.\n\nNo need to squeeze out the zucchini moisture for this recipe; it contributes to the bread's moist texture.\n\nFreezes well -- wrap individual slices or whole loaves tightly. Thaws at room temperature in a few hours."
+}
