@@ -394,7 +394,7 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
 }
 
 function FilterBar({ filters, setFilters, recipes }) {
-  const SECTION_MEAL_TYPES = ["Salad", "Side", "Snack", "Appetizer"];
+  const SECTION_MEAL_TYPES = ["Side", "Snack", "Appetizer"];
   const cuisines = [...new Set(recipes.map(r => r.cuisine).filter(Boolean))].sort();
   const mealTypes = [...new Set(recipes.map(r => r.meal_type).filter(Boolean))]
     .filter(v => !SECTION_MEAL_TYPES.includes(v)).sort();
