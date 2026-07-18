@@ -1,0 +1,83 @@
+{
+  "slug": "classic-herbed-butter",
+  "title": "Classic Herbed Butter",
+  "description": "Softened butter blended with fresh parsley, chives, and thyme. Keeps for two weeks refrigerated or freeze for longer. Finishes steaks, fish, chicken, vegetables, and bread.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 0,
+  "servings": 8,
+  "is_side": true,
+  "healthy": false,
+  "pairs_with": [
+    "spatchcock-grilled-chicken",
+    "chimichurri-steak-broccolini",
+    "seared-halibut-herb-caper-sauce"
+  ],
+  "ingredients": [
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "unsalted butter (1 stick), softened to room temperature"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh parsley, finely chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh chives, finely chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh thyme leaves, chopped (or rosemary, tarragon, or dill)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "fine sea salt, or to taste"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "freshly ground black pepper"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "lemon zest (optional)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "small garlic clove, minced or grated (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201390 min",
+      "text": "Let butter sit at room temperature until soft enough to mix easily."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Combine softened butter with herbs, salt, pepper, and any optional additions. Mix with a fork or spatula until fully incorporated. Taste and adjust seasoning."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Shape the butter: spoon onto plastic wrap or parchment and roll into a log, twisting the ends to seal. Alternatively, pack into a small bowl or ramekin."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Refrigerate at least 1 hour until firm. Slice or scoop as needed."
+    }
+  ],
+  "notes": "Keeps refrigerated for 1\u20132 weeks well wrapped. Freezes well for longer storage -- slice the log into coins before freezing for easy single-use portions.\n\nUses: melt a pat over grilled steak, fish, or chicken; stir into steamed vegetables; spread on crusty bread or dinner rolls; top baked potatoes."
+}
