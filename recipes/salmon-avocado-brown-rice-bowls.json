@@ -1,0 +1,140 @@
+{
+  "slug": "salmon-avocado-brown-rice-bowls",
+  "title": "Salmon & Avocado Brown Rice Bowls",
+  "description": "Flaky ponzu salmon over brown rice with marinated radishes and cucumber, seasoned avocado, and a spicy yogurt sauce. High protein, built around clean ingredients.",
+  "cuisine": "Asian",
+  "meal_type": "Dinner",
+  "protein": "Fish",
+  "dietary": [
+    "High Protein",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 45,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "skin-on salmon fillets (6-7 oz each)"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "dry brown rice"
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "mirin"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "avocados"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "Persian cucumbers, medium diced"
+    },
+    {
+      "amount": "6",
+      "unit": "oz",
+      "name": "radishes, halved and thinly sliced"
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "vegetarian ponzu sauce"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil (for cooking)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white wine vinegar"
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "togarashi seasoning"
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "sambal oelek, adjust to taste"
+    },
+    {
+      "amount": "6",
+      "unit": "tbsp",
+      "name": "non-fat Greek yogurt"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "avocado oil mayo"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "reduced-sodium soy sauce (for glaze)"
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "honey (for glaze)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "rice vinegar (for glaze)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201350 min",
+      "text": "Cook the brown rice: combine rice with 4 cups water and a pinch of salt. Bring to a boil, reduce to low, cover, and cook 40\u201345 minutes until absorbed. Let steam 5 minutes off heat, then fluff and stir in mirin."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Make the soy glaze: combine soy sauce, honey, and rice vinegar in a small saucepan over medium heat. Bring to a simmer and cook 5\u20138 minutes, stirring occasionally, until thickened and glossy. Remove from heat \u2014 it thickens more as it cools. You'll use about 4 tbsp total; refrigerate the rest (keeps 2 weeks)."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Marinate the vegetables: combine sliced radishes and diced cucumbers in a bowl with 2 tbsp of the soy glaze. Stir to coat and set aside at least 10 minutes, stirring occasionally."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Season the avocado: dice avocado and toss with white wine vinegar and togarashi. Season with salt and pepper. Prep this close to serving \u2014 avocado doesn't hold well."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Make the spicy yogurt sauce: whisk together yogurt, mayo, sambal oelek, and 2 tbsp water until smooth. Season with salt and pepper. Adjust sambal oelek for heat."
+    },
+    {
+      "time_cue": "T\u201312 min",
+      "text": "Cook the salmon: pat fillets dry and season both sides with salt and pepper. Heat olive oil in a large pan over medium. Add salmon skin-side up \u2014 work in two batches if needed to avoid crowding. Loosely cover with foil and cook 3\u20135 minutes until lightly browned."
+    },
+    {
+      "time_cue": "T\u20137 min",
+      "text": "Flip salmon and cook skin-side down 2\u20134 minutes to 145\u00b0F internal. In the last 60 seconds, brush the flesh side with soy glaze. Transfer to a plate and repeat with remaining fillets if cooking in batches."
+    },
+    {
+      "time_cue": "T\u20132 min",
+      "text": "Remove and discard the skin. Flake salmon into large pieces with two forks. Add ponzu sauce and toss gently to coat."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Divide brown rice among four bowls. Top each with ponzu salmon, seasoned avocado, marinated vegetables with their liquid, and a drizzle of spicy yogurt sauce. Add a light drizzle of extra soy glaze if desired."
+    }
+  ],
+  "notes": "Store components separately for leftovers \u2014 rice and salmon reheat well, marinated vegetables improve overnight, spicy yogurt sauce keeps 3 days. Make fresh avocado when eating leftovers.\n\nThe soy glaze makes more than you need. Keep it \u2014 works on chicken thighs, roasted vegetables, or next week's salmon.\n\nTwo batches of 2 fillets is cleaner than crowding the pan. Crowding steams instead of browns."
+}
