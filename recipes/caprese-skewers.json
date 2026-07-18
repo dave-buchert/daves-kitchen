@@ -1,0 +1,59 @@
+{
+  "slug": "caprese-skewers",
+  "title": "Caprese Skewers",
+  "description": "Cherry tomatoes, fresh mozzarella, and basil on toothpicks with a balsamic glaze drizzle. The easiest appetizer that always looks good on a platter.",
+  "cuisine": "Italian",
+  "meal_type": "Appetizer",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 0,
+  "servings": 8,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "warm-olives-citrus-herbs",
+    "whipped-herbed-feta-cucumber-rounds"
+  ],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "pint",
+      "name": "cherry tomatoes"
+    },
+    {
+      "amount": "8",
+      "unit": "oz",
+      "name": "fresh mozzarella balls (ciliegine or bocconcini)"
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "fresh basil leaves"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "balsamic glaze or reduction"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "flaky salt and black pepper (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Thread a cherry tomato, a mozzarella ball, and a folded basil leaf onto each toothpick or small skewer."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Arrange on a platter and drizzle with balsamic glaze. Finish with a pinch of flaky salt and black pepper if desired."
+    }
+  ],
+  "notes": "Can be assembled up to 1 hour ahead and refrigerated -- bring to room temperature before serving for best flavor.\n\nCiliegine (small) or bocconcini (medium) mozzarella balls are the right size for skewers. Avoid the large fresh mozzarella log.\n\nStore-bought balsamic glaze works fine. To make your own, simmer balsamic vinegar in a small saucepan over medium-low heat until reduced by half and syrupy."
+}
