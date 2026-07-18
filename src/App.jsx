@@ -510,6 +510,7 @@ export default function App() {
   const sides = sort(filtered.filter(r => r.is_side));
   const salads = sort(filtered.filter(r => !r.is_side && SALAD_TYPES.includes(r.meal_type)));
   const snacks = sort(filtered.filter(r => !r.is_side && SNACK_TYPES.includes(r.meal_type)));
+  const desserts = sort(filtered.filter(r => !r.is_side && DESSERT_TYPES.includes(r.meal_type)));
 
   return (
     <div style={{ minHeight: "100vh", background: "#F8F6F4", fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" }}>
@@ -574,12 +575,22 @@ export default function App() {
                 </section>
               )}
               {snacks.length > 0 && (
-                <section>
+                <section style={{ marginBottom: 40 }}>
                   <h2 style={{ fontSize: 16, fontWeight: 600, color: "#888780", textTransform: "uppercase", letterSpacing: 1, marginBottom: 16 }}>
                     Snacks & Appetizers
                   </h2>
                   <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: 14 }}>
                     {snacks.map(r => <RecipeCard key={r.slug} recipe={r} onClick={setCurrentSlug} allRecipes={recipes} />)}
+                  </div>
+                </section>
+              )}
+              {desserts.length > 0 && (
+                <section>
+                  <h2 style={{ fontSize: 16, fontWeight: 600, color: "#888780", textTransform: "uppercase", letterSpacing: 1, marginBottom: 16 }}>
+                    Desserts
+                  </h2>
+                  <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: 14 }}>
+                    {desserts.map(r => <RecipeCard key={r.slug} recipe={r} onClick={setCurrentSlug} allRecipes={recipes} />)}
                   </div>
                 </section>
               )}
