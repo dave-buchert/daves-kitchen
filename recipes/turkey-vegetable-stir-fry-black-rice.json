@@ -1,0 +1,138 @@
+{
+  "slug": "turkey-vegetable-stir-fry-black-rice",
+  "title": "Turkey & Vegetable Stir-Fry over Black Rice",
+  "description": "Ginger-garlic-tamari stir-fry with ground turkey and a heavy vegetable load over nutty black rice. High protein, fast once the rice is going.",
+  "cuisine": "Asian",
+  "meal_type": "Dinner",
+  "protein": "Turkey",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 40,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "black rice"
+    },
+    {
+      "amount": "2.3",
+      "unit": "cups",
+      "name": "water (for rice)"
+    },
+    {
+      "amount": "1.5",
+      "unit": "lbs",
+      "name": "ground turkey (93% lean)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "avocado oil, divided"
+    },
+    {
+      "amount": "5",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh ginger, grated"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "low-sodium tamari or soy sauce"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "rice vinegar"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "toasted sesame oil (finishing only)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "bell peppers, any color, thinly sliced"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "bok choy, roughly chopped"
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "snap peas (snow peas work as a 1:1 swap)"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "mushrooms, sliced"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "green onions, sliced"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "red pepper flakes"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cornstarch"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "water (for slurry)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sesame seeds (garnish)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Rinse black rice well. Combine with water in a saucepan, bring to a boil, then reduce to the lowest simmer and cover. Cook 30\u201335 minutes until water is absorbed. Remove from heat and rest covered 10 minutes. Fluff with a fork. Start this first -- everything else builds around it."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Mix the sauce: whisk together tamari, rice vinegar, and red pepper flakes in a small bowl. In a separate small bowl, mix cornstarch with water to make a slurry. Set both aside."
+    },
+    {
+      "time_cue": "T\u201312 min",
+      "text": "Heat 1 tbsp avocado oil in a large skillet or wok over high heat. Add ground turkey and break apart. Cook without stirring 2 minutes to build browning, then break up and cook through, about 5\u20136 minutes total. Season lightly with salt. Remove turkey to a plate -- do not leave it in the pan."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Add remaining 1 tbsp avocado oil to the same pan, still on high. Add garlic and ginger and stir constantly for 30 seconds. Add mushrooms first -- they need the most time, about 2 minutes. Add bell peppers and snap peas, cook 2 minutes. Add bok choy last -- it wilts in about 90 seconds. Don't crowd the pan; you want sear not steam."
+    },
+    {
+      "time_cue": "T\u20131 min",
+      "text": "Return turkey to the pan. Pour sauce over everything and toss to coat. Add the cornstarch slurry and stir 60 seconds until sauce thickens and clings. Remove from heat and drizzle sesame oil over the top."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Spoon black rice into bowls. Pile stir-fry on top. Garnish with green onions and sesame seeds. Serve immediately -- stir-fry does not hold well."
+    }
+  ],
+  "notes": "Black rice is nutty and slightly chewy -- rinse it well or the water turns very dark. Don't rush the cook time.\n\nHigh heat is non-negotiable for stir-fry. If the pan isn't hot enough, vegetables steam instead of sear.\n\nPull the turkey out before stir-frying the vegetables -- if left in, it overcooks and the vegetables won't sear properly.\n\nSesame oil is finishing-only. It burns and loses its flavor if added during cooking."
+}
