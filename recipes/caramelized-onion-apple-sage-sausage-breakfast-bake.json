@@ -1,0 +1,105 @@
+{
+  "slug": "caramelized-onion-apple-sage-sausage-breakfast-bake",
+  "title": "Caramelized Onion, Apple & Sage Sausage Breakfast Bake",
+  "description": "A crustless breakfast casserole with deeply caramelized onions, sausage, diced apple, and melted cheese over a sage egg custard. Great for make-ahead brunches.",
+  "cuisine": "American",
+  "meal_type": "Breakfast",
+  "protein": "Eggs",
+  "dietary": [
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 35,
+  "cook_time_minutes": 40,
+  "servings": 7,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "breakfast sausage, pork or turkey (apple-sage variety works especially well)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "large yellow onions, thinly sliced"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "medium apple, small dice (Honeycrisp for sweeter, Granny Smith for more tart)"
+    },
+    {
+      "amount": "1.25",
+      "unit": "cups",
+      "name": "sharp white cheddar or smoked gouda, shredded"
+    },
+    {
+      "amount": "8",
+      "unit": "",
+      "name": "large eggs"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "whole milk or half-and-half"
+    },
+    {
+      "amount": "1.25",
+      "unit": "tsp",
+      "name": "fresh sage, finely chopped (or 3/4 tsp dried)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "kosher salt"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil or butter (for onions)"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "nutmeg or splash of Dijon mustard (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201380 min",
+      "text": "Caramelize the onions: heat olive oil or butter in a large skillet over medium-low heat. Add onions with a pinch of salt and cook 20\u201325 minutes, stirring occasionally, until deeply golden and sweet. Don't rush this step -- it's the flavor backbone."
+    },
+    {
+      "time_cue": "T\u201355 min",
+      "text": "In a separate skillet, brown the sausage until cooked through. Add diced apple during the last 2\u20133 minutes so it softens slightly but keeps its shape. Remove from heat."
+    },
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Preheat oven to 375\u00b0F. Grease an 8x8 or 9x13 baking dish."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Spread sausage and apple mixture evenly in the dish. Top with caramelized onions. Sprinkle cheese evenly over everything."
+    },
+    {
+      "time_cue": "T\u201338 min",
+      "text": "Whisk together eggs, milk, sage, salt, pepper, and nutmeg or Dijon if using. Pour evenly over the casserole."
+    },
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Bake uncovered 35\u201340 minutes (an 8x8 dish may take 40\u201345 minutes) until the center is set, the top is lightly golden, and a knife inserted in the center comes out clean."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Rest 5\u201310 minutes before slicing. Serve warm."
+    }
+  ],
+  "notes": "Make-ahead: assemble fully, cover and refrigerate overnight, bake in the morning. Add 5 minutes to bake time if going straight from the fridge.\n\nCheese swaps: Gruy\u00e8re adds more savory depth; smoked gouda adds a subtle smokiness that works well with apple.\n\nFor a lighter version: use turkey sausage and whole milk instead of half-and-half.\n\nExtra cozy variation: add a pinch of cinnamon or allspice to the egg mixture -- use a very light hand."
+}
