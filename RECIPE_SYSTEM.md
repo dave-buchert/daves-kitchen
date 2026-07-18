@@ -1,7 +1,7 @@
 # Dave's Kitchen — Recipe System
 
 ## Overview
-A public recipe site at https://daves-kitchen.netlify.app built with React, hosted on Netlify, with recipes stored as JSON files in this GitHub repo. Claude adds and edits recipes by pushing JSON files via the GitHub API.
+A public recipe site at https://daves-kitchen.pages.dev built with React, hosted on Netlify, with recipes stored as JSON files in this GitHub repo. Claude adds and edits recipes by pushing JSON files via the GitHub API.
 
 ## Credentials
 - **GitHub repo**: dave-buchert/daves-kitchen
