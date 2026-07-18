@@ -1,0 +1,119 @@
+{
+  "slug": "cheesy-drop-biscuits",
+  "title": "Cheesy Drop Biscuits",
+  "description": "Buttery, cheesy drop biscuits with sharp cheddar and optional garlic butter topping. No rolling, no cutting -- just drop and bake. Makes 20\u201324 small biscuits.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 14,
+  "servings": 12,
+  "is_side": true,
+  "healthy": false,
+  "pairs_with": [
+    "tuscan-white-bean-soup",
+    "jens-slow-cooker-beef-stew",
+    "rustic-chicken-leek-herb-stew"
+  ],
+  "ingredients": [
+    {
+      "amount": "3",
+      "unit": "cups",
+      "name": "all-purpose flour"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "baking powder"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "baking soda"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "garlic powder"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "black pepper"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "cold unsalted butter (2 sticks), cubed"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "sharp cheddar cheese, shredded"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh chives or parsley, chopped (optional)"
+    },
+    {
+      "amount": "1.75",
+      "unit": "cups",
+      "name": "buttermilk, cold"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "butter, melted (for topping, optional)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "garlic powder (for topping, optional)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh parsley, chopped (for topping, optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201330 min",
+      "text": "Preheat oven to 425\u00b0F. Line two baking sheets with parchment paper."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Whisk together flour, baking powder, baking soda, salt, garlic powder, and pepper in a large bowl."
+    },
+    {
+      "time_cue": "T\u201322 min",
+      "text": "Cut in cold butter with a pastry cutter or your fingers until the mixture resembles coarse crumbs. Cold butter is important -- don't let it warm up."
+    },
+    {
+      "time_cue": "T\u201318 min",
+      "text": "Stir in shredded cheese and herbs."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Add buttermilk and stir just until combined -- do not overmix or the biscuits will be tough."
+    },
+    {
+      "time_cue": "T\u201312 min",
+      "text": "Drop heaping spoonfuls or use a large cookie scoop onto the baking sheets. Bake 12\u201314 minutes until golden brown."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "If using garlic butter topping, mix melted butter, garlic powder, and parsley and brush over biscuits immediately out of the oven."
+    }
+  ],
+  "notes": "Garlic powder is highly recommended -- it works especially well alongside seafood dishes.\n\nMake-ahead: mix dry ingredients and shred cheese in advance. Unbaked dough drops freeze well -- bake straight from frozen, adding about 3 minutes to the bake time.\n\nKey technique: keep everything cold and don't overmix once the buttermilk goes in. Both are critical for flaky, tender biscuits."
+}
