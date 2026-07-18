@@ -406,7 +406,7 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
 }
 
 function FilterBar({ filters, setFilters, recipes }) {
-  const SECTION_MEAL_TYPES = ["Side", "Snack", "Appetizer"];
+  const SECTION_MEAL_TYPES = ["Snack", "Appetizer"];
   const cuisines = [...new Set(recipes.map(r => r.cuisine).filter(Boolean))].sort();
   const mealTypes = [...new Set(recipes.map(r => r.meal_type).filter(Boolean))]
     .filter(v => !SECTION_MEAL_TYPES.includes(v)).sort();
@@ -504,10 +504,11 @@ export default function App() {
 
   const SNACK_TYPES = ["Snack", "Appetizer"];
   const SALAD_TYPES = ["Salad"];
-  const mains = filtered.filter(r => !r.is_side && !SNACK_TYPES.includes(r.meal_type) && !SALAD_TYPES.includes(r.meal_type));
-  const sides = filtered.filter(r => r.is_side);
-  const salads = filtered.filter(r => !r.is_side && SALAD_TYPES.includes(r.meal_type));
-  const snacks = filtered.filter(r => !r.is_side && SNACK_TYPES.includes(r.meal_type));
+  const sort = arr => [...arr].sort((a, b) => a.title.localeCompare(b.title));
+  const mains = sort(filtered.filter(r => !r.is_side && !SNACK_TYPES.includes(r.meal_type) && !SALAD_TYPES.includes(r.meal_type)));
+  const sides = sort(filtered.filter(r => r.is_side));
+  const salads = sort(filtered.filter(r => !r.is_side && SALAD_TYPES.includes(r.meal_type)));
+  const snacks = sort(filtered.filter(r => !r.is_side && SNACK_TYPES.includes(r.meal_type)));
 
   return (
     <div style={{ minHeight: "100vh", background: "#F8F6F4", fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" }}>
