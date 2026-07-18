@@ -1,0 +1,119 @@
+{
+  "slug": "chimichurri-steak-broccolini",
+  "title": "Chimichurri Steak with Roasted Broccolini",
+  "description": "Grilled steak finished with bright, garlicky chimichurri alongside oven-roasted broccolini. Everything comes together in 45 minutes with coordinated grill and oven timing.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Beef",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 30,
+  "servings": 2,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [
+    "green-salad-pears-walnuts-blue-cheese"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "steaks, 1.25\u20131.5 inches thick (ribeye, NY strip, or sirloin)"
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "kosher salt (for steak)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper (for steak)"
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "fresh parsley, finely chopped"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "0.75",
+      "unit": "tsp",
+      "name": "salt (for chimichurri)"
+    },
+    {
+      "amount": "0.75",
+      "unit": "tsp",
+      "name": "red pepper flakes"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "red wine vinegar"
+    },
+    {
+      "amount": "0.75",
+      "unit": "cup",
+      "name": "olive oil (for chimichurri)"
+    },
+    {
+      "amount": "1",
+      "unit": "bunch",
+      "name": "broccolini, trimmed"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil (for broccolini)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt (for broccolini)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "lemon (to finish broccolini, optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Make the chimichurri: combine parsley, garlic, salt, red pepper flakes, red wine vinegar, and olive oil. Mix well and let sit at room temperature. Can be made hours ahead."
+    },
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Preheat oven to 425\u00b0F and preheat grill to high (450\u2013550\u00b0F). Remove steaks from the refrigerator. Season both sides generously with salt and pepper and let sit at room temperature."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Toss broccolini with olive oil and salt. Spread on a sheet pan in a single layer and place in the oven. Set a timer for 15\u201318 minutes. Broccolini should be slightly charred \u2014 that bitterness balances the steak fat and chimichurri."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Place steaks on the hot grill, lid closed. For 1.25\u20131.5 inch thick steaks: 4\u20135 minutes first side, flip, 4\u20135 minutes second side. Pull at 125\u00b0F for medium-rare, 130\u00b0F for medium. Do not cut before resting."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Transfer steaks to a plate and rest 10 minutes. Do not skip \u2014 cutting early causes significant juice loss."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Remove broccolini from oven. Squeeze lemon over if desired."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Slice steak across the grain. Spoon chimichurri generously over the top. Serve immediately with broccolini alongside."
+    }
+  ],
+  "notes": "Chimichurri improves as it sits \u2014 make it up to a day ahead and refrigerate, bringing it back to room temperature before serving.\n\nGrill times assume a 1.25\u20131.5 inch thick steak. Thinner steaks (under 1 inch) need 3 minutes per side; thicker cuts (over 1.5 inches) may need a reverse sear or longer indirect time.\n\nThe slight char on the broccolini is intentional \u2014 don't pull it too early."
+}
