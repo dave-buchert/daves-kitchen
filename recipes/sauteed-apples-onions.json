@@ -1,0 +1,96 @@
+{
+  "slug": "sauteed-apples-onions",
+  "title": "Saut\u00e9ed Apples and Onions",
+  "description": "Sweet-savory saut\u00e9ed apples and caramelized onions with cinnamon and thyme. A natural pairing for pork chops, but works alongside roasted chicken or pork tenderloin too.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 15,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "braised-pork-chops-vegetables",
+    "spatchcock-grilled-chicken"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "apples (Granny Smith or Honeycrisp), cored and thinly sliced"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "medium onion, thinly sliced"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "unsalted butter"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "ground cinnamon"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "dried thyme (optional)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "apple cider vinegar (optional, for tanginess)"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "fresh thyme or parsley for garnish (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Heat butter and olive oil in a large skillet over medium heat until butter is melted and bubbly."
+    },
+    {
+      "time_cue": "T\u201318 min",
+      "text": "Add sliced onions and cook 5\u20137 minutes, stirring occasionally, until softened and starting to caramelize."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Stir in apple slices, spreading evenly. Season with salt, pepper, cinnamon, and thyme if using. Cook another 5\u20137 minutes, stirring occasionally, until apples are softened but still hold their shape and onions are golden."
+    },
+    {
+      "time_cue": "T\u20132 min",
+      "text": "Optional: add a splash of apple cider vinegar and stir to deglaze, lifting any browned bits. Cook 1\u20132 minutes to reduce slightly."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Remove from heat. Garnish with fresh thyme or parsley if desired. Serve warm over or alongside pork chops."
+    }
+  ],
+  "notes": "Granny Smith adds tartness that cuts through pork fat; Honeycrisp is sweeter and holds its shape well. Either works.\n\nThe apple cider vinegar deglaze is optional but adds a nice brightness that balances the sweetness."
+}
