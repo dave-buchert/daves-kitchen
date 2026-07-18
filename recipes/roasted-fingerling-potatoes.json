@@ -1,0 +1,74 @@
+{
+  "slug": "roasted-fingerling-potatoes",
+  "title": "Roasted Fingerling Potatoes",
+  "description": "Fingerling potatoes halved and roasted cut-side down at high heat with smoked paprika and garlic powder. Deeply caramelized on the cut side, fluffy inside.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 40,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "cedar-plank-salmon-pinot-gris",
+    "spatchcock-grilled-chicken"
+  ],
+  "ingredients": [
+    {
+      "amount": "1.5",
+      "unit": "lbs",
+      "name": "fingerling potatoes, halved lengthwise"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "kosher salt"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "black pepper"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "smoked paprika"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "garlic powder"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Preheat oven to 425\u00b0F."
+    },
+    {
+      "time_cue": "T\u201338 min",
+      "text": "Halve fingerling potatoes lengthwise. Toss with olive oil, salt, pepper, smoked paprika, and garlic powder. Spread cut-side down in a single layer on a sheet pan \u2014 cut side down is critical for caramelization. Into the oven."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "At the 20-minute mark, check the cut side. It should be golden and caramelized. If not, give them 5 more minutes before flipping. Flip and return to oven."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Potatoes are done when deeply golden on the cut sides and tender through the center, about 35\u201340 minutes total. Serve immediately."
+    }
+  ],
+  "notes": "Don't rush the flip -- the crust on the cut side is the whole point. If they're sticking when you try to flip, they need more time.\n\nWorks as a dipping side with the lemon garlic yogurt sauce from the Cedar Plank Salmon recipe."
+}
