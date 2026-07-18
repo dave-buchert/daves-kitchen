@@ -1,0 +1,142 @@
+{
+  "slug": "meatloaf",
+  "title": "Meatloaf",
+  "description": "Classic two-loaf meatloaf with a panade of breadcrumbs and half-and-half for a rich, tender texture, finished with a ketchup-brown sugar glaze.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Beef",
+  "dietary": [
+    "High Protein"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 55,
+  "servings": 6,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [
+    "roasted-fingerling-potatoes",
+    "lemon-roasted-potatoes",
+    "sauteed-green-beans-onions"
+  ],
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "lbs",
+      "name": "ground beef (80/20 preferred)"
+    },
+    {
+      "amount": "1.25",
+      "unit": "cups",
+      "name": "breadcrumbs (panko or plain)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "half-and-half"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "medium onion, finely diced"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "olive oil or butter"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "large eggs"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "ketchup"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "Worcestershire sauce"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": "0.75",
+      "unit": "tsp",
+      "name": "black pepper"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "dried thyme or Italian seasoning"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh parsley, chopped (optional)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "ketchup (for glaze)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "brown sugar (for glaze)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Worcestershire sauce (for glaze)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201380 min",
+      "text": "Preheat oven to 350\u00b0F. Lightly grease two loaf pans (8.5x4.5 or 9x5) or line with parchment."
+    },
+    {
+      "time_cue": "T\u201375 min",
+      "text": "Make the panade: combine breadcrumbs and half-and-half in a large mixing bowl. Mix and let sit 3\u20135 minutes until fully moistened but not soupy."
+    },
+    {
+      "time_cue": "T\u201370 min",
+      "text": "Cook the aromatics: heat oil or butter in a small pan over medium heat. Add onion and cook 6\u20138 minutes until soft and translucent. Add garlic and cook 30 seconds. Remove from heat and cool 2\u20133 minutes. This step improves texture and prevents graininess."
+    },
+    {
+      "time_cue": "T\u201360 min",
+      "text": "Add cooked onion and garlic, eggs, ketchup, Worcestershire, salt, pepper, thyme, and parsley (if using) to the breadcrumb mixture. Mix until evenly combined."
+    },
+    {
+      "time_cue": "T\u201355 min",
+      "text": "Add ground beef and mix gently with hands just until combined. Do not overmix -- overmixing makes meatloaf dense."
+    },
+    {
+      "time_cue": "T\u201350 min",
+      "text": "Divide mixture evenly between the two loaf pans. Shape gently -- do not compress tightly. Smooth the tops. Bake at 350\u00b0F for 25 minutes."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Mix glaze: stir together ketchup, brown sugar, and Worcestershire. Remove meatloaves from oven, spread glaze evenly over each loaf, and return to oven."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Bake 20\u201330 more minutes until internal temperature reaches 155\u2013160\u00b0F. Total cook time 45\u201355 minutes."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Rest 10\u201315 minutes before slicing -- essential for clean slices. Cut into 3/4 to 1-inch slices. Each loaf yields about 3 servings."
+    }
+  ],
+  "notes": "Half-and-half produces a richer, more tender result than milk -- use slightly less than you would milk.\n\nDon't compress the meat tightly into the pans and don't overmix -- both make the loaf dense.\n\nStorage: refrigerate up to 4 days. Reheat whole loaf at 300\u00b0F for 20\u201325 minutes, or slice and reheat in a skillet with butter for best texture."
+}
