@@ -3,6 +3,33 @@ import { useState, useEffect } from "react";
 const GITHUB_RAW = "https://raw.githubusercontent.com/dave-buchert/daves-kitchen/main/recipes";
 const GITHUB_API = "https://api.github.com/repos/dave-buchert/daves-kitchen/contents/recipes";
 
+const QUOTES = [
+  "Nobody puts Baby in a corner. But nobody puts leftovers in the trash either. — Dirty Dancing",
+  "I'll have what she's having. — When Harry Met Sally",
+  "You is kind, you is smart, you is important. Also, you is hungry. — The Help",
+  "Life is like a box of chocolates. You never know what you're gonna get. — Forrest Gump",
+  "We accept the food we think we deserve. — The Perks of Being a Wallflower",
+  "Toto, I have a feeling we're not in Kansas anymore. Also, where's the food? — Wizard of Oz",
+  "Just keep swimming... to the kitchen. — Finding Nemo",
+  "To infinity and beyond the refrigerator. — Toy Story",
+  "You can't handle the truth... about how good this tastes. — A Few Good Men",
+  "Why so serious? It's just dinner. — The Dark Knight",
+  "I am Groot. I am also hungry. — Guardians of the Galaxy",
+  "Here's looking at you, cook. — Casablanca",
+  "Get busy cooking, or get busy starving. — The Shawshank Redemption",
+  "You had me at 'dinner's ready.' — Jerry Maguire",
+  "Hasta la vista, hunger. — Terminator 2",
+  "May the forks be with you. — Star Wars",
+  "Elementary, my dear Watson. Now eat your vegetables. — Sherlock Holmes",
+  "I'm gonna make him an offer he can't refuse... seconds. — The Godfather",
+  "With great hunger comes great responsibility. — Spider-Man",
+  "After all, tomorrow is another meal. — Gone with the Wind",
+];
+
+function randomQuote() {
+  return QUOTES[Math.floor(Math.random() * QUOTES.length)];
+}
+
 async function fetchRecipeList() {
   const res = await fetch(GITHUB_API);
   const files = await res.json();
@@ -37,7 +64,7 @@ function Badge({ label, color = "coral" }) {
   );
 }
 
-function Header({ onHome, searchQuery, setSearchQuery }) {
+function Header({ onHome, searchQuery, setSearchQuery, quote }) {
   return (
     <header style={{
       background: "#444441",
@@ -50,7 +77,7 @@ function Header({ onHome, searchQuery, setSearchQuery }) {
             Dave's Kitchen
           </div>
           <div style={{ fontSize: 12, color: "#F0997B", marginTop: 1, fontStyle: "italic" }}>
-            Sharing as I learn
+            {quote}
           </div>
         </div>
         <input
@@ -86,7 +113,10 @@ function RecipeCard({ recipe, onClick, allRecipes }) {
         <h3 style={{ margin: 0, fontSize: 16, fontWeight: 600, color: "#2C2C2A", lineHeight: 1.3 }}>
           {recipe.title}
         </h3>
-        {recipe.is_side && <Badge label="Side" color="green" />}
+        <div style={{ display: "flex", gap: 4, flexShrink: 0 }}>
+          {recipe.healthy && <Badge label="✓ Healthy" color="green" />}
+          {recipe.is_side && <Badge label="Side" color="slate" />}
+        </div>
       </div>
       {recipe.description && (
         <p style={{ margin: 0, fontSize: 13, color: "#5F5E5A", lineHeight: 1.5 }}>
@@ -341,6 +371,7 @@ export default function App() {
   const [currentSlug, setCurrentSlug] = useState(null);
   const [searchQuery, setSearchQuery] = useState("");
   const [filters, setFilters] = useState({ cuisine: "", meal_type: "", protein: "", is_side: "" });
+  const [quote] = useState(randomQuote);
 
   useEffect(() => {
     fetchAllRecipes()
@@ -383,6 +414,7 @@ export default function App() {
         onHome={() => { setCurrentSlug(null); setSearchQuery(""); window.history.pushState({}, "", "/"); }}
         searchQuery={searchQuery}
         setSearchQuery={setSearchQuery}
+        quote={quote}
       />
 
       {currentRecipe ? (
