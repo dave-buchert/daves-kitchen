@@ -1,0 +1,151 @@
+{
+  "slug": "chicken-shrimp-miso-skewers-soba",
+  "title": "Chicken & Shrimp Miso Skewers with Sesame Soba Noodles and Cucumber-Radish Slaw",
+  "description": "Umami-forward miso-marinated chicken and shrimp skewers served over sesame soba noodles with a crisp cucumber-radish slaw. Components can be prepped ahead \u2014 slaw and noodles hold well.",
+  "cuisine": "Asian",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "High Protein",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 30,
+  "cook_time_minutes": 20,
+  "servings": 2,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "10",
+      "unit": "oz",
+      "name": "boneless skinless chicken breast, cut into 1.5-inch cubes"
+    },
+    {
+      "amount": "10",
+      "unit": "oz",
+      "name": "large shrimp (16-20 count), peeled and deveined"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "white miso paste"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "low-sodium soy sauce or tamari"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "rice vinegar (marinade)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh ginger, grated"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "avocado oil"
+    },
+    {
+      "amount": "3",
+      "unit": "oz",
+      "name": "100% buckwheat soba noodles"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "sesame oil (for noodles)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "low-sodium soy sauce or tamari (for noodles)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "rice vinegar (for noodles)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "sesame seeds"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "scallions, thinly sliced"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "English cucumber, thinly sliced into half-moons"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "radishes, thinly sliced"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "rice vinegar (for slaw)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "sesame oil (for slaw)"
+    },
+    {
+      "amount": "0.3",
+      "unit": "tsp",
+      "name": "salt and black pepper"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "nori sheet, cut into thin strips (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201360 min",
+      "text": "Make the miso marinade: whisk together miso paste, soy sauce, rice vinegar, ginger, garlic, and avocado oil until smooth. Divide roughly 60/40 \u2014 the larger portion for chicken, smaller for shrimp. Add chicken to the larger portion, toss to coat, cover and refrigerate."
+    },
+    {
+      "time_cue": "T\u201345 min",
+      "text": "Make the slaw: combine cucumber and radishes in a bowl. Toss with rice vinegar, sesame oil, salt, and pepper. Refrigerate \u2014 it improves as it sits. Add nori strips on top just before serving if using."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Add shrimp to the smaller marinade portion and toss to coat. Do not marinate longer than 20 minutes \u2014 the acid will start to denature the shrimp."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Cook soba noodles per package instructions, typically 4\u20135 minutes \u2014 don't overcook, they go mushy. Drain and rinse immediately under cold water to stop cooking. Toss with soy sauce, rice vinegar, sesame oil, and half the sesame seeds and scallions. Set aside at room temperature."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Thread chicken and shrimp on separate skewers \u2014 they cook at different rates. Preheat grill to medium-high. Wipe grates clean and oil lightly with avocado oil \u2014 miso sugars char fast."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "Grill chicken skewers 4\u20135 minutes per side until cooked through (165\u00b0F internal). Add shrimp skewers when you flip the chicken \u2014 shrimp take only 2\u20133 minutes total, flipping once. They're done when pink and just curled. Pull them fast \u2014 overcooked shrimp is the main failure mode here."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Serve skewers over soba noodles with slaw alongside. Garnish with remaining sesame seeds and scallions."
+    }
+  ],
+  "notes": "Soba note: buy 100% buckwheat soba \u2014 many brands cut it with wheat flour. Check the label. True buckwheat soba is gluten-free and has a lower glycemic impact.\n\nGrill tip: medium-high heat, not high. The miso sugars will char quickly on high heat.\n\nMake-ahead: slaw can be made the morning of. Chicken can marinate all day. Noodles hold well at room temperature dressed for 1\u20132 hours.\n\nSwap: salmon or mackerel can replace the shrimp for a bigger omega-3 hit."
+}
