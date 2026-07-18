@@ -1,0 +1,84 @@
+{
+  "slug": "whipped-herbed-feta-cucumber-rounds",
+  "title": "Whipped Herbed Feta on Cucumber Rounds",
+  "description": "Smooth, lemony whipped feta piped onto crisp cucumber rounds and finished with olive oil and cracked pepper. Easy to make ahead, great for entertaining.",
+  "cuisine": "Mediterranean",
+  "meal_type": "Appetizer",
+  "protein": null,
+  "dietary": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 0,
+  "servings": 8,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "7",
+      "unit": "oz",
+      "name": "feta cheese (one standard block)"
+    },
+    {
+      "amount": "2",
+      "unit": "oz",
+      "name": "cream cheese (or 4 tbsp Greek yogurt)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil (plus extra for drizzling)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh lemon juice"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, zested (optional)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "garlic clove, finely grated (optional)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh chives, chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "large English cucumber, sliced into 1/2-inch rounds"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "cracked black pepper or red pepper flakes (to finish)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201320 min",
+      "text": "In a food processor or with a hand mixer, blend feta, cream cheese (or Greek yogurt), olive oil, lemon juice, and garlic (if using) until smooth and creamy. Scrape down the sides as needed."
+    },
+    {
+      "time_cue": "T\u201310 min",
+      "text": "Fold in chopped chives by hand for color and freshness."
+    },
+    {
+      "time_cue": "T\u20135 min",
+      "text": "Slice cucumber into roughly 1/2-inch thick rounds \u2014 you'll get about 20\u201324. Arrange on a platter."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Spoon or pipe whipped feta onto each cucumber round. Drizzle with olive oil and top with cracked pepper or red pepper flakes. Serve immediately or refrigerate up to 30 minutes before serving."
+    }
+  ],
+  "notes": "Makes about 24 bites, sized for 8 adults as an appetizer.\n\nCan be assembled up to 30 minutes ahead and refrigerated. The whipped feta itself keeps refrigerated for 2\u20133 days -- assemble the cucumber rounds close to serving so they stay crisp.\n\nA piping bag or zip-lock with the corner snipped makes for a cleaner presentation than a spoon."
+}
