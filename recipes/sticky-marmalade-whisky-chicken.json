@@ -1,0 +1,158 @@
+{
+  "slug": "sticky-marmalade-whisky-chicken",
+  "title": "Sticky Marmalade Whisky Chicken with Baked Spiced Rice",
+  "description": "Oven-baked chicken thighs glazed in marmalade, whisky, lemon, and fennel seeds until sticky and golden, served over fragrant baked brown rice with shallots, caraway, almonds, and mint.",
+  "cuisine": "British",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 40,
+  "servings": 4,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [],
+  "source_name": "Alexandra Dudley",
+  "source_url": "https://substack.com/@alexandradudley",
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "kg",
+      "name": "chicken thighs, skin-on bone-in (about 2.2 lbs)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "marmalade"
+    },
+    {
+      "amount": "50",
+      "unit": "ml",
+      "name": "whisky (or juice of 1 orange)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, zested and juiced"
+    },
+    {
+      "amount": "4",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "caraway seeds"
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "fennel seeds"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "orange, sliced into rounds"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "large banana shallots (or 5-6 regular shallots)"
+    },
+    {
+      "amount": "400",
+      "unit": "g",
+      "name": "long grain brown rice (about 2 cups)"
+    },
+    {
+      "amount": "800",
+      "unit": "ml",
+      "name": "stock, warmed (about 3.5 cups)"
+    },
+    {
+      "amount": "40",
+      "unit": "g",
+      "name": "butter (about 3 tbsp)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "cinnamon stick"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "star anise"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "caraway seeds (for rice)"
+    },
+    {
+      "amount": "60",
+      "unit": "g",
+      "name": "almonds (about 0.5 cup)"
+    },
+    {
+      "amount": "1",
+      "unit": "small bunch",
+      "name": "fresh mint, leaves picked"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, zested (to finish rice)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil (for rice)"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "sea salt"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201355 min",
+      "text": "Preheat oven to 375\u00b0F (190\u00b0C fan). Peel and halve the shallots, then slice each half into thin strips lengthways. Transfer to a deep oven-proof dish, drizzle generously with olive oil and sea salt, and bake for 15 minutes."
+    },
+    {
+      "time_cue": "T\u201350 min",
+      "text": "Make the chicken marinade: combine marmalade, whisky, lemon zest and juice, olive oil, caraway seeds, fennel seeds, and salt in a large bowl. Add chicken thighs and orange slices and toss well to coat everything. Transfer to a baking dish."
+    },
+    {
+      "time_cue": "T\u201340 min",
+      "text": "Toast caraway seeds for the rice in a dry pan over gentle heat for a couple of minutes until aromatic. Set aside."
+    },
+    {
+      "time_cue": "T\u201338 min",
+      "text": "Add rice to the shallot dish along with toasted caraway seeds, stir to combine. Pour over the warm stock and add butter, cinnamon stick, and star anise. Cover tightly with foil ensuring no air escapes. Place in the oven alongside the chicken."
+    },
+    {
+      "time_cue": "T\u201335 min",
+      "text": "Place chicken in the oven. Bake 35\u201340 minutes until sticky and golden. Check after 30 minutes \u2014 if the skin is browning too much, cover loosely with foil."
+    },
+    {
+      "time_cue": "T\u20133 min",
+      "text": "Remove rice from oven and leave covered to rest 5 minutes. Remove foil, discard cinnamon stick and star anise, and fluff with a fork. Season to taste, drizzle with olive oil, and top with almonds, mint leaves, and fresh lemon zest."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Transfer chicken to a platter and spoon over the marmalade juices from the pan. Serve alongside the spiced rice."
+    }
+  ],
+  "notes": "The baked rice method is worth trying even if you normally cook rice on the stovetop \u2014 it infuses a lot of flavor with minimal effort and works especially well when entertaining.\n\nIf you can't find banana shallots, regular shallots work fine -- just use 5-6 of them.\n\nWhisky can be swapped for the juice of an orange for an alcohol-free version."
+}
