@@ -13,7 +13,7 @@
   "cook_time_minutes": 40,
   "servings": 4,
   "is_side": false,
-  "healthy": true,
+  "healthy": false,
   "pairs_with": [
     "roasted-fingerling-potatoes",
     "grilled-asparagus",
