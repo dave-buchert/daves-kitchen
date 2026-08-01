@@ -6,9 +6,11 @@
   "meal_type": "Snack",
   "protein": null,
   "dietary": [
-    "Vegetarian",
+    "Dairy-Free",
+    "Gluten-Free",
     "High Fiber",
-    "Gluten-Free"
+    "Vegan",
+    "Vegetarian"
   ],
   "prep_time_minutes": 10,
   "cook_time_minutes": 25,
