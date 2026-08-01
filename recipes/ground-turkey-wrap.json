@@ -6,6 +6,7 @@
   "meal_type": "Dinner",
   "protein": "Turkey",
   "dietary": [
+    "Dairy-Free",
     "High Protein"
   ],
   "prep_time_minutes": 10,
