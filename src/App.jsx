@@ -534,6 +534,7 @@ export default function App() {
         searchQuery={searchQuery}
         setSearchQuery={setSearchQuery}
         quote={quote}
+        refreshQuote={() => setQuote(randomQuote())}
       />
 
       {currentRecipe ? (
