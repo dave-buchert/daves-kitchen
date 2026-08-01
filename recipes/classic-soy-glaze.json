@@ -6,8 +6,9 @@
   "meal_type": "Side",
   "protein": null,
   "dietary": [
+    "Dairy-Free",
     "Vegan",
-    "Dairy-Free"
+    "Vegetarian"
   ],
   "prep_time_minutes": 2,
   "cook_time_minutes": 8,
@@ -49,5 +50,5 @@
       "text": "Remove from heat \u2014 it will thicken more as it cools. Use immediately or refrigerate."
     }
   ],
-  "notes": "Too thin? Keep simmering. Too thick? Add 1\u20132 tsp water. Want extra shine? Whisk in half a teaspoon of butter at the end.\n\nKeeps refrigerated for up to 2 weeks. Works on salmon, chicken thighs, roasted vegetables, or as a dipping sauce."
+  "notes": "Too thin? Keep simmering. Too thick? Add 1\u20132 tsp water. Want extra shine? Whisk in half a teaspoon of butter at the end.\n\nKeeps refrigerated for up to 2 weeks. Works on salmon, chicken thighs, roasted vegetables, or as a dipping sauce.\n\nVegan if using brown sugar instead of honey."
 }
