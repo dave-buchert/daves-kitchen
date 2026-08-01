@@ -5,7 +5,9 @@
   "cuisine": "American",
   "meal_type": "Dinner",
   "protein": "Beef",
-  "dietary": [],
+  "dietary": [
+    "Dairy-Free"
+  ],
   "prep_time_minutes": 20,
   "cook_time_minutes": 390,
   "servings": 6,
