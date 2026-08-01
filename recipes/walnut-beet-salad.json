@@ -6,8 +6,10 @@
   "meal_type": "Salad",
   "protein": null,
   "dietary": [
-    "Vegetarian",
-    "Gluten-Free"
+    "Dairy-Free",
+    "Gluten-Free",
+    "Vegan",
+    "Vegetarian"
   ],
   "prep_time_minutes": 15,
   "cook_time_minutes": 60,
