@@ -145,7 +145,7 @@ function Badge({ label, color = "coral" }) {
   );
 }
 
-function Header({ onHome, searchQuery, setSearchQuery, quote }) {
+function Header({ onHome, searchQuery, setSearchQuery, quote, refreshQuote }) {
   return (
     <header style={{
       background: "#444441",
@@ -157,8 +157,21 @@ function Header({ onHome, searchQuery, setSearchQuery, quote }) {
           <div style={{ fontSize: 22, fontWeight: 600, color: "#F1EFE8", letterSpacing: "-0.3px", fontFamily: "Georgia, serif" }}>
             What Dave Made
           </div>
-          <div style={{ fontSize: 12, color: "#F0997B", marginTop: 1, fontStyle: "italic" }}>
-            {quote}
+          <div style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 1 }}>
+            <div style={{ fontSize: 12, color: "#F0997B", fontStyle: "italic" }}>
+              {quote}
+            </div>
+            <button
+              onClick={e => { e.stopPropagation(); refreshQuote(); }}
+              title="New quote"
+              style={{
+                background: "none", border: "none", cursor: "pointer",
+                color: "#F0997B", fontSize: 13, padding: "0 2px",
+                opacity: 0.6, lineHeight: 1, flexShrink: 0,
+              }}
+              onMouseEnter={e => e.currentTarget.style.opacity = 1}
+              onMouseLeave={e => e.currentTarget.style.opacity = 0.6}
+            >↻</button>
           </div>
         </div>
         <input
@@ -471,7 +484,7 @@ export default function App() {
   const [currentSlug, setCurrentSlug] = useState(null);
   const [searchQuery, setSearchQuery] = useState("");
   const [filters, setFilters] = useState({ cuisine: "", meal_type: "", protein: "", is_side: "", healthy: "", dietary: "" });
-  const [quote] = useState(randomQuote);
+  const [quote, setQuote] = useState(randomQuote);
 
   useEffect(() => {
     fetchAllRecipes()
