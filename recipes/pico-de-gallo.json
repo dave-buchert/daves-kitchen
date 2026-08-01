@@ -6,9 +6,10 @@
   "meal_type": "Side",
   "protein": null,
   "dietary": [
-    "Vegetarian",
+    "Dairy-Free",
+    "Gluten-Free",
     "Vegan",
-    "Gluten-Free"
+    "Vegetarian"
   ],
   "prep_time_minutes": 10,
   "cook_time_minutes": 0,
