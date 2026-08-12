@@ -356,8 +356,14 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
           </h2>
           <ol style={{ margin: 0, padding: 0, listStyle: "none", display: "flex", flexDirection: "column", gap: 16 }}>
             {recipe.instructions.map((step, i) => {
-              const text = typeof step === "string" ? step : step.text;
+              const rawText = typeof step === "string" ? step : step.text;
               const cue = typeof step === "object" ? step.time_cue : null;
+              const text = rawText.replace(/\{(\d+)\}/g, (_, idx) => {
+                const ing = recipe.ingredients[parseInt(idx)];
+                if (!ing) return _;
+                const amt = scaleAmount(ing.amount);
+                return ing.unit ? `${amt} ${ing.unit}` : `${amt}`;
+              });
               return (
                 <li key={i} style={{ display: "flex", gap: 16, alignItems: "flex-start" }}>
                   <span style={{
