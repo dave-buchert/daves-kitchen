@@ -98,12 +98,17 @@
       "amount": "2",
       "unit": "tbsp",
       "name": "rice vinegar (for glaze)"
+    },
+    {
+      "amount": "4",
+      "unit": "cups",
+      "name": "water (for rice)"
     }
   ],
   "instructions": [
     {
       "time_cue": "T\u201350 min",
-      "text": "Cook the brown rice: combine rice with 4 cups water and a pinch of salt. Bring to a boil, reduce to low, cover, and cook 40\u201345 minutes until absorbed. Let steam 5 minutes off heat, then fluff and stir in mirin."
+      "text": "Cook the brown rice: combine rice with {16} water and a pinch of salt. Bring to a boil, reduce to low, cover, and cook 40\u201345 minutes until absorbed. Let steam 5 minutes off heat, then fluff and stir in mirin."
     },
     {
       "time_cue": "T\u201340 min",
