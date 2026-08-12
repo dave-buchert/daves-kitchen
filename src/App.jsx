@@ -112,9 +112,8 @@ function randomQuote() {
 }
 
 async function fetchRecipeList() {
-  const res = await fetch(GITHUB_API);
-  const files = await res.json();
-  return files.filter(f => f.name.endsWith(".json")).map(f => f.name.replace(".json", ""));
+  const res = await fetch(`https://raw.githubusercontent.com/dave-buchert/daves-kitchen/main/recipes/index.json?cache=${Date.now()}`);
+  return res.json();
 }
 
 async function fetchRecipe(slug) {
