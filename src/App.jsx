@@ -358,8 +358,8 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
             {recipe.instructions.map((step, i) => {
               const rawText = typeof step === "string" ? step : step.text;
               const cue = typeof step === "object" ? step.time_cue : null;
-              const text = rawText.replace(/\{(\d+)\}/g, (_, idx) => {
-                const ing = recipe.ingredients[parseInt(idx)];
+              const text = rawText.replace(/{(\d+)}/g, (_, id) => {
+                const ing = recipe.ingredients[parseInt(id)];
                 if (!ing) return _;
                 const amt = scaleAmount(ing.amount);
                 return ing.unit ? `${amt} ${ing.unit}` : `${amt}`;
