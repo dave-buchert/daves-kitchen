@@ -1,0 +1,137 @@
+{
+  "slug": "turkey-meatballs-white-bean-marinara-pasta",
+  "title": "Turkey Meatballs & White Bean Marinara over Whole Wheat Pasta",
+  "description": "Lean turkey meatballs simmered in a white bean marinara over whole wheat pasta. High protein, high fiber, and genuinely filling.",
+  "cuisine": "Italian",
+  "meal_type": "Dinner",
+  "protein": "Turkey",
+  "dietary": [
+    "High Protein",
+    "High Fiber",
+    "Dairy-Free"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 35,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "source_name": "",
+  "source_url": "",
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "lean ground turkey breast (93%+)"
+    },
+    {
+      "amount": "0.33",
+      "unit": "cup",
+      "name": "plain panko breadcrumbs"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "large egg"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "garlic cloves, minced (for meatballs)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh parsley, chopped"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "kosher salt (for meatballs)"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper (for meatballs)"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "yellow onion, diced"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "garlic cloves, minced (for sauce)"
+    },
+    {
+      "amount": "28",
+      "unit": "oz",
+      "name": "crushed tomatoes, no-salt-added"
+    },
+    {
+      "amount": "15",
+      "unit": "oz",
+      "name": "cannellini beans, drained and rinsed"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried basil"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "red pepper flakes"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "kosher salt (for sauce)"
+    },
+    {
+      "amount": "6",
+      "unit": "oz",
+      "name": "whole wheat pasta"
+    },
+    {
+      "amount": "6",
+      "unit": "",
+      "name": "fresh basil leaves, torn (for serving)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Mix the meatballs: in a large bowl, combine ground turkey, panko, egg, garlic, parsley, salt, and pepper. Mix gently with your hands until just combined \u2014 overmixing makes them tough."
+    },
+    {
+      "text": "Form into 12-14 meatballs about 1.5 inches each. Set aside."
+    },
+    {
+      "text": "Heat olive oil in a large Dutch oven over medium heat. Add onion and cook until soft, about 4 minutes. Add garlic and cook 30 seconds until fragrant."
+    },
+    {
+      "text": "Add meatballs and sear on all sides until browned but not cooked through, about 5 minutes total. Work in batches if needed \u2014 don't crowd the pot."
+    },
+    {
+      "text": "Stir in crushed tomatoes, cannellini beans, oregano, basil, red pepper flakes, and salt, nestling the meatballs into the sauce. Bring to a simmer, cover partially, and cook 20-25 minutes until meatballs reach 165\u00b0F internally."
+    },
+    {
+      "text": "About 10 minutes before the sauce is done, bring a pot of salted water to a boil and cook pasta according to package directions until al dente. Drain."
+    },
+    {
+      "text": "Divide pasta between bowls, top with meatballs and sauce, and finish with torn fresh basil."
+    }
+  ],
+  "notes": "Use no-salt-added crushed tomatoes \u2014 it's the single biggest sodium lever in this recipe and drops ~300-400mg per serving. Regular crushed tomatoes push one bowl close to 50% of daily sodium. Meatballs freeze well raw or cooked if you want to double the batch. Whole wheat pasta holds al dente texture much better than brown rice pasta \u2014 go by package directions, no need to watch the clock tightly."
+}
