@@ -525,12 +525,14 @@ export default function App() {
   const SNACK_TYPES = ["Snack", "Appetizer"];
   const SALAD_TYPES = ["Salad"];
   const DESSERT_TYPES = ["Dessert"];
+  const DRINK_TYPES = ["Drink"];
   const sort = arr => [...arr].sort((a, b) => a.title.localeCompare(b.title));
-  const mains = sort(filtered.filter(r => !r.is_side && !SNACK_TYPES.includes(r.meal_type) && !SALAD_TYPES.includes(r.meal_type) && !DESSERT_TYPES.includes(r.meal_type)));
+  const mains = sort(filtered.filter(r => !r.is_side && !SNACK_TYPES.includes(r.meal_type) && !SALAD_TYPES.includes(r.meal_type) && !DESSERT_TYPES.includes(r.meal_type) && !DRINK_TYPES.includes(r.meal_type)));
   const sides = sort(filtered.filter(r => r.is_side));
   const salads = sort(filtered.filter(r => !r.is_side && SALAD_TYPES.includes(r.meal_type)));
   const snacks = sort(filtered.filter(r => !r.is_side && SNACK_TYPES.includes(r.meal_type)));
   const desserts = sort(filtered.filter(r => !r.is_side && DESSERT_TYPES.includes(r.meal_type)));
+  const drinks = sort(filtered.filter(r => DRINK_TYPES.includes(r.meal_type)));
 
   return (
     <div style={{ minHeight: "100vh", background: "#F8F6F4", fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" }}>
@@ -612,6 +614,16 @@ export default function App() {
                   </h2>
                   <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: 14 }}>
                     {desserts.map(r => <RecipeCard key={r.slug} recipe={r} onClick={setCurrentSlug} allRecipes={recipes} />)}
+                  </div>
+                </section>
+              )}
+              {drinks.length > 0 && (
+                <section>
+                  <h2 style={{ fontSize: 16, fontWeight: 600, color: "#888780", textTransform: "uppercase", letterSpacing: 1, marginBottom: 16 }}>
+                    Drinks
+                  </h2>
+                  <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: 14 }}>
+                    {drinks.map(r => <RecipeCard key={r.slug} recipe={r} onClick={setCurrentSlug} allRecipes={recipes} />)}
                   </div>
                 </section>
               )}
