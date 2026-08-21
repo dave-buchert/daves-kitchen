@@ -1,0 +1,60 @@
+{
+  "slug": "strawberry-basil-spritz",
+  "title": "Strawberry Basil Spritz",
+  "description": "Fresh muddled strawberries and basil with lime and sparkling water. Light, refreshing, and naturally sweetened. Works as a mocktail or with a splash of something stronger.",
+  "cuisine": "American",
+  "meal_type": "Drink",
+  "protein": "",
+  "dietary": [
+    "Vegan",
+    "Dairy-Free",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 0,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "source_name": "Mark Hyman, MD",
+  "source_url": "https://drhyman.com/blogs/content/strawberry-basil-spritz",
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "fresh strawberries, chopped"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "fresh lime juice (about 4 limes)"
+    },
+    {
+      "amount": "12",
+      "unit": "",
+      "name": "large fresh basil leaves"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "monk fruit sweetener (optional)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "sparkling water, to top each glass"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Divide the chopped strawberries evenly among four glasses. Add 2 tablespoons of lime juice to each glass along with 2-3 roughly torn basil leaves."
+    },
+    {
+      "text": "Using a cocktail muddler, pound the strawberries and basil until they release their juices. Add monk fruit sweetener if using."
+    },
+    {
+      "text": "Fill each glass with ice, top with sparkling water, and stir. Garnish with a fresh basil leaf and serve immediately."
+    }
+  ],
+  "notes": "Monk fruit sweetener keeps this sugar-free; skip it entirely if your strawberries are ripe and sweet. A splash of vodka, gin, or prosecco works well if you want to make it a cocktail. Best made fresh -- muddled strawberries don't hold well."
+}
