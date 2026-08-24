@@ -68,9 +68,9 @@
       "name": "chili powder"
     },
     {
-      "amount": "1",
-      "unit": "pinch",
-      "name": "salt and black pepper"
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "kosher salt (for pork)"
     },
     {
       "amount": "6",
@@ -91,13 +91,28 @@
       "amount": "0.125",
       "unit": "tsp",
       "name": "garlic powder (for crema)"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper (for pork)"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "cumin (for beans)"
+    },
+    {
+      "amount": "0.125",
+      "unit": "tsp",
+      "name": "kosher salt (for beans)"
     }
   ],
   "instructions": [
     "Make the pico de gallo (see linked recipe). Set aside at least 20 minutes to rest and develop flavor.",
     "Make the lime crema: mix yogurt with lime juice, {13} cumin, {14} garlic powder, and a pinch of salt. Thin with a few drops of water if needed to reach a drizzleable consistency.",
-    "Pat pork chops dry \u2014 critical for a good sear. Combine cumin, smoked paprika, garlic powder, oregano, chili powder, salt, and pepper. Coat both sides. Rest at room temperature while the pan heats.",
-    "Drain and rinse black beans. Warm in a small saucepan over low heat with a pinch of cumin and salt. Keep on low until ready to plate.",
+    "Pat pork chops dry \u2014 critical for a good sear. Combine {5} cumin, {6} smoked paprika, {7} garlic powder, {8} oregano, {9} chili powder, {10} salt, and {15} black pepper. Coat both sides of the chops. Rest at room temperature while the pan heats.",
+    "Drain and rinse black beans. Warm in a small saucepan over low heat with {16} cumin and {17} salt. Keep on low until ready to plate.",
     "Heat pan to medium-high (induction level 6\u20137). Add avocado oil. When oil shimmers, add chops and sear 3\u20134 minutes per side without moving. For thick chops, finish in a 400\u00b0F oven for 8\u201312 minutes until internal temp reaches 145\u00b0F.",
     "Rest chops 5 minutes on a cutting board \u2014 do not skip. Slice into strips against the grain or cube. A pink center at 145\u00b0F is safe.",
     "Build the bowls: start with lettuce and spinach, add warm black beans, layer pork on top, add avocado and pico de gallo, drizzle lime crema over everything, and squeeze remaining lime over the top."
