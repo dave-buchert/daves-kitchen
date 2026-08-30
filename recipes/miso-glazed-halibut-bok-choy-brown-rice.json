@@ -1,0 +1,122 @@
+{
+  "slug": "miso-glazed-halibut-bok-choy-brown-rice",
+  "title": "Miso-Glazed Halibut with Bok Choy & Brown Rice",
+  "description": "Broiled miso-glazed halibut over sesame bok choy and brown rice. High protein, low sat fat, and quick enough for a weeknight.",
+  "cuisine": "Japanese",
+  "meal_type": "Dinner",
+  "protein": "Fish",
+  "dietary": [
+    "Dairy-Free",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 25,
+  "cook_time_minutes": 45,
+  "servings": 2,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "source_name": "",
+  "source_url": "",
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "halibut fillets (6 oz each)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "white miso paste"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "mirin"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "low-sodium tamari"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "rice vinegar"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "toasted sesame oil"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "fresh ginger, grated"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "baby bok choy, halved lengthwise"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "avocado oil"
+    },
+    {
+      "amount": "0.8",
+      "unit": "cups",
+      "name": "brown rice, uncooked"
+    },
+    {
+      "amount": "1.6",
+      "unit": "cups",
+      "name": "water (for rice)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sesame seeds"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "scallion, thinly sliced"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T\u201350 min",
+      "text": "Rinse {10} brown rice and combine with {11} water in a saucepan. Bring to a boil, reduce to a low simmer, cover, and cook 40\u201345 minutes until absorbed. Remove from heat and keep covered until ready to plate."
+    },
+    {
+      "time_cue": "T\u201325 min",
+      "text": "Whisk together {1} miso paste, {2} mirin, {3} tamari, {4} rice vinegar, and half the sesame oil in a small bowl until smooth."
+    },
+    {
+      "time_cue": "T\u201320 min",
+      "text": "Pat halibut dry and coat both sides with the miso glaze. Let sit at room temperature 15\u201320 minutes while the broiler preheats."
+    },
+    {
+      "time_cue": "T\u201315 min",
+      "text": "Set oven to broil (high) and position a rack about 6 inches from the heat. Line a sheet pan with foil."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "Place halibut on the sheet pan and broil 6\u20138 minutes until the glaze is caramelized and the fish flakes easily. Watch closely \u2014 miso sugars go from caramelized to burnt in under a minute once they start browning."
+    },
+    {
+      "time_cue": "T\u20138 min",
+      "text": "While the fish broils, heat {9} avocado oil in a pan over medium-high. Add {6} garlic and {7} ginger, stir 30 seconds, then add bok choy cut-side down. Cook 2\u20133 minutes until seared, flip, add remaining {5} sesame oil, cover and steam 2 more minutes until crisp-tender."
+    },
+    {
+      "text": "Divide rice between bowls, top with bok choy and halibut. Sprinkle with {12} sesame seeds and {13} scallion."
+    }
+  ],
+  "notes": "Use low-sodium tamari to keep this gluten-free. Watch the broiler closely in the final step \u2014 miso glazes burn fast. Halibut is best eaten fresh; leftovers are acceptable but the texture suffers. Rice and bok choy reheat fine."
+}
