@@ -1,0 +1,132 @@
+{
+  "slug": "lemon-chicken-orzo-soup",
+  "title": "Lemon Chicken Orzo Soup",
+  "description": "A bright, hearty chicken soup with orzo, spinach, and a lemon-dill finish. Comfort food that actually has good macros.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "High Protein"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 35,
+  "servings": 6,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "source_name": "Flavors by Frangipane",
+  "source_url": "https://www.provecho.bio/@flavorsbyfrangipane/site",
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "olive oil"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "medium carrots, peeled and diced"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "celery stalks, diced"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "medium onion, diced"
+    },
+    {
+      "amount": "6",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "all-purpose flour"
+    },
+    {
+      "amount": "6.5",
+      "unit": "cups",
+      "name": "chicken bone broth"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Italian seasoning"
+    },
+    {
+      "amount": "1.5",
+      "unit": "lbs",
+      "name": "chicken breasts"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "name": "orzo, uncooked"
+    },
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "fresh spinach, loosely packed"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh lemon juice"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, zested"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh dill, chopped"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "grated Parmesan"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "kosher salt, plus more to taste"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "black pepper, plus more to taste"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Heat {0} olive oil in a large pot over medium-high heat. Add {1} carrots, {2} celery, and {3} onion. Cook, stirring occasionally, until softened, about 5\u20137 minutes."
+    },
+    {
+      "text": "Stir in {4} garlic and cook until fragrant, about 30 seconds. Sprinkle in {5} flour and stir well, letting it cook for about a minute."
+    },
+    {
+      "text": "Slowly pour in {6} chicken bone broth while stirring to keep the soup smooth. Add {7} Italian seasoning, then nestle {8} chicken breasts into the pot. Bring to a boil."
+    },
+    {
+      "time_cue": "15 min",
+      "text": "Reduce heat to a simmer and cook until the chicken is fully cooked through, about 15 minutes."
+    },
+    {
+      "text": "Remove the chicken and cut or shred into bite-sized pieces. Return to the pot and stir in {9} orzo."
+    },
+    {
+      "time_cue": "10 min",
+      "text": "Continue simmering, stirring often, until the orzo is al dente, about 10 minutes. Add {10} spinach and stir until wilted."
+    },
+    {
+      "text": "Finish with {11} lemon juice, the zest of {12} lemon, {13} fresh dill, and {14} Parmesan. Season with {15} salt and {16} black pepper. Taste and adjust lemon and seasoning before serving."
+    }
+  ],
+  "notes": "Orzo continues to absorb liquid as it sits \u2014 if reheating leftovers, add a splash of broth to loosen. Lemon juice and dill are listed as starting amounts; taste and add more at the end, both brighten considerably. Parmesan can be skipped to make this dairy-free."
+}
