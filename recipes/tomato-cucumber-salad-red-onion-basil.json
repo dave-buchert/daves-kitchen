@@ -1,0 +1,90 @@
+{
+  "slug": "tomato-cucumber-salad-red-onion-basil",
+  "title": "Tomato-Cucumber Salad with Red Onion & Basil",
+  "description": "A simple summer salad of tomatoes, cucumber, and red onion in a red-wine vinaigrette, finished with fresh basil.",
+  "cuisine": "American",
+  "meal_type": "Salad",
+  "protein": "",
+  "dietary": [
+    "Vegan",
+    "Vegetarian",
+    "Dairy-Free",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 0,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "source_name": "",
+  "source_url": "",
+  "ingredients": [
+    {
+      "amount": "2",
+      "unit": "cups",
+      "name": "cherry or grape tomatoes, halved (or 3 medium ripe tomatoes, chopped)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "large English cucumber, halved lengthwise and sliced"
+    },
+    {
+      "amount": "0.25",
+      "unit": "",
+      "name": "small red onion, very thinly sliced"
+    },
+    {
+      "amount": "0.33",
+      "unit": "cup",
+      "name": "fresh basil leaves, torn"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "red wine vinegar"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "Dijon mustard"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "honey (optional)"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "kosher salt"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Whisk together {4} olive oil, {5} red wine vinegar, {6} Dijon, {7} honey, {8} salt, and {9} black pepper."
+    },
+    {
+      "text": "Combine {0} tomatoes, {1} cucumber, and {2} red onion in a bowl. Pour the dressing over and toss gently."
+    },
+    {
+      "time_cue": "10\u201315 min",
+      "text": "Let sit 10\u201315 minutes so the tomatoes release their juices and mingle with the vinaigrette."
+    },
+    {
+      "text": "Add {3} basil just before serving and toss again. Taste and adjust with more vinegar, salt, or pepper."
+    }
+  ],
+  "notes": "Dill works excellently in place of basil and makes this particularly good alongside seafood and crab cakes. Best eaten the day it's made \u2014 the cucumber releases water overnight."
+}
