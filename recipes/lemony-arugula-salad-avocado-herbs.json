@@ -1,0 +1,112 @@
+{
+  "slug": "lemony-arugula-salad-avocado-herbs",
+  "title": "Lemony Arugula Salad with Avocado & Herbs",
+  "description": "Peppery arugula with avocado, cherry tomatoes, cucumber, and fresh herbs in a bright lemon-Dijon vinaigrette.",
+  "cuisine": "American",
+  "meal_type": "Salad",
+  "protein": "",
+  "dietary": [
+    "Vegan",
+    "Vegetarian",
+    "Dairy-Free",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 0,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "source_name": "",
+  "source_url": "",
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "oz",
+      "name": "baby arugula"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "small English cucumber, thinly sliced"
+    },
+    {
+      "amount": "1.5",
+      "unit": "cups",
+      "name": "cherry tomatoes, halved"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "ripe avocado, diced"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "red onion or shallot, thinly sliced"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "fresh parsley, chopped"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh dill or basil, chopped"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh lemon juice"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "Dijon mustard"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "honey or maple syrup"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "small garlic clove, finely grated"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "kosher salt"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Whisk together {7} olive oil, {8} lemon juice, {9} Dijon, {10} honey, {11} garlic, {12} salt, and {13} black pepper until combined."
+    },
+    {
+      "text": "Place {0} arugula, {1} cucumber, {2} cherry tomatoes, {4} red onion, {5} parsley, and {6} dill or basil in a large bowl."
+    },
+    {
+      "text": "Just before serving, add about three-quarters of the dressing and toss gently."
+    },
+    {
+      "text": "Add {3} avocado and toss very lightly so it stays intact. Add more dressing as needed."
+    },
+    {
+      "text": "Taste and adjust with an extra squeeze of lemon or more black pepper before serving."
+    }
+  ],
+  "notes": "Dill is especially good here alongside crab cakes. Add a tablespoon of capers per serving if you want a briny note. Dress just before serving \u2014 arugula wilts quickly once dressed."
+}
