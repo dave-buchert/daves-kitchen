@@ -1,0 +1,90 @@
+{
+  "slug": "green-beans-toasted-almonds-lemon",
+  "title": "Green Beans with Toasted Almonds & Lemon",
+  "description": "Blanched green beans saut\u00e9ed with garlic and finished with toasted almonds, lemon zest, and fresh parsley.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": "",
+  "dietary": [
+    "Vegan",
+    "Vegetarian",
+    "Dairy-Free",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 15,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [],
+  "source_name": "",
+  "source_url": "",
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "fresh green beans, trimmed"
+    },
+    {
+      "amount": "0.33",
+      "unit": "cup",
+      "name": "sliced or slivered almonds"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "extra virgin olive oil"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "small garlic clove, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lemon, zested"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tbsp",
+      "name": "fresh lemon juice"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "kosher salt"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "fresh parsley, chopped (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Bring a large pot of salted water to a boil. Add {0} green beans and cook 3\u20134 minutes until bright green and crisp-tender. Drain and immediately rinse under cold water or transfer to an ice bath. Drain thoroughly."
+    },
+    {
+      "text": "Toast {1} almonds in a large dry skillet over medium heat, stirring frequently, 2\u20134 minutes until fragrant and lightly golden. Transfer to a plate."
+    },
+    {
+      "text": "Add {2} olive oil to the skillet. Add {3} garlic and cook about 30 seconds until fragrant."
+    },
+    {
+      "text": "Add the green beans and saut\u00e9 2\u20133 minutes until warmed through."
+    },
+    {
+      "text": "Remove from heat. Add the zest of {4} lemon, {5} lemon juice, {6} salt, {7} black pepper, and the toasted almonds. Toss to combine."
+    },
+    {
+      "text": "Sprinkle with {8} parsley and taste for seasoning before serving."
+    }
+  ],
+  "notes": "Make-ahead friendly: blanch the beans several hours ahead and refrigerate. Finish in the skillet just before dinner. Pairs especially well with fish and seafood."
+}
