@@ -1,0 +1,86 @@
+{
+  "slug": "mango-avocado-salsa",
+  "title": "Mango-Avocado Salsa",
+  "description": "Fresh mango and avocado with lime, jalape\u00f1o, and cilantro. Works as a sauce, topping, or standalone side. Especially good with crab cakes and grilled fish.",
+  "cuisine": "American",
+  "meal_type": "Side",
+  "protein": "",
+  "dietary": [
+    "Vegan",
+    "Vegetarian",
+    "Dairy-Free",
+    "Gluten-Free"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 0,
+  "servings": 4,
+  "is_side": true,
+  "healthy": true,
+  "pairs_with": [
+    "pico-de-gallo"
+  ],
+  "source_name": "",
+  "source_url": "",
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "large ripe mango, diced small"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "ripe avocado, diced"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "red onion, finely diced"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "jalape\u00f1o, seeded and minced"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "fresh cilantro, chopped"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "fresh lime juice"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "lime, zested"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "kosher salt"
+    },
+    {
+      "amount": "0.125",
+      "unit": "tsp",
+      "name": "black pepper"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Dice {0} mango and {1} avocado into roughly equal small pieces (about \u00bd inch). Finely dice {2} red onion and {3} jalape\u00f1o."
+    },
+    {
+      "text": "Combine mango, red onion, jalape\u00f1o, {4} cilantro, {5} lime juice, and the zest of {6} lime in a bowl. Toss gently."
+    },
+    {
+      "text": "Add avocado last and fold in carefully so it stays in chunks rather than turning to mash."
+    },
+    {
+      "text": "Season with {7} salt and {8} black pepper. Taste and adjust lime juice or salt. Serve immediately or within an hour \u2014 avocado oxidizes quickly."
+    }
+  ],
+  "notes": "Add the avocado last and right before serving. If making ahead, prep everything else and fold in the avocado at the last minute. A squeeze of extra lime juice over the top slows oxidation if you need it to sit. Leave the jalape\u00f1o seeds in if you want more heat. No cilantro? Flat-leaf parsley works in a pinch but changes the flavor profile considerably."
+}
