@@ -1,0 +1,171 @@
+{
+  "slug": "jens-three-bean-pumpkin-chili",
+  "title": "Jen's Three-Bean Pumpkin Chili",
+  "description": "A richer, gently spicy slow-cooker chili with kidney, black, and pinto beans, smoky spices, and pumpkin stirred in near the end for body and subtle sweetness.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Beef",
+  "dietary": [
+    "High Fiber"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 480,
+  "servings": 7,
+  "is_side": false,
+  "healthy": false,
+  "pairs_with": [],
+  "source_name": "Jen, adapted from Allrecipes The Ultimate Chili",
+  "source_url": "https://www.allrecipes.com/recipe/14231/the-ultimate-chili/",
+  "ingredients": [
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "lean ground beef"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "medium yellow onion, diced"
+    },
+    {
+      "amount": "4",
+      "unit": "",
+      "name": "garlic cloves, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "jalape\u00f1o, finely minced (remove seeds for milder heat)"
+    },
+    {
+      "amount": "15",
+      "unit": "oz",
+      "name": "dark red kidney beans, drained and rinsed"
+    },
+    {
+      "amount": "15",
+      "unit": "oz",
+      "name": "black beans, drained and rinsed"
+    },
+    {
+      "amount": "15",
+      "unit": "oz",
+      "name": "pinto beans, drained and rinsed"
+    },
+    {
+      "amount": "43.5",
+      "unit": "oz",
+      "name": "Mexican-style stewed tomatoes (3 cans, 14.5 oz each)"
+    },
+    {
+      "amount": "0.75",
+      "unit": "cup",
+      "name": "canned pumpkin puree (not pumpkin pie filling)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "celery stalks, chopped"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "red bell pepper, chopped"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "red wine vinegar"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "red wine"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "Worcestershire sauce"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "kosher salt, plus more to taste"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "black pepper, plus more to taste"
+    },
+    {
+      "amount": "3",
+      "unit": "tbsp",
+      "name": "chili powder"
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "ground cumin"
+    },
+    {
+      "amount": "1.5",
+      "unit": "tsp",
+      "name": "smoked paprika"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "dried oregano"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "ground coriander"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "chipotle chili powder"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "cayenne pepper (up to 0.5 tsp for more heat)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "dried basil"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "unsweetened cocoa powder (optional)"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Heat a large skillet over medium-high heat. Cook {0} ground beef until mostly browned. Drain excess fat if needed."
+    },
+    {
+      "text": "Add {1} onion and {3} jalape\u00f1o to the skillet and cook 4-5 minutes until the onion softens. Add {2} garlic and all dry spices ({16} chili powder, {17} cumin, {18} smoked paprika, {19} oregano, {20} coriander, {21} chipotle chili powder, {22} cayenne, {23} basil, and {24} cocoa powder if using). Stir 30-60 seconds until fragrant."
+    },
+    {
+      "text": "Transfer the beef mixture to the slow cooker. Add {4} kidney beans, {5} black beans, {6} pinto beans, {7} stewed tomatoes, {9} celery, {10} bell pepper, {11} red wine vinegar, and {13} Worcestershire sauce. Stir well. Do not add the pumpkin or wine yet."
+    },
+    {
+      "time_cue": "6-8 hr",
+      "text": "Cook on LOW for 8 hours or HIGH for 6 hours."
+    },
+    {
+      "text": "Pour in {12} red wine during the final 2 hours of cooking."
+    },
+    {
+      "text": "Stir in {8} pumpkin puree about 90 minutes before serving on LOW, or 45-60 minutes before on HIGH. Stir thoroughly so it disappears into the chili and gently thickens the sauce."
+    },
+    {
+      "text": "Taste and adjust with {14} salt and {15} black pepper. For more heat, add extra cayenne or chipotle powder. For more brightness, add another teaspoon of {11} red wine vinegar."
+    }
+  ],
+  "notes": "Kidney beans hold their texture for the classic chili feel, black beans add earthiness, and pinto beans go creamy and help bind the sauce. Use 1/2 cup pumpkin instead of 3/4 for a more subtle effect. Cocoa powder is optional but adds depth without any chocolate flavor. Freezes very well."
+}
