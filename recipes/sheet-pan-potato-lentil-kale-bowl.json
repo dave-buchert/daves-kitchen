@@ -94,8 +94,8 @@
     {
       "id": 12,
       "name": "small potatoes, skin on, halved",
-      "amount": 350,
-      "unit": "g"
+      "amount": 12,
+      "unit": "oz"
     },
     {
       "id": 13,
@@ -106,26 +106,26 @@
     {
       "id": 14,
       "name": "cooked brown lentils (canned, rinsed and patted dry)",
-      "amount": 400,
-      "unit": "g"
+      "amount": 14,
+      "unit": "oz"
     },
     {
       "id": 15,
       "name": "kale, stemmed and finely chopped",
-      "amount": 65,
-      "unit": "g"
+      "amount": 2,
+      "unit": "oz"
     },
     {
       "id": 16,
       "name": "nonfat Greek yogurt, plain",
-      "amount": 175,
-      "unit": "g"
+      "amount": 6,
+      "unit": "oz"
     },
     {
       "id": 17,
       "name": "tahini",
-      "amount": 25,
-      "unit": "g"
+      "amount": 1,
+      "unit": "oz"
     },
     {
       "id": 18,
