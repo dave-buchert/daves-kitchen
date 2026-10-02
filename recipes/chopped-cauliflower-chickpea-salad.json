@@ -1,0 +1,48 @@
+{
+  "slug": "chopped-cauliflower-chickpea-salad",
+  "title": "Chopped Cauliflower & Chickpea Salad with Maple-Curry Vinaigrette",
+  "description": "A crunchy, flavorful salad with cauliflower, chickpeas, currants, and a bold maple-curry dressing. Benefits from a couple hours in the fridge before serving. Add grilled chicken to make it a meal.",
+  "cuisine": "American",
+  "meal_type": "Salad",
+  "protein": "Chickpea",
+  "dietary": [
+    "Vegan",
+    "Gluten-Free",
+    "Dairy-Free",
+    "High Fiber"
+  ],
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 0,
+  "servings": 4,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "source_name": "Every Salad Ever, p. 142",
+  "source_url": null,
+  "ingredients": [
+    { "id": 0, "name": "cauliflower florets, finely chopped", "amount": 3, "unit": "cups" },
+    { "id": 1, "name": "canned no-salt-added chickpeas (19 oz), drained and rinsed", "amount": 1, "unit": "can" },
+    { "id": 2, "name": "grated carrots", "amount": 0.75, "unit": "cup" },
+    { "id": 3, "name": "frozen green peas, thawed", "amount": 0.75, "unit": "cup" },
+    { "id": 4, "name": "green onions, chopped", "amount": 0.5, "unit": "cup" },
+    { "id": 5, "name": "dried currants", "amount": 0.33, "unit": "cup" },
+    { "id": 6, "name": "fresh cilantro, minced", "amount": 0.25, "unit": "cup" },
+    { "id": 7, "name": "sliced almonds", "amount": 0.5, "unit": "cup" },
+    { "id": 8, "name": "light-tasting olive oil", "amount": 0.33, "unit": "cup" },
+    { "id": 9, "name": "apple cider vinegar", "amount": 0.25, "unit": "cup" },
+    { "id": 10, "name": "pure maple syrup", "amount": 2, "unit": "tbsp" },
+    { "id": 11, "name": "Dijon mustard", "amount": 1.5, "unit": "tbsp" },
+    { "id": 12, "name": "curry powder (mild, medium, or hot)", "amount": 2, "unit": "tsp" },
+    { "id": 13, "name": "ground cumin", "amount": 0.5, "unit": "tsp" },
+    { "id": 14, "name": "sea salt", "amount": 0.25, "unit": "tsp" },
+    { "id": 15, "name": "freshly ground black pepper", "amount": 0.25, "unit": "tsp" }
+  ],
+  "instructions": [
+    { "text": "Combine {0} cauliflower, {1} chickpeas, {2} carrots, {3} green peas, {4} green onions, {5} currants, and {6} cilantro in a large bowl. Mix well and set aside." },
+    { "text": "Make the dressing: whisk together {8} olive oil, {9} apple cider vinegar, {10} maple syrup, {11} Dijon mustard, {12} curry powder, {13} cumin, {14} salt, and {15} black pepper in a small bowl until combined." },
+    { "text": "Pour dressing over the salad and mix gently until everything is well coated. Add a few more grinds of black pepper." },
+    { "text": "Cover and refrigerate for at least 2 hours (or up to 1 day) before serving. The flavors improve significantly with marinating time." },
+    { "text": "Just before serving, sprinkle {7} sliced almonds over the top." }
+  ],
+  "notes": "Swap currants for an equal amount of chopped dates if you prefer a sweeter, richer flavor. To make this a full meal, top each serving with a sliced grilled chicken breast. Note: green peas will start to lose their vibrant color the longer the salad sits in the fridge."
+}
