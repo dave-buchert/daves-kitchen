@@ -1,0 +1,87 @@
+{
+  "slug": "butternut-squash-apple-bean-soup",
+  "title": "Butternut Squash-Apple-Bean Soup",
+  "description": "A lightly sweet slow-cooker soup of butternut squash, apple, and white beans, pureed smooth with sage, ginger, and nutmeg.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": null,
+  "dietary": [
+    "Gluten-Free",
+    "High Fiber"
+  ],
+  "prep_time_minutes": 30,
+  "cook_time_minutes": 360,
+  "servings": 6,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "5",
+      "unit": "cup",
+      "name": "butternut squash, roasted and scooped out (or frozen)"
+    },
+    {
+      "amount": "32",
+      "unit": "oz",
+      "name": "broth (vegetable or chicken)"
+    },
+    {
+      "amount": "1.5",
+      "unit": "",
+      "name": "red apple, peeled, cored, and chopped fine"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "sweet onion, minced"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "name": "brown sugar"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sage, minced (or 1/2 tsp ground sage)"
+    },
+    {
+      "amount": "0.25",
+      "unit": "tsp",
+      "name": "ground ginger"
+    },
+    {
+      "amount": "1",
+      "unit": "pinch",
+      "name": "nutmeg"
+    },
+    {
+      "amount": "2",
+      "unit": "15-oz cans",
+      "name": "white beans, drained and rinsed"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "cream (or a non-dairy alternative)"
+    }
+  ],
+  "instructions": [
+    {
+      "time_cue": "T–6.5 hrs",
+      "text": "Prep: if using fresh squash, roast it ahead and scoop out the flesh (frozen squash works too). Peel, core, and finely chop the apple. Mince the sweet onion. Drain and rinse the white beans."
+    },
+    {
+      "time_cue": "T–6 hrs",
+      "text": "Add the squash, broth, apple, onion, brown sugar, sage, ginger, nutmeg, white beans, and cream to the crockpot. Stir to combine. Cook on LOW for 6 hours."
+    },
+    {
+      "time_cue": "T–0",
+      "text": "Puree everything until smooth with an immersion blender, or in batches in a regular blender. Taste and adjust seasoning."
+    }
+  ],
+  "notes": "To roast fresh butternut squash: halve it, scoop out the seeds, and roast cut side down at 400°F until very tender, about 45 to 50 minutes. Scoop out the flesh to measure 5 cups.\n\nHealthier swap: use oat cream or another non-dairy alternative in place of the cream. It keeps the soup creamy and removes most of the saturated fat.\n\nProtein boost: the soup is light on protein as written (roughly 10g per serving). Top each bowl with a dollop of plain Greek yogurt, or stir in shredded chicken.",
+  "source_name": "Sandy Simpson",
+  "source_url": null
+}
