@@ -1,7 +1,7 @@
 {
   "slug": "garlic-lemon-chicken-green-beans-mashed-potatoes",
-  "title": "Garlic Lemon Chicken with Green Beans and Mashed Potatoes",
-  "description": "Skin-on chicken thighs roasted in a garlic, lemon, and chili marinade, served with lemon garlic green beans and a lightened potato mash.",
+  "title": "Garlic Lemon Chicken with Green Beans and Sweet Potato Mash",
+  "description": "Skin-on chicken thighs roasted in a garlic, lemon, and chili marinade, served with lemon garlic green beans and a lightened sweet potato mash.",
   "cuisine": "American",
   "meal_type": "Dinner",
   "protein": "Chicken",
@@ -87,9 +87,9 @@
       "name": "lemon, juiced (green beans)"
     },
     {
-      "amount": "1.5",
+      "amount": "1.3",
       "unit": "lb",
-      "name": "Yukon Gold potatoes, peeled and chopped (mash)"
+      "name": "sweet potatoes, peeled and chopped (mash)"
     },
     {
       "amount": "0.25",
@@ -104,7 +104,7 @@
     {
       "amount": "0.25",
       "unit": "cup",
-      "name": "reserved potato cooking water (mash)"
+      "name": "reserved cooking water (mash)"
     },
     {
       "amount": "1",
@@ -127,11 +127,11 @@
     },
     {
       "time_cue": "T–35 min",
-      "text": "Put the potatoes in a pot of salted water. Boil 15 to 20 minutes until fork-tender."
+      "text": "Put the sweet potatoes in a pot of salted water. Boil 15 to 20 minutes until fork-tender."
     },
     {
       "time_cue": "T–15 min",
-      "text": "Drain the potatoes, reserving 1/2 cup of the water. Off the heat, mash with the yogurt, olive oil, and enough potato water to get smooth. Season with salt and pepper."
+      "text": "Drain the sweet potatoes, reserving 1/2 cup of the water. Off the heat, mash with the yogurt, olive oil, and enough cooking water to get smooth. Season with salt and pepper."
     },
     {
       "time_cue": "T–10 min",
@@ -142,7 +142,7 @@
       "text": "Rest the chicken 5 minutes. Peel off the skin before eating and discard it and the pan drippings. Serve over the mash with the beans."
     }
   ],
-  "notes": "Peeling the skin and leaving out the drippings removes most of the saturated fat. The original used about 40g of butter between the beans and mash, which the olive oil and yogurt replace.\n\nIf the chicken is dry, rest it longer or spoon a little lemon juice over it. Don't use the drippings.\n\nAdaptation: the original used sweet potato, butter, and milk. This version uses white potatoes, yogurt, and olive oil. The marinade and green bean steps are inferred, since the original caption listed only ingredients and chicken cook times.",
+  "notes": "Peeling the skin and leaving out the drippings removes most of the saturated fat. The original used about 40g of butter between the beans and mash, which the olive oil and yogurt replace.\n\nIf the chicken is dry, rest it longer or spoon a little lemon juice over it. Don't use the drippings.\n\nMash options: sweet potato is the original and the sweetest. Two lower-carb or lower-limit alternatives:\n\nButternut squash: about 12g carbs per 100g raw versus about 20g for sweet potato, so it is the lowest-carb option, and it is on Jen's good list. Use 1.5 lb peeled, cubed squash (about 4 cups). Roast at 400°F for 30 to 35 minutes for the best flavor, or boil 12 to 15 minutes. Drain very well. If it looks watery, return it to the dry pot over low heat for a minute. Mash with the yogurt and olive oil, using less cooking water than the recipe says, since squash is softer.\n\nYukon Gold: on Jen's good list, with a creamier texture and more potassium and vitamin C than sweet potato. The carbs are similar to sweet potato, so don't expect a big glucose benefit. Use 1.5 lb peeled, chopped potatoes and boil 15 to 20 minutes until fork-tender. Mash as written.\n\nAdaptation: the original used sweet potato, butter, and milk. This version swaps the butter and milk for olive oil and yogurt. The marinade and green bean steps are inferred, since the original caption listed only ingredients and chicken cook times.",
   "source_name": "@foodinfivemins on Instagram",
   "source_url": "https://www.instagram.com/foodinfivemins/"
 }
