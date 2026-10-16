@@ -299,6 +299,7 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
       )}
 
       <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: 24 }}>
+        {recipe.healthy && <Badge label="✓ Healthy" color="green" />}
         {recipe.cuisine && <Badge label={recipe.cuisine} color="blue" />}
         {recipe.meal_type && <Badge label={recipe.meal_type} color="slate" />}
         {recipe.protein && <Badge label={recipe.protein} color="coral" />}
