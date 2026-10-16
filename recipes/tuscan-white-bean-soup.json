@@ -1,6 +1,6 @@
 {
   "slug": "tuscan-white-bean-soup",
-  "title": "Crockpot Tuscan White Bean Soup",
+  "title": "Slow Cooker Tuscan White Bean Soup",
   "description": "A hearty slow-cooker soup with Italian sausage, chicken, cannellini beans, Yukon Gold potatoes, kale, and spinach, finished with pecorino romano. Better the next day.",
   "cuisine": "Italian",
   "meal_type": "Dinner",
@@ -110,11 +110,11 @@
   "instructions": [
     {
       "time_cue": "T\u20134.5 hrs",
-      "text": "Brown the sausage: heat olive oil in a skillet over medium-high. Add sausage and cook until browned, breaking it apart. Add shallots, onion, celery, mushrooms, and carrots and cook 4\u20135 minutes until slightly softened. Add red wine and simmer 30\u201360 seconds, scraping the pan. Transfer everything to the crockpot. (You can skip browning and add everything directly, but it improves flavor significantly.)"
+      "text": "Brown the sausage: heat olive oil in a skillet over medium-high. Add sausage and cook until browned, breaking it apart. Add shallots, onion, celery, mushrooms, and carrots and cook 4\u20135 minutes until slightly softened. Add red wine and simmer 30\u201360 seconds, scraping the pan. Transfer everything to the slow cooker. (You can skip browning and add everything directly, but it improves flavor significantly.)"
     },
     {
       "time_cue": "T\u20134 hrs",
-      "text": "Build the crockpot: add cubed raw chicken, chicken stock, cannellini beans, diced tomatoes with juice, potatoes, Herbs de Provence, and black pepper. Stir to combine."
+      "text": "Build the slow cooker: add cubed raw chicken, chicken stock, cannellini beans, diced tomatoes with juice, potatoes, Herbs de Provence, and black pepper. Stir to combine."
     },
     {
       "time_cue": "T\u20134 hrs",
@@ -122,7 +122,7 @@
     },
     {
       "time_cue": "T\u20131 hr",
-      "text": "Optional thickening: scoop out 1\u20132 cups of beans and broth, mash or blend, and stir back into the crockpot for a slightly thicker, richer soup."
+      "text": "Optional thickening: scoop out 1\u20132 cups of beans and broth, mash or blend, and stir back into the slow cooker for a slightly thicker, richer soup."
     },
     {
       "time_cue": "T\u201345 min",
