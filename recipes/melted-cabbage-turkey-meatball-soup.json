@@ -1,0 +1,195 @@
+{
+  "slug": "melted-cabbage-turkey-meatball-soup",
+  "title": "Melted Cabbage Turkey Meatball Soup",
+  "description": "A cabbage and tomato soup with small spiced turkey meatballs, simmered low and slow and finished with cilantro and lemon.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Turkey",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 30,
+  "cook_time_minutes": 120,
+  "servings": 6,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "ingredients": [
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "green cabbage, chopped (soup)"
+    },
+    {
+      "amount": "1.5",
+      "unit": "",
+      "name": "shallots, chopped (soup)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "yellow onion, chopped (soup)"
+    },
+    {
+      "amount": "3",
+      "unit": "",
+      "name": "medium tomatoes (soup)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "garlic cloves, grated (soup)"
+    },
+    {
+      "amount": "2",
+      "unit": "tbsp",
+      "name": "tomato paste (soup)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt (soup)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin (soup)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "turmeric (soup)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "paprika (soup)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder (soup)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper (soup)"
+    },
+    {
+      "amount": "4",
+      "unit": "cup",
+      "name": "bone broth"
+    },
+    {
+      "amount": "0.25",
+      "unit": "cup",
+      "name": "cilantro, chopped"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "lemon, juiced"
+    },
+    {
+      "amount": "1",
+      "unit": "lb",
+      "name": "ground turkey, 93% lean, at room temperature"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "salt (meatballs)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "cumin (meatballs)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "turmeric (meatballs)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "sweet paprika (meatballs)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "garlic powder (meatballs)"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "name": "black pepper (meatballs)"
+    },
+    {
+      "amount": "2",
+      "unit": "",
+      "name": "garlic cloves, grated (meatballs)"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "name": "small tomato, grated on the wide holes of a box grater (meatballs)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "",
+      "name": "shallot, grated on the small holes of a box grater (meatballs)"
+    },
+    {
+      "amount": "0.5",
+      "unit": "tsp",
+      "name": "baking soda (meatballs)"
+    },
+    {
+      "amount": "2",
+      "unit": "tsp",
+      "name": "avocado oil"
+    },
+    {
+      "amount": "0.5",
+      "unit": "cup",
+      "name": "water, for deglazing"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Put the chopped cabbage, shallots, and onion in a large bowl and set aside until the meatballs are done."
+    },
+    {
+      "text": "Make the meatballs: combine the turkey, salt, cumin, turmeric, sweet paprika, garlic powder, black pepper, grated garlic, grated tomato, grated shallot, and baking soda in a bowl. Mix gently with your hands, just until combined. Try not to overwork it."
+    },
+    {
+      "text": "Roll the mixture into 1/2-inch balls and set them on a plate."
+    },
+    {
+      "text": "Heat the avocado oil in a large Dutch oven over medium-high (induction level 6 to 7). Add half the meatballs so they sear and don't steam. Cook about 1 minute, turning once a crust forms. Remove to a plate and repeat with the other half."
+    },
+    {
+      "text": "Add the bowl of cabbage, shallot, and onion to the pot and keep the heat at medium-high. Scrape the brown bits off the bottom and stir. Cook 3 minutes, then cover and cook a few more minutes. Uncover and deglaze with the water, scraping up all the flavor from the bottom."
+    },
+    {
+      "text": "Grate the 3 tomatoes on the wide holes of a box grater into a small bowl. Add the grated garlic and tomato paste to the bowl."
+    },
+    {
+      "text": "Add the tomato mixture to the pot. Stir in the salt, cumin, turmeric, paprika, garlic powder, and black pepper, then pour in the bone broth. Return the meatballs to the pot and stir so they are fully submerged."
+    },
+    {
+      "time_cue": "T\u20131.5 hrs",
+      "text": "Cover and cook at a low simmer for 1.5 hours (large Le Creuset, induction level 4)."
+    },
+    {
+      "time_cue": "T\u20130",
+      "text": "Just before serving, stir in the cilantro and lemon juice. Taste and adjust the seasoning."
+    }
+  ],
+  "notes": "Adapted from Melissa Ben-Ishay's Melted Cabbage Meatball Soup, which uses ground beef. Ground turkey replaces the beef here.\n\nTip from the original: start with cold meat if you can. It warms to room temperature as you roll the meatballs, which makes them easier to shape and sear.\n\nThe original does not list servings, so 6 is an estimate. The avocado oil appears in her directions but not her ingredient list.",
+  "source_name": "Melissa Ben-Ishay, Baked by Melissa (@bakedbymelissa on Instagram)",
+  "source_url": "https://www.bakedbymelissa.com/blogs/recipes/melted-cabbage-meatball-soup"
+}
