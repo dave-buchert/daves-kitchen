@@ -4,7 +4,7 @@
   "description": "A lightly sweet slow-cooker soup of butternut squash, apple, and white beans, pureed smooth with sage, ginger, and nutmeg.",
   "cuisine": "American",
   "meal_type": "Dinner",
-  "protein": null,
+  "protein": "None",
   "dietary": [
     "Gluten-Free",
     "High Fiber"
