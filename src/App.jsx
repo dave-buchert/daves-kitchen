@@ -265,17 +265,54 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
     return () => window.history.pushState({}, "", "/");
   }, [recipe.slug]);
 
+  const [shareLabel, setShareLabel] = useState("Share");
+
+  const handleShare = async () => {
+    const url = `${window.location.origin}/recipe/${recipe.slug}`;
+    if (navigator.share) {
+      try {
+        await navigator.share({ title: recipe.title, url });
+      } catch (e) {
+        if (e.name !== "AbortError") {
+          await navigator.clipboard.writeText(url);
+          setShareLabel("Copied!");
+          setTimeout(() => setShareLabel("Share"), 2000);
+        }
+      }
+    } else {
+      await navigator.clipboard.writeText(url);
+      setShareLabel("Copied!");
+      setTimeout(() => setShareLabel("Share"), 2000);
+    }
+  };
+
   return (
     <div style={{ maxWidth: 720, margin: "0 auto", padding: "32px 24px" }}>
-      <button
-        onClick={onBack}
-        style={{
-          background: "none", border: "1px solid #D3D1C7", borderRadius: 6,
-          padding: "6px 14px", fontSize: 13, color: "#5F5E5A", cursor: "pointer", marginBottom: 24,
-        }}
-      >
-        ← All recipes
-      </button>
+      <div style={{ display: "flex", gap: 8, marginBottom: 24 }}>
+        <button
+          onClick={onBack}
+          style={{
+            background: "none", border: "1px solid #D3D1C7", borderRadius: 6,
+            padding: "6px 14px", fontSize: 13, color: "#5F5E5A", cursor: "pointer",
+          }}
+        >
+          ← All recipes
+        </button>
+        <button
+          onClick={handleShare}
+          style={{
+            background: "none", border: "1px solid #D3D1C7", borderRadius: 6,
+            padding: "6px 14px", fontSize: 13, color: "#5F5E5A", cursor: "pointer",
+            display: "flex", alignItems: "center", gap: 5,
+          }}
+        >
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+            <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+          </svg>
+          {shareLabel}
+        </button>
+      </div>
 
       <div style={{ display: "flex", alignItems: "flex-start", gap: 12, flexWrap: "wrap", marginBottom: 8 }}>
         <h1 style={{ margin: 0, fontSize: 28, fontWeight: 700, color: "#2C2C2A", fontFamily: "Georgia, serif", flex: 1 }}>
