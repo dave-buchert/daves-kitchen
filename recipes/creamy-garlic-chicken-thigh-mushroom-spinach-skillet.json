@@ -10,7 +10,7 @@
     "Dairy-Free",
     "High Protein"
   ],
-  "prep_time_minutes": 15,
+  "prep_time_minutes": 25,
   "cook_time_minutes": 35,
   "servings": 2,
   "is_side": false,
@@ -108,11 +108,21 @@
       "name": "extra virgin olive oil, for finishing",
       "amount": 1,
       "unit": "tsp"
+    },
+    {
+      "id": 15,
+      "name": "baking soda, for softening chickpeas",
+      "amount": 0.3,
+      "unit": "tsp"
     }
   ],
   "instructions": [
     {
-      "text": "Make the chickpea cream: Blend {10} chickpeas with 1/2 cup of the {9} chicken stock, {11} white miso, and {12} lemon juice until completely smooth, 60 to 90 seconds in a high-speed blender. Set aside. Keep the remaining 1/2 cup stock for the pan.",
+      "text": "Soften the chickpeas: Put {10} chickpeas in a small saucepan with {15} baking soda and enough water to cover by an inch. Bring to a boil, then simmer 10 minutes until very soft and the skins start to slip. Drain and rinse well to remove any soapy baking soda taste. Meanwhile, warm 1/2 cup of the {9} chicken stock in the microwave or a second small pan.",
+      "time_cue": "T−10 min"
+    },
+    {
+      "text": "Blend the chickpea cream: While the chickpeas are still warm, blend them with the warm 1/2 cup stock, {11} white miso, and {12} lemon juice until completely smooth, 60 to 90 seconds in a high-speed blender. Set aside. Keep the remaining 1/2 cup stock for the pan.",
       "time_cue": "Prep"
     },
     {
