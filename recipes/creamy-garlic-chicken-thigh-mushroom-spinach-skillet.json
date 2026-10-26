@@ -1,0 +1,141 @@
+{
+  "slug": "creamy-garlic-chicken-thigh-mushroom-spinach-skillet",
+  "title": "Creamy Garlic Chicken Thigh, Mushroom & Spinach Skillet",
+  "description": "One-pan chicken thighs in a garlicky mushroom sauce, made creamy with blended chickpeas instead of heavy cream. About 10g saturated fat for the whole pan.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Chicken",
+  "dietary": [
+    "Gluten-Free",
+    "Dairy-Free",
+    "High Protein"
+  ],
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 35,
+  "servings": 2,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [],
+  "source_name": null,
+  "source_url": null,
+  "ingredients": [
+    {
+      "id": 0,
+      "name": "boneless, skinless chicken thighs",
+      "amount": 1.5,
+      "unit": "lb"
+    },
+    {
+      "id": 1,
+      "name": "kosher salt, divided",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 2,
+      "name": "black pepper",
+      "amount": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": 3,
+      "name": "extra virgin olive oil, for searing",
+      "amount": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": 4,
+      "name": "extra virgin olive oil, for vegetables",
+      "amount": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": 5,
+      "name": "yellow onion, diced",
+      "amount": 0.5,
+      "unit": ""
+    },
+    {
+      "id": 6,
+      "name": "cremini mushrooms, sliced",
+      "amount": 8,
+      "unit": "oz"
+    },
+    {
+      "id": 7,
+      "name": "garlic cloves, minced",
+      "amount": 3,
+      "unit": ""
+    },
+    {
+      "id": 8,
+      "name": "tomato paste",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": 9,
+      "name": "low-sodium chicken stock, divided",
+      "amount": 1,
+      "unit": "cup"
+    },
+    {
+      "id": 10,
+      "name": "canned chickpeas, drained and rinsed (about half a can)",
+      "amount": 0.8,
+      "unit": "cup"
+    },
+    {
+      "id": 11,
+      "name": "white miso",
+      "amount": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": 12,
+      "name": "fresh lemon juice",
+      "amount": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": 13,
+      "name": "fresh baby spinach",
+      "amount": 4,
+      "unit": "cup"
+    },
+    {
+      "id": 14,
+      "name": "extra virgin olive oil, for finishing",
+      "amount": 1,
+      "unit": "tsp"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Make the chickpea cream: Blend {10} chickpeas with 1/2 cup of the {9} chicken stock, {11} white miso, and {12} lemon juice until completely smooth, 60 to 90 seconds in a high-speed blender. Set aside. Keep the remaining 1/2 cup stock for the pan.",
+      "time_cue": "Prep"
+    },
+    {
+      "text": "Season and sear the chicken: Pat {0} chicken thighs dry and season with {1} kosher salt and {2} black pepper (hold back a pinch of salt for the vegetables). Heat {3} olive oil in the Le Creuset on induction level 6. Sear the thighs 5 minutes per side until golden. They don't need to be cooked through. Move to a plate.",
+      "time_cue": "T−10 min"
+    },
+    {
+      "text": "Cook onion and mushrooms: Drop to level 5. Add {4} olive oil, then {5} yellow onion with a pinch of salt. Cook until translucent, 2 to 3 minutes. Add {6} cremini mushrooms and cook until softened and browned, 4 to 5 minutes. Don't stir constantly; let them sit to brown.",
+      "time_cue": "T−8 min"
+    },
+    {
+      "text": "Garlic and tomato paste: Stir in {7} garlic cloves and {8} tomato paste. Cook 1 minute, stirring, until the paste darkens slightly."
+    },
+    {
+      "text": "Deglaze and simmer the chicken: Pour in the reserved 1/2 cup stock and scrape up the browned bits. Return the chicken and any resting juices, nestling the thighs into the pan. Bring to a gentle bubble, then hold at level 4. Simmer partially covered 10 to 12 minutes, until the thighs reach 165°F. The liquid will reduce; that's fine.",
+      "time_cue": "T−11 min"
+    },
+    {
+      "text": "Add the chickpea cream: Drop to level 2 to 3. Stir the chickpea cream into the pan around the chicken until smooth and heated through, about 1 minute. If it's thicker than you want, loosen with a splash of stock or water."
+    },
+    {
+      "text": "Wilt the spinach and finish: Stir in {13} baby spinach in handfuls until wilted, about 2 minutes. Taste and adjust salt and pepper. Drizzle with {14} olive oil just before serving for a silkier finish. Serve immediately; the sauce keeps thickening as it sits."
+    }
+  ],
+  "notes": "Portions: Dave ~57%, Jen ~43%. Dave's share is roughly 80g protein and ~6g saturated fat.\n\nServe over farro, quinoa, or whole wheat pasta to round it out.\n\nLeftovers: the sauce tightens in the fridge, so reheat with a splash of stock. Good lunch candidate since it reheats well."
+}
