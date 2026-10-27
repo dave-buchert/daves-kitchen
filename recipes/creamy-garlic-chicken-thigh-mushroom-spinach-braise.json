@@ -1,7 +1,7 @@
 {
-  "slug": "creamy-garlic-chicken-thigh-mushroom-spinach-skillet",
-  "title": "Creamy Garlic Chicken Thigh, Mushroom & Spinach Skillet",
-  "description": "One-pan chicken thighs in a garlicky mushroom sauce, made creamy with blended chickpeas instead of heavy cream. About 10g saturated fat for the whole pan.",
+  "slug": "creamy-garlic-chicken-thigh-mushroom-spinach-braise",
+  "title": "Creamy Garlic Chicken Thigh & Mushroom Braise",
+  "description": "Chicken thighs braised in a Dutch oven with mushrooms and a garlicky chickpea cream sauce, served over quinoa with wilted spinach. About 10g saturated fat for the whole pan.",
   "cuisine": "American",
   "meal_type": "Dinner",
   "protein": "Chicken",
@@ -120,6 +120,18 @@
       "name": "baking soda, for softening chickpeas",
       "amount": 0.3,
       "unit": "tsp"
+    },
+    {
+      "id": 17,
+      "name": "dry quinoa",
+      "amount": 1,
+      "unit": "cup"
+    },
+    {
+      "id": 18,
+      "name": "water, for quinoa",
+      "amount": 1.5,
+      "unit": "cup"
     }
   ],
   "instructions": [
@@ -132,7 +144,7 @@
       "time_cue": "Prep"
     },
     {
-      "text": "Season and sear the chicken: Pat {0} chicken thighs dry and season with {1} kosher salt and {2} black pepper (hold back a pinch of salt for the vegetables). Heat {3} olive oil in the Le Creuset on induction level 6. Sear the thighs 5 minutes per side until golden. They don't need to be cooked through. Move to a plate.",
+      "text": "Season and sear the chicken: Pat {0} chicken thighs dry and season with {1} kosher salt and {2} black pepper (hold back a pinch of salt for the vegetables). Heat {3} olive oil in the Dutch oven on induction level 6. Sear the thighs 5 minutes per side until golden. They don't need to be cooked through. Move to a plate.",
       "time_cue": "T−10 min"
     },
     {
@@ -143,15 +155,19 @@
       "text": "Garlic and tomato paste: Stir in {7} garlic cloves and {8} tomato paste. Cook 1 minute, stirring, until the paste darkens slightly."
     },
     {
-      "text": "Deglaze and simmer the chicken: Pour in {16} chicken stock and scrape up the browned bits. Return the chicken and any resting juices, nestling the thighs into the pan. Bring to a gentle bubble, then hold at level 4. Simmer partially covered 10 to 12 minutes, until the thighs reach 165°F. The liquid will reduce; that's fine.",
+      "text": "Start the quinoa: Rinse {17} quinoa under cold water, then combine with {18} water in a small saucepan. Bring to a boil, cover, reduce to a low simmer, and cook 15 minutes. Remove from heat and let steam, covered, until the braise is ready.",
+      "time_cue": "T−15 min"
+    },
+    {
+      "text": "Deglaze and braise the chicken: Pour in {16} chicken stock and scrape up the browned bits. Return the chicken and any resting juices, nestling the thighs into the pan. Bring to a gentle bubble, then hold at level 4. Simmer uncovered 10 to 12 minutes, until the thighs reach 165°F. The sauce will be brothy — that's by design.",
       "time_cue": "T−11 min"
     },
     {
       "text": "Add the chickpea cream: Drop to level 2 to 3. Stir the chickpea cream into the pan around the chicken until smooth and heated through, about 1 minute. If it's thicker than you want, loosen with a splash of stock or water."
     },
     {
-      "text": "Wilt the spinach and finish: Stir in {13} baby spinach in handfuls until wilted, about 2 minutes. Taste and adjust salt and pepper. Drizzle with {14} olive oil just before serving for a silkier finish. Serve immediately; the sauce keeps thickening as it sits."
+      "text": "Wilt the spinach and finish: Stir in {13} baby spinach in handfuls until wilted, about 2 minutes. Taste and adjust salt and pepper. Drizzle with {14} olive oil just before serving. Spoon over quinoa and serve immediately; the sauce keeps thickening as it sits."
     }
   ],
-  "notes": "Portions: Dave ~57%, Jen ~43%. Dave's share is roughly 80g protein and ~6g saturated fat.\n\nServe over farro, quinoa, or whole wheat pasta to round it out.\n\nLeftovers: the sauce tightens in the fridge, so reheat with a splash of stock. Good lunch candidate since it reheats well."
+  "notes": "Portions: Dave ~57%, Jen ~43%. Dave's share is roughly 80g protein and ~6g saturated fat.\n\nThe sauce is intentionally brothy — it needs the quinoa to absorb into. Without a starch base it eats like a soup.\n\nLeftovers: the sauce tightens in the fridge, so reheat with a splash of stock. Good lunch candidate since it reheats well."
 }
