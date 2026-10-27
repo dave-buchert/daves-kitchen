@@ -75,8 +75,14 @@
     },
     {
       "id": 9,
-      "name": "low-sodium chicken stock, divided",
-      "amount": 1,
+      "name": "low-sodium chicken stock, for chickpea cream",
+      "amount": 0.5,
+      "unit": "cup"
+    },
+    {
+      "id": 16,
+      "name": "low-sodium chicken stock, for deglazing",
+      "amount": 0.5,
       "unit": "cup"
     },
     {
@@ -118,11 +124,11 @@
   ],
   "instructions": [
     {
-      "text": "Soften the chickpeas: Put {10} chickpeas in a small saucepan with {15} baking soda and enough water to cover by an inch. Bring to a boil, then simmer 10 minutes until very soft and the skins start to slip. Drain and rinse well to remove any soapy baking soda taste. Meanwhile, warm 1/2 cup of the {9} chicken stock in the microwave or a second small pan.",
+      "text": "Soften the chickpeas: Put {10} chickpeas in a small saucepan with {15} baking soda and enough water to cover by an inch. Bring to a boil, then simmer 10 minutes until very soft and the skins start to slip. Drain and rinse well to remove any soapy baking soda taste. Meanwhile, warm {9} chicken stock in the microwave or a second small pan.",
       "time_cue": "T−10 min"
     },
     {
-      "text": "Blend the chickpea cream: While the chickpeas are still warm, blend them with the warm 1/2 cup stock, {11} white miso, and {12} lemon juice until completely smooth, 60 to 90 seconds in a high-speed blender. Set aside. Keep the remaining 1/2 cup stock for the pan.",
+      "text": "Blend the chickpea cream: While the chickpeas are still warm, blend them with the warm stock, {11} white miso, and {12} lemon juice until completely smooth, 60 to 90 seconds in a high-speed blender. Set aside.",
       "time_cue": "Prep"
     },
     {
@@ -137,7 +143,7 @@
       "text": "Garlic and tomato paste: Stir in {7} garlic cloves and {8} tomato paste. Cook 1 minute, stirring, until the paste darkens slightly."
     },
     {
-      "text": "Deglaze and simmer the chicken: Pour in the reserved 1/2 cup stock and scrape up the browned bits. Return the chicken and any resting juices, nestling the thighs into the pan. Bring to a gentle bubble, then hold at level 4. Simmer partially covered 10 to 12 minutes, until the thighs reach 165°F. The liquid will reduce; that's fine.",
+      "text": "Deglaze and simmer the chicken: Pour in {16} chicken stock and scrape up the browned bits. Return the chicken and any resting juices, nestling the thighs into the pan. Bring to a gentle bubble, then hold at level 4. Simmer partially covered 10 to 12 minutes, until the thighs reach 165°F. The liquid will reduce; that's fine.",
       "time_cue": "T−11 min"
     },
     {
