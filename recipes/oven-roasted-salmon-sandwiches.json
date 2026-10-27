@@ -1,0 +1,101 @@
+{
+  "slug": "oven-roasted-salmon-sandwiches",
+  "title": "Oven-Roasted Salmon Sandwiches",
+  "description": "Salmon roasted with ghee under foil, served on toasted whole wheat bread with mayo, pesto, avocado, and bread-and-butter pickles.",
+  "cuisine": "American",
+  "meal_type": "Dinner",
+  "protein": "Salmon",
+  "dietary": [
+    "High Protein"
+  ],
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 10,
+  "servings": 2,
+  "is_side": false,
+  "healthy": true,
+  "pairs_with": [
+    "grilled-asparagus"
+  ],
+  "source_name": null,
+  "source_url": null,
+  "ingredients": [
+    {
+      "id": 0,
+      "name": "salmon fillet",
+      "amount": 9,
+      "unit": "oz"
+    },
+    {
+      "id": 1,
+      "name": "ghee",
+      "amount": 2,
+      "unit": "tsp"
+    },
+    {
+      "id": 2,
+      "name": "kosher salt",
+      "amount": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "id": 3,
+      "name": "black pepper",
+      "amount": 0.25,
+      "unit": "tsp"
+    },
+    {
+      "id": 4,
+      "name": "whole wheat sandwich bread",
+      "amount": 4,
+      "unit": "slices"
+    },
+    {
+      "id": 5,
+      "name": "mayonnaise",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": 6,
+      "name": "prepared pesto",
+      "amount": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": 7,
+      "name": "avocado, sliced",
+      "amount": 1,
+      "unit": ""
+    },
+    {
+      "id": 8,
+      "name": "bread and butter pickles",
+      "amount": 8,
+      "unit": "slices"
+    },
+    {
+      "id": 9,
+      "name": "Trader Joe's sweet and spicy jalapeño slices (optional)",
+      "amount": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "instructions": [
+    {
+      "text": "Heat the oven to 425°F. Place {0} salmon skin side down on a sheet of foil. Dot with {1} ghee and season with {2} salt and {3} pepper. Fold the foil into a sealed packet or crimp the edges into a boat.",
+      "time_cue": "T−15 min"
+    },
+    {
+      "text": "Roast 10 minutes. The salmon is done when it flakes easily with a fork and is opaque through the thickest part. Let it rest in the foil 2 minutes, then break into large chunks.",
+      "time_cue": "T−10 min"
+    },
+    {
+      "text": "Toast {4} bread slices to your liking.",
+      "time_cue": "T−5 min"
+    },
+    {
+      "text": "Spread {5} mayo on one slice and {6} pesto on the other. Layer half the salmon, half of {7} avocado, and {8} pickles on each sandwich. Add {9} jalapeño slices if using. Close and serve immediately."
+    }
+  ],
+  "notes": "Foil boat vs. sealed packet: a boat keeps the salmon moist and produces a little steam; a sealed packet steams more aggressively. Either works at 425°F for 10 minutes for a ~4.5 oz portion.\n\nAvocado: half a ripe avocado per sandwich. If the avocado is very ripe, a light mash on the bread also works.\n\nPairs well with grilled asparagus or any oven-roasted vegetables."
+}
