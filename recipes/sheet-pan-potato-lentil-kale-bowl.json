@@ -118,14 +118,14 @@
     {
       "id": 16,
       "name": "nonfat Greek yogurt, plain",
-      "amount": 6,
-      "unit": "oz"
+      "amount": 0.75,
+      "unit": "cup"
     },
     {
       "id": 17,
       "name": "tahini",
-      "amount": 1,
-      "unit": "oz"
+      "amount": 2,
+      "unit": "tbsp"
     },
     {
       "id": 18,
