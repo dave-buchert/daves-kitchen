@@ -11,6 +11,7 @@
   ],
   "prep_time_minutes": 20,
   "cook_time_minutes": 30,
+  "marinate_time_minutes": 30,
   "servings": 3,
   "is_side": false,
   "healthy": true,

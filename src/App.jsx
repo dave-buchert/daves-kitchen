@@ -190,7 +190,7 @@ function Header({ onHome, searchQuery, setSearchQuery, quote, refreshQuote }) {
 }
 
 function RecipeCard({ recipe, onClick, allRecipes }) {
-  const totalTime = (recipe.prep_time_minutes || 0) + (recipe.cook_time_minutes || 0);
+  const totalTime = (recipe.prep_time_minutes || 0) + (recipe.cook_time_minutes || 0) + (recipe.marinate_time_minutes || 0);
   return (
     <div
       onClick={() => onClick(recipe.slug)}
@@ -217,7 +217,7 @@ function RecipeCard({ recipe, onClick, allRecipes }) {
         </p>
       )}
       <div style={{ display: "flex", gap: 6, flexWrap: "wrap", marginTop: 4 }}>
-        {recipe.meal_type && <Badge label={recipe.meal_type} color="slate" />}
+        {recipe.meal_type && recipe.meal_type !== "Dinner" && <Badge label={recipe.meal_type} color="slate" />}
         {recipe.protein && <Badge label={recipe.protein} color="coral" />}
         {recipe.cuisine && <Badge label={recipe.cuisine} color="blue" />}
         {totalTime > 0 && <Badge label={`${totalTime} min`} color="slate" />}
@@ -338,7 +338,7 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
       <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: 24 }}>
         {recipe.healthy && <Badge label="✓ Healthy" color="green" />}
         {recipe.cuisine && <Badge label={recipe.cuisine} color="blue" />}
-        {recipe.meal_type && <Badge label={recipe.meal_type} color="slate" />}
+        {recipe.meal_type && recipe.meal_type !== "Dinner" && <Badge label={recipe.meal_type} color="slate" />}
         {recipe.protein && <Badge label={recipe.protein} color="coral" />}
         {(recipe.dietary || []).map(d => <Badge key={d} label={d} color="green" />)}
       </div>
@@ -354,6 +354,12 @@ function RecipeDetail({ recipe, onBack, allRecipes, onNavigate }) {
           <div style={{ textAlign: "center" }}>
             <div style={{ fontSize: 20, fontWeight: 600, color: "#993C1D" }}>{recipe.cook_time_minutes}</div>
             <div style={{ fontSize: 12, color: "#888780" }}>min cook</div>
+          </div>
+        )}
+        {recipe.marinate_time_minutes > 0 && (
+          <div style={{ textAlign: "center" }}>
+            <div style={{ fontSize: 20, fontWeight: 600, color: "#993C1D" }}>{recipe.marinate_time_minutes}+</div>
+            <div style={{ fontSize: 12, color: "#888780" }}>min marinate</div>
           </div>
         )}
         <div style={{ textAlign: "center" }}>
@@ -466,7 +472,7 @@ function FilterBar({ filters, setFilters, recipes }) {
   const SECTION_MEAL_TYPES = [];
   const cuisines = [...new Set(recipes.map(r => r.cuisine).filter(Boolean))].sort();
   const mealTypes = [...new Set(recipes.map(r => r.meal_type).filter(Boolean))]
-    .filter(v => !SECTION_MEAL_TYPES.includes(v)).sort();
+    .filter(v => !SECTION_MEAL_TYPES.includes(v) && v !== "Dinner").sort();
   const proteins = [...new Set(recipes.map(r => r.protein).filter(Boolean))].sort();
   const dietaryTags = [...new Set(recipes.flatMap(r => r.dietary || []).filter(Boolean))].sort();
 
@@ -562,12 +568,15 @@ export default function App() {
 
   const SNACK_TYPES = ["Snack", "Appetizer"];
   const SALAD_TYPES = ["Salad"];
+  const SOUP_TYPES = ["Soup"];
   const DESSERT_TYPES = ["Dessert"];
   const DRINK_TYPES = ["Drink"];
+  const SECTION_TYPES = [...SNACK_TYPES, ...SALAD_TYPES, ...SOUP_TYPES, ...DESSERT_TYPES, ...DRINK_TYPES];
   const sort = arr => [...arr].sort((a, b) => a.title.localeCompare(b.title));
-  const mains = sort(filtered.filter(r => !r.is_side && !SNACK_TYPES.includes(r.meal_type) && !SALAD_TYPES.includes(r.meal_type) && !DESSERT_TYPES.includes(r.meal_type) && !DRINK_TYPES.includes(r.meal_type)));
+  const mains = sort(filtered.filter(r => !r.is_side && !SECTION_TYPES.includes(r.meal_type)));
   const sides = sort(filtered.filter(r => r.is_side));
   const salads = sort(filtered.filter(r => !r.is_side && SALAD_TYPES.includes(r.meal_type)));
+  const soups = sort(filtered.filter(r => !r.is_side && SOUP_TYPES.includes(r.meal_type)));
   const snacks = sort(filtered.filter(r => !r.is_side && SNACK_TYPES.includes(r.meal_type)));
   const desserts = sort(filtered.filter(r => !r.is_side && DESSERT_TYPES.includes(r.meal_type)));
   const drinks = sort(filtered.filter(r => DRINK_TYPES.includes(r.meal_type)));
@@ -622,6 +631,16 @@ export default function App() {
                   </h2>
                   <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: 14 }}>
                     {salads.map(r => <RecipeCard key={r.slug} recipe={r} onClick={setCurrentSlug} allRecipes={recipes} />)}
+                  </div>
+                </section>
+              )}
+              {soups.length > 0 && (
+                <section style={{ marginBottom: 40 }}>
+                  <h2 style={{ fontSize: 16, fontWeight: 600, color: "#888780", textTransform: "uppercase", letterSpacing: 1, marginBottom: 16 }}>
+                    Soups & Stews
+                  </h2>
+                  <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: 14 }}>
+                    {soups.map(r => <RecipeCard key={r.slug} recipe={r} onClick={setCurrentSlug} allRecipes={recipes} />)}
                   </div>
                 </section>
               )}
